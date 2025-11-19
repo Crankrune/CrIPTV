@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="Gemini-EPG-Generator">
+  <channel id="jfKfPfyJRdk">
+    <display-name>lofi hip hop radio beats to relax/study to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="jfKfPfyJRdk">
+    <title lang="en">lofi hip hop radio beats to relax/study to</title>
+  </programme>
+  <channel id="28KRPhVzCus">
+    <display-name>lofi hip hop radio beats to sleep/chill to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="28KRPhVzCus">
+    <title lang="en">lofi hip hop radio beats to sleep/chill to</title>
+  </programme>
+  <channel id="4xDzrJKXOOY">
+    <display-name>synthwave radio beats to chill/game to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="4xDzrJKXOOY">
+    <title lang="en">synthwave radio beats to chill/game to</title>
+  </programme>
+  <channel id="sulgD9TQsTk">
+    <display-name>christmas music cozy lofi to work and chill to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="sulgD9TQsTk">
+    <title lang="en">christmas music cozy lofi to work and chill to</title>
+  </programme>
+  <channel id="C4qJeIjNd2U">
+    <display-name>christmas cozy lofi to get festive to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="C4qJeIjNd2U">
+    <title lang="en">christmas cozy lofi to get festive to</title>
+  </programme>
+  <channel id="3GQY80jyysQ">
+    <display-name>Halloween lofi spooky beats to get chills to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="3GQY80jyysQ">
+    <title lang="en">Halloween lofi spooky beats to get chills to</title>
+  </programme>
+  <channel id="E_XmwjgRLz8">
+    <display-name>chill guitar music to study/relax to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="E_XmwjgRLz8">
+    <title lang="en">chill guitar music to study/relax to</title>
+  </programme>
+  <channel id="xORCbIptqcc">
+    <display-name>sleep ambient music relaxing radio to fall asleep to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="xORCbIptqcc">
+    <title lang="en">sleep ambient music relaxing radio to fall asleep to</title>
+  </programme>
+  <channel id="IxPANmjPaek">
+    <display-name>medieval lofi radio beats to scribe manuscripts to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="IxPANmjPaek">
+    <title lang="en">medieval lofi radio beats to scribe manuscripts to</title>
+  </programme>
+  <channel id="P6Segk8cr-c">
+    <display-name>sad lofi radio beats for rainy days</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="P6Segk8cr-c">
+    <title lang="en">sad lofi radio beats for rainy days</title>
+  </programme>
+  <channel id="HuFYqnbVbzY">
+    <display-name>jazz lofi radio beats to chill/study to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="HuFYqnbVbzY">
+    <title lang="en">jazz lofi radio beats to chill/study to</title>
+  </programme>
+  <channel id="-OekvEFm1lo">
+    <display-name>gentle rain ambience cozy sound to chill to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="-OekvEFm1lo">
+    <title lang="en">gentle rain ambience cozy sound to chill to</title>
+  </programme>
+  <channel id="TtkFsfOP9QI">
+    <display-name>peaceful piano radio music to focus/study to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="TtkFsfOP9QI">
+    <title lang="en">peaceful piano radio music to focus/study to</title>
+  </programme>
+  <channel id="Na0w3Mz46GA">
+    <display-name>asian lofi radio beats to relax/study to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="Na0w3Mz46GA">
+    <title lang="en">asian lofi radio beats to relax/study to</title>
+  </programme>
+  <channel id="S_MOd40zlYU">
+    <display-name>dark ambient radio music to escape/dream to</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="S_MOd40zlYU">
+    <title lang="en">dark ambient radio music to escape/dream to</title>
+  </programme>
+  <channel id="7o0SLTjSStw">
+    <display-name>NBC News NOW</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="7o0SLTjSStw">
+    <title lang="en">NBC News NOW</title>
+  </programme>
+  <channel id="4nMfRpesYfw">
+    <display-name>LiveNOW FOX</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="4nMfRpesYfw">
+    <title lang="en">LiveNOW FOX</title>
+  </programme>
+  <channel id="iipR5yUp36o">
+    <display-name>ABC News Live</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="iipR5yUp36o">
+    <title lang="en">ABC News Live</title>
+  </programme>
+  <channel id="i3MZvRKQJNk">
+    <display-name>CBS News</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="i3MZvRKQJNk">
+    <title lang="en">CBS News</title>
+  </programme>
+  <channel id="wt6SIE7BXS8">
+    <display-name>FOX Weather Channel</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="wt6SIE7BXS8">
+    <title lang="en">FOX Weather Channel</title>
+  </programme>
+  <channel id="p7rUqNRXRB0">
+    <display-name>Bluey 24/7</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="p7rUqNRXRB0">
+    <title lang="en">Bluey 24/7</title>
+  </programme>
+  <channel id="qJZ1LEqi3kI">
+    <display-name>Dateline 24/7</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="qJZ1LEqi3kI">
+    <title lang="en">Dateline 24/7</title>
+  </programme>
+  <channel id="Suhrv7OZ9DM">
+    <display-name>Yu-Gi-Oh! Channel 24/7</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="Suhrv7OZ9DM">
+    <title lang="en">Yu-Gi-Oh! Channel 24/7</title>
+  </programme>
+  <channel id="Q05LKyVvjVI">
+    <display-name>Heavy Rain Sounds ASMR 24/7</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="Q05LKyVvjVI">
+    <title lang="en">Heavy Rain Sounds ASMR 24/7</title>
+  </programme>
+  <channel id="y9P4d0c5yOU">
+    <display-name>Rain and Thunder Sounds for Sleeping</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20350101000000 +0000" channel="y9P4d0c5yOU">
+    <title lang="en">Rain and Thunder Sounds for Sleeping</title>
+  </programme>
+</tv>
