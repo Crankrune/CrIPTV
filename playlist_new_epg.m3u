@@ -25,7 +25,7 @@ http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 #EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="America's Voice News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/real-americas-voice-us.png?raw=true" group-title="News",America's Voice News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604
 
-#EXTINF:-1 tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="Cooking",America's Test Kitchen
+#EXTINF:-1 tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="Lifestyle",America's Test Kitchen
 https://livetv-fa.tubi.video/americas-test-kitchen2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entertainment",American Heroes Channel
