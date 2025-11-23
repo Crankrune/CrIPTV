@@ -251,10 +251,10 @@ https://fl1.moveonjoy.com/FOX/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="FOX Business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="News",FOX Business
 https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="WFLX-DT.us_locals1" tvg-name="FOX Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Wflx_3d.png" group-title="Local",FOX Florida
+#EXTINF:-1 tvg-id="WFLX-DT.us_locals1" tvg-name="FOX Florida" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="Local",FOX Florida
 http://nocable.cc:8080/91161088/91161088/121595
 
-#EXTINF:-1 tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-name="FOX Live Now" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX Live Now
+#EXTINF:-1 tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-name="FOX Live Now" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/live-now-fox-us.png" group-title="News",FOX Live Now
 # https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 https://a1xs.vip/300014
 
