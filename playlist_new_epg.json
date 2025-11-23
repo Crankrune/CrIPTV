@@ -3,7 +3,7 @@
     "tvg-id": "WABC-DT.us_locals1",
     "tvg-name": "ABC",
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png",
-    "group-title": "Local",
+    "group-title": "Local;Sports;News",
     "name": "ABC",
     "url": "https://fl1.moveonjoy.com/ABC/index.m3u8",
     "commented_urls": [
@@ -158,7 +158,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "BBC.News.(North.America).HD.us2",
+    "tvg-id": "BBC.NEWS.HD.uk",
     "tvg-name": "BBC World News",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",
     "group-title": "News",
@@ -305,7 +305,7 @@
     "tvg-id": "WCBS-DT.us_locals1",
     "tvg-name": "CBS",
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png",
-    "group-title": "Local",
+    "group-title": "Local;Sports;News",
     "name": "CBS",
     "url": "http://nocable.cc:8080/91161088/91161088/120749",
     "commented_urls": [
@@ -316,7 +316,7 @@
     "tvg-id": "WTSP-DT.us_locals1",
     "tvg-name": "CBS Tampa Bay",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-10-wtsp-us.png?raw=true",
-    "group-title": "News",
+    "group-title": "Local;Sports;News",
     "name": "CBS Tampa Bay",
     "url": "https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22",
     "commented_urls": []
@@ -567,7 +567,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Deal or No Deal",
+    "tvg-id": "plex.tv.Deal.Or.No.Deal.plex",
     "tvg-name": "Deal or No Deal",
     "tvg-logo": "https://i.imgur.com/lZvNXA1.png",
     "group-title": "Entertainment",
@@ -708,7 +708,7 @@
     ]
   },
   {
-    "tvg-id": "FailArmy",
+    "tvg-id": "plex.tv.FailArmy.plex",
     "tvg-name": "FailArmy",
     "tvg-logo": "https://i.imgur.com/VIpQJxL.png",
     "group-title": "Comedy",
@@ -729,7 +729,7 @@
     "tvg-id": "WOFL-DT.us_locals1",
     "tvg-name": "FOX",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-35-wofl-us.png?raw=true",
-    "group-title": "Local",
+    "group-title": "Local;Sports;News",
     "name": "FOX",
     "url": "https://fl1.moveonjoy.com/FOX/index.m3u8",
     "commented_urls": []
@@ -738,7 +738,7 @@
     "tvg-id": "WFLX-DT.us_locals1",
     "tvg-name": "FOX Florida",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-29-wtxf-us.png?raw=true",
-    "group-title": "Local",
+    "group-title": "Local;Sports;News",
     "name": "FOX Florida",
     "url": "http://nocable.cc:8080/91161088/91161088/121595",
     "commented_urls": []
@@ -831,7 +831,7 @@
     ]
   },
   {
-    "tvg-id": "Fox.Sports.501.HD.us2",
+    "tvg-id": "FoxCricket.au",
     "tvg-name": "FOX Sports 501",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-hz-au.png?raw=true",
     "group-title": "Sports",
@@ -840,7 +840,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Fox.Sports.502.HD.us2",
+    "tvg-id": "FoxLeague.au",
     "tvg-name": "FOX Sports 502",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true",
     "group-title": "Sports",
@@ -849,7 +849,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Fox.Sports.503.HD.us2",
+    "tvg-id": "FoxSports503.au",
     "tvg-name": "FOX Sports 503",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true",
     "group-title": "Sports",
@@ -858,7 +858,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Fox.Sports.504.HD.us2",
+    "tvg-id": "FoxFooty.au",
     "tvg-name": "FOX Sports 504",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true",
     "group-title": "Sports",
@@ -867,7 +867,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Fox.Sports.505.HD.us2",
+    "tvg-id": "FoxSports505.au",
     "tvg-name": "FOX Sports 505",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-hz-au.png?raw=true",
     "group-title": "Sports",
@@ -876,7 +876,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Fox.Sports.506.HD.us2",
+    "tvg-id": "FoxSports506.au",
     "tvg-name": "FOX Sports 506",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true",
     "group-title": "Sports",
@@ -885,7 +885,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Fox.Sports.507.HD.us2",
+    "tvg-id": "FoxSportsMore.au",
     "tvg-name": "FOX Sports 507",
     "tvg-logo": "https://i.ibb.co/CK1F69ht/Fox507.png",
     "group-title": "Sports",
@@ -1096,7 +1096,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "",
+    "tvg-id": "InfoWars.DUMMY.us",
     "tvg-name": "InfoWars",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/info-wars-us.png?raw=true",
     "group-title": "News",
@@ -1166,7 +1166,7 @@
     "tvg-id": "KCWE-DT.us_locals1",
     "tvg-name": "CW Kansas City",
     "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KCWE_2024.svg/960px-KCWE_2024.svg.png",
-    "group-title": "Local",
+    "group-title": "Local;Sports;News",
     "name": "CW Kansas City",
     "url": "https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8#7c5565b305430a9bf27c5123086127c81477bd8a1fd0b2fcf239f1174950d809",
     "commented_urls": []
@@ -1271,7 +1271,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "MLB.Network.HD.us2",
+    "tvg-id": "MLB.Baseball.Dummy.us",
     "tvg-name": "MLB 1",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true",
     "group-title": "Sports",
@@ -1280,7 +1280,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "MLB.Network.HD.us2",
+    "tvg-id": "MLB.Baseball.Dummy.us",
     "tvg-name": "MLB 2",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true",
     "group-title": "Sports",
@@ -1289,7 +1289,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "MLB.Network.HD.us2",
+    "tvg-id": "MLB.Baseball.Dummy.us",
     "tvg-name": "MLB 3",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true",
     "group-title": "Sports",
@@ -1381,7 +1381,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Mythbusters.us",
+    "tvg-id": "plex.tv.MythBusters.plex",
     "tvg-name": "Mythbusters",
     "tvg-logo": "https://i.imgur.com/wzzjvcH.png",
     "group-title": "Entertainment",
@@ -1408,7 +1408,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.1.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 1",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1417,7 +1417,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.2.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 2",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1426,7 +1426,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.3.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 3",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1435,7 +1435,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.4.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 4",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1444,7 +1444,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.5.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 5",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1453,7 +1453,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.6.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 6",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1462,7 +1462,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.7.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 7",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1471,7 +1471,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.8.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 8",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1480,7 +1480,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.9.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 9",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1489,7 +1489,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "NBA.League.Pass.10.us2",
+    "tvg-id": "NBA.Dummy.us",
     "tvg-name": "NBA 10",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true",
     "group-title": "Sports",
@@ -1537,7 +1537,7 @@
     "tvg-id": "WFLA-DT.us_locals1",
     "tvg-name": "NBC",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",
-    "group-title": "Local",
+    "group-title": "Local;Sports;News",
     "name": "NBC",
     "url": "https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8",
     "commented_urls": [
@@ -1548,7 +1548,7 @@
     "tvg-id": "NBC.East.Stream.us2",
     "tvg-name": "NBC East",
     "tvg-logo": "https://i.imgur.com/3BUnPYf.png",
-    "group-title": "Local",
+    "group-title": "Local;Sports;News",
     "name": "NBC East",
     "url": "https://a1xs.vip/300015",
     "commented_urls": []
@@ -1566,7 +1566,7 @@
     "tvg-id": "NBC.Chicago.(Live.Stream).us2",
     "tvg-name": "NBC Chicago News",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true",
-    "group-title": "News",
+    "group-title": "Local;News",
     "name": "NBC Chicago News",
     "url": "https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8",
     "commented_urls": []
@@ -1808,6 +1808,18 @@
   },
   {
     "tvg-id": "NFL.RedZone.HD.us2",
+    "tvg-name": "NFL RedZone Alt",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",
+    "group-title": "Sports",
+    "name": "NFL RedZone Alt",
+    "url": "https://a1xs.vip/40000033",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
+      "# http://nocable.cc:8080/91161088/91161088/208830"
+    ]
+  },
+  {
+    "tvg-id": "NFL.RedZone.HD.us2",
     "tvg-name": "NFL RedZone (tvpass)",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",
     "group-title": "Sports",
@@ -1989,7 +2001,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "",
+    "tvg-id": "OAN.Plus",
     "tvg-name": "OAN Plus",
     "tvg-logo": "https://www.oan.plus/images/logos/OAN-Plus.png",
     "group-title": "News",
@@ -2716,7 +2728,7 @@
     "commented_urls": []
   },
   {
-    "tvg-id": "Vice.HD.us2",
+    "tvg-id": "plex.tv.Vice.News.plex",
     "tvg-name": "VICE News",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true",
     "group-title": "News",
@@ -2764,7 +2776,7 @@
     "tvg-id": "WGN-DT.us_locals1",
     "tvg-name": "WGN",
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png",
-    "group-title": "Local",
+    "group-title": "Local;Sports;News",
     "name": "WGN",
     "url": "http://fl1.moveonjoy.com/WGN/index.m3u8",
     "commented_urls": []

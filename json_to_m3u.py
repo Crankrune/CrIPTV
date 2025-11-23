@@ -2,6 +2,7 @@ import json
 import re
 
 from natsort import natsorted
+from ruamel.yaml import YAML
 
 
 def parse_playlist(playlist_content: str) -> list[dict]:
@@ -127,5 +128,25 @@ def json_to_m3u():
         f.write(playlist_content)
 
 
+def write_specific_playlists():
+    yaml = YAML(typ="safe")
+    with open("playlists.yaml", "r") as f:
+        playlists = yaml.load(f)
+
+    with open("playlist_new_epg.json", "r", encoding="utf-8") as f:
+        playlist_data = json.load(f)
+
+    for playlist, data in playlists["playlists"].items():
+        channel_ids = data["ids"]
+        matching_channels = [
+            channel for channel in playlist_data if channel["tvg-id"] in channel_ids
+        ]
+        playlist_content = generate_playlist(matching_channels)
+        with open(f"{playlist}.m3u", "w", encoding="utf-8") as f:
+            f.write(playlist_content)
+
+
 if __name__ == "__main__":
     json_to_m3u()
+    write_specific_playlists()
+    pass
