@@ -11,6 +11,12 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Sports",ACC Network
 http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="Adult.Swim.ca2" tvg-name="Adult Swim East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png" group-title="Entertainment",Adult Swim East
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="Adult.Swim.ca2" tvg-name="Adult Swim West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png" group-title="Entertainment",Adult Swim West
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
 #EXTINF:-1 tvg-id="plex.tv.Always.Funny.plex" tvg-name="AFV" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
@@ -193,6 +199,9 @@ http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
 
 #EXTINF:-1 tvg-id="KCWE-DT.us_locals1" tvg-name="CW Kansas City" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cw/cw-29-kcwe-us.png?raw=true" group-title="Local",CW Kansas City
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8#7c5565b305430a9bf27c5123086127c81477bd8a1fd0b2fcf239f1174950d809
+
+#EXTINF:-1 tvg-id="WTOG-DT.us_locals1" tvg-name="CW Tampa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cw/cw-44-wtog-us.png?raw=true" group-title="Local",CW Tampa
+https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Deal.Or.No.Deal.plex" tvg-name="Deal or No Deal" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Entertainment",Deal or No Deal
 https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
@@ -446,6 +455,7 @@ http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 
 #EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS NOW" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true" group-title="News",MS NOW
 # https://fl1.moveonjoy.com/MSNBC/index.m3u8
+# https://list.iptvcat.com/my_list/s/78eb9ee7492757886b89a5f3106fba9b.m3u8
 https://a1xs.vip/300008
 
 #EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="Entertainment",MSG
@@ -700,6 +710,9 @@ http://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Entertainment",Paramount Network
 http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.Kids.Stream.us2" tvg-name="PBS Kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dash-icon-us.png?raw=true" group-title="Kids",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true" group-title="Sports",PPV 1
 # http://fl1.moveonjoy.com/PPV_1/index.m3u8

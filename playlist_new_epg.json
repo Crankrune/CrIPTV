@@ -30,6 +30,24 @@
     "commented_urls": []
   },
   {
+    "tvg-id": "Adult.Swim.ca2",
+    "tvg-name": "Adult Swim East",
+    "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",
+    "group-title": "Entertainment",
+    "name": "Adult Swim East",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "Adult.Swim.ca2",
+    "tvg-name": "Adult Swim West",
+    "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",
+    "group-title": "Entertainment",
+    "name": "Adult Swim West",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8",
+    "commented_urls": []
+  },
+  {
     "tvg-id": "plex.tv.Always.Funny.plex",
     "tvg-name": "AFV",
     "tvg-logo": "https://i.imgur.com/TOB9vmW.png",
@@ -1172,6 +1190,15 @@
     "commented_urls": []
   },
   {
+    "tvg-id": "WTOG-DT.us_locals1",
+    "tvg-name": "CW Tampa",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cw/cw-44-wtog-us.png?raw=true",
+    "group-title": "Local",
+    "name": "CW Tampa",
+    "url": "https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8",
+    "commented_urls": []
+  },
+  {
     "tvg-id": "Laff.us2",
     "tvg-name": "Laff TV",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",
@@ -1332,7 +1359,8 @@
     "name": "MS NOW",
     "url": "https://a1xs.vip/300008",
     "commented_urls": [
-      "# https://fl1.moveonjoy.com/MSNBC/index.m3u8"
+      "# https://fl1.moveonjoy.com/MSNBC/index.m3u8",
+      "# https://list.iptvcat.com/my_list/s/78eb9ee7492757886b89a5f3106fba9b.m3u8"
     ]
   },
   {
@@ -2070,6 +2098,15 @@
     "group-title": "Entertainment",
     "name": "Paramount Network",
     "url": "http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "PBS.Kids.Stream.us2",
+    "tvg-name": "PBS Kids",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dash-icon-us.png?raw=true",
+    "group-title": "Kids",
+    "name": "PBS Kids",
+    "url": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
     "commented_urls": []
   },
   {

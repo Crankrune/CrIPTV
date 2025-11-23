@@ -89,6 +89,7 @@ https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8#7c5565b305430a9bf27c5123086127c8
 
 #EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS NOW" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true" group-title="News",MS NOW
 # https://fl1.moveonjoy.com/MSNBC/index.m3u8
+# https://list.iptvcat.com/my_list/s/78eb9ee7492757886b89a5f3106fba9b.m3u8
 https://a1xs.vip/300008
 
 #EXTINF:-1 tvg-id="WFLA-DT.us_locals1" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
