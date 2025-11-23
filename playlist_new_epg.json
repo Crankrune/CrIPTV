@@ -3,7 +3,7 @@
     "tvg-id": "WABC-DT.us_locals1",
     "tvg-name": "ABC",
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png",
-    "group-title": "Local;Sports;News",
+    "group-title": "Local",
     "name": "ABC",
     "url": "https://fl1.moveonjoy.com/ABC/index.m3u8",
     "commented_urls": [
@@ -304,8 +304,8 @@
   {
     "tvg-id": "WCBS-DT.us_locals1",
     "tvg-name": "CBS",
-    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png",
-    "group-title": "Local;Sports;News",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-2-wcbs-us.png?raw=true",
+    "group-title": "Local",
     "name": "CBS",
     "url": "http://nocable.cc:8080/91161088/91161088/120749",
     "commented_urls": [
@@ -316,7 +316,7 @@
     "tvg-id": "WTSP-DT.us_locals1",
     "tvg-name": "CBS Tampa Bay",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-10-wtsp-us.png?raw=true",
-    "group-title": "Local;Sports;News",
+    "group-title": "Local",
     "name": "CBS Tampa Bay",
     "url": "https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22",
     "commented_urls": []
@@ -729,7 +729,7 @@
     "tvg-id": "WOFL-DT.us_locals1",
     "tvg-name": "FOX",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-35-wofl-us.png?raw=true",
-    "group-title": "Local;Sports;News",
+    "group-title": "Local",
     "name": "FOX",
     "url": "https://fl1.moveonjoy.com/FOX/index.m3u8",
     "commented_urls": []
@@ -737,8 +737,8 @@
   {
     "tvg-id": "WFLX-DT.us_locals1",
     "tvg-name": "FOX Florida",
-    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-29-wtxf-us.png?raw=true",
-    "group-title": "Local;Sports;News",
+    "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Wflx_3d.png",
+    "group-title": "Local",
     "name": "FOX Florida",
     "url": "http://nocable.cc:8080/91161088/91161088/121595",
     "commented_urls": []
@@ -1165,8 +1165,8 @@
   {
     "tvg-id": "KCWE-DT.us_locals1",
     "tvg-name": "CW Kansas City",
-    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KCWE_2024.svg/960px-KCWE_2024.svg.png",
-    "group-title": "Local;Sports;News",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cw/cw-29-kcwe-us.png?raw=true",
+    "group-title": "Local",
     "name": "CW Kansas City",
     "url": "https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8#7c5565b305430a9bf27c5123086127c81477bd8a1fd0b2fcf239f1174950d809",
     "commented_urls": []
@@ -1327,7 +1327,7 @@
   {
     "tvg-id": "MS.NOW.HD.us2",
     "tvg-name": "MS NOW",
-    "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true",
     "group-title": "News",
     "name": "MS NOW",
     "url": "https://a1xs.vip/300008",
@@ -1537,7 +1537,7 @@
     "tvg-id": "WFLA-DT.us_locals1",
     "tvg-name": "NBC",
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",
-    "group-title": "Local;Sports;News",
+    "group-title": "Local",
     "name": "NBC",
     "url": "https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8",
     "commented_urls": [
@@ -1547,8 +1547,8 @@
   {
     "tvg-id": "NBC.East.Stream.us2",
     "tvg-name": "NBC East",
-    "tvg-logo": "https://i.imgur.com/3BUnPYf.png",
-    "group-title": "Local;Sports;News",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",
+    "group-title": "Local",
     "name": "NBC East",
     "url": "https://a1xs.vip/300015",
     "commented_urls": []
@@ -1565,8 +1565,8 @@
   {
     "tvg-id": "NBC.Chicago.(Live.Stream).us2",
     "tvg-name": "NBC Chicago News",
-    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true",
-    "group-title": "Local;News",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-5-wmaq-us.png?raw=true",
+    "group-title": "Local",
     "name": "NBC Chicago News",
     "url": "https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8",
     "commented_urls": []
@@ -1721,10 +1721,10 @@
   },
   {
     "tvg-id": "NFL.Dummy.us",
-    "tvg-name": "NFl 10",
+    "tvg-name": "NFL 10",
     "tvg-logo": "https://i.imgur.com/OhHxZrE.png",
     "group-title": "Sports",
-    "name": "NFl 10",
+    "name": "NFL 10",
     "url": "http://fl1.moveonjoy.com/NFL_10/index.m3u8",
     "commented_urls": []
   },
@@ -1956,7 +1956,7 @@
   {
     "tvg-id": "Nickelodeon.HD.us2",
     "tvg-name": "Nickelodeon",
-    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true",
     "group-title": "Kids",
     "name": "Nickelodeon",
     "url": "https://a1xs.vip/300030",
@@ -1967,7 +1967,7 @@
   {
     "tvg-id": "Nick.Jr.HD.us2",
     "tvg-name": "Nick Jr",
-    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true",
     "group-title": "Kids",
     "name": "Nick Jr",
     "url": "http://fl1.moveonjoy.com/NICK_JR/index.m3u8",
@@ -2075,7 +2075,7 @@
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
     "tvg-name": "PPV 1",
-    "tvg-logo": "https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true",
     "group-title": "Sports",
     "name": "PPV 1",
     "url": "https://a1xs.vip/ppv1",
@@ -2086,7 +2086,7 @@
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
     "tvg-name": "PPV 2",
-    "tvg-logo": "https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true",
     "group-title": "Sports",
     "name": "PPV 2",
     "url": "https://a1xs.vip/ppv2",
@@ -2097,7 +2097,7 @@
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
     "tvg-name": "PPV 3",
-    "tvg-logo": "https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true",
     "group-title": "Sports",
     "name": "PPV 3",
     "url": "https://a1xs.vip/ppv3",
@@ -2108,7 +2108,7 @@
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
     "tvg-name": "PPV 4",
-    "tvg-logo": "https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true",
     "group-title": "Sports",
     "name": "PPV 4",
     "url": "https://a1xs.vip/ppv4",
@@ -2119,7 +2119,7 @@
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
     "tvg-name": "PPV 5",
-    "tvg-logo": "https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true",
     "group-title": "Sports",
     "name": "PPV 5",
     "url": "https://a1xs.vip/ppv5",
@@ -2130,7 +2130,7 @@
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
     "tvg-name": "PPV 6",
-    "tvg-logo": "https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true",
     "group-title": "Sports",
     "name": "PPV 6",
     "url": "https://a1xs.vip/ppv6",
@@ -2141,7 +2141,7 @@
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
     "tvg-name": "PPV 7",
-    "tvg-logo": "https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true",
     "group-title": "Sports",
     "name": "PPV 7",
     "url": "https://a1xs.vip/ppv7",
@@ -2152,7 +2152,7 @@
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
     "tvg-name": "PPV 8",
-    "tvg-logo": "https://codeberg.org/pigzillaaa/moveonjoy-stremio/raw/branch/main/logos/PPV%206.png",
+    "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true",
     "group-title": "Sports",
     "name": "PPV 8",
     "url": "https://a1xs.vip/ppv8",
@@ -2776,7 +2776,7 @@
     "tvg-id": "WGN-DT.us_locals1",
     "tvg-name": "WGN",
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png",
-    "group-title": "Local;Sports;News",
+    "group-title": "Local",
     "name": "WGN",
     "url": "http://fl1.moveonjoy.com/WGN/index.m3u8",
     "commented_urls": []
