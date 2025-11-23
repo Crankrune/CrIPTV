@@ -2279,6 +2279,15 @@
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
+    "tvg-name": "Sky Sports F1 Alt",
+    "tvg-logo": "https://i.ibb.co/h26bK2Q/sky-f1.png",
+    "group-title": "Sports",
+    "name": "Sky Sports F1 Alt",
+    "url": "http://cord-cutter.net:8080/bn80NG/909467/35244",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "SkySp.F1.HD.uk",
     "tvg-name": "Sky Sports F1 4k",
     "tvg-logo": "https://i.ibb.co/h26bK2Q/sky-f1.png",
     "group-title": "Sports",
