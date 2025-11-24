@@ -11,6 +11,8 @@ on:
 jobs:
   update-playlists:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -32,6 +34,9 @@ jobs:
 
       - name: Run main script
         run: python main.py
+
+      - name: Check for changes
+        run: git status
 
       - name: Commit and push changes
         run: |
