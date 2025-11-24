@@ -84,20 +84,22 @@ def create_epg_from_m3u(
     return dom.toprettyxml(indent="  ")
 
 
-def write_epg():
+def write_youtube_epg_file():
     try:
-        with open("youtube_auto.m3u", "r", encoding="utf-8") as m3u_file:
+        with open(
+            "output/playlists/playlist_youtube.m3u", "r", encoding="utf-8"
+        ) as m3u_file:
             m3u_content = m3u_file.read()
 
         epg_xml = create_epg_from_m3u(m3u_content)
 
-        with open("youtube_auto_epg.xml", "w", encoding="utf-8") as f:
+        with open("output/youtube_epg.xml", "w", encoding="utf-8") as f:
             f.write(epg_xml)
 
         print("EPG successfully generated.")
     except FileNotFoundError:
-        print("Error: youtube_auto.m3u not found.")
+        print("Error: output/playlists/playlist_youtube.m3u not found.")
 
 
 if __name__ == "__main__":
-    write_epg()
+    write_youtube_epg_file()
