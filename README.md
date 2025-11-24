@@ -1,85 +1,62 @@
 # CrIPTV
 
-This project provides a set of Python scripts and configuration files for generating and managing IPTV playlists and Electronic Program Guides (EPG) for various sources, including YouTube streams. The primary goal is to curate and update personalized IPTV channel lists and their corresponding EPG data.
+This project provides a set of Python scripts to generate and manage IPTV playlists (`.m3u`) and Electronic Program Guides (`.xml`). It's designed to be highly configurable and is fully automated using GitHub Actions to ensure your playlists and EPG data are always up-to-date.
 
 ## Project Structure
 
-The project is organized into the following directories and files to ensure clarity and maintainability:
+The project is organized into a clean and maintainable structure that separates data, source code, and generated output:
 
 ```
 .
-├── data/                 # Contains source data files used by the scripts.
-│   ├── epg_links.txt     # (Placeholder for EPG source URLs, if any)
-│   ├── iptv_database.json # Main database for IPTV channels.
-│   └── youtube_channels.json # Configuration for YouTube channels to include.
-├── output/               # Contains all generated output files.
-│   ├── playlists/        # Generated M3U playlist files.
-│   │   ├── playlist_broadcast.m3u
-│   │   ├── playlist_essentials.m3u
+├── .github/
+│   └── workflows/
+│       └── main.yml        # GitHub Actions workflow for automated updates.
+├── data/
+│   ├── iptv_database.json  # Main database for IPTV channels.
+│   ├── youtube_channels.json # Configuration for YouTube channels.
+│   └── epg_links.txt       # (Placeholder for EPG source URLs).
+├── output/
+│   ├── playlists/
 │   │   ├── playlist_iptv.m3u
-│   │   ├── playlist_news.m3u
-│   │   └── playlist_sports.m3u
-│   └── youtube_epg.xml   # Generated EPG for YouTube channels.
-├── .git/                 # Git version control directory.
-├── .gitignore            # Specifies files/directories to ignore in Git.
-├── epg_generator.py      # Script to generate EPG XML files.
-├── main.py               # Main entry point script to orchestrate updates.
-├── m3u_utils.py          # Utility functions for M3U playlist parsing and generation.
-├── playlists.yaml        # Configuration for custom playlist groupings.
-├── update_and_commit.bat # Batch script to run updates and commit changes.
-└── youtube_utils.py      # Utility functions for managing YouTube streams.
+│   │   ├── playlist_broadcast.m3u
+│   │   └── ... (other generated playlists)
+│   └── youtube_epg.xml     # Generated EPG for YouTube channels.
+├── .gitignore
+├── main.py                 # Main script to orchestrate all tasks.
+├── m3u_utils.py            # Utilities for M3U playlist handling.
+├── epg_generator.py        # Script to generate EPG XML files.
+├── youtube_utils.py        # Utilities for handling YouTube streams.
+├── playlists.yaml          # Configuration for custom playlist groupings.
+└── update_and_commit.bat   # (Optional) Batch script for local manual updates.
 ```
+
+## Automation with GitHub Actions
+
+This repository is configured with a GitHub Actions workflow that automatically regenerates the playlists and EPG. The workflow runs on the following triggers:
+
+1.  **On Push**: Every time a change is pushed to the `main` branch.
+2.  **On a Schedule**: Runs daily at midnight UTC to keep stream links and data fresh.
+3.  **Manually**: You can trigger it manually from the "Actions" tab in your GitHub repository.
+
+The workflow automatically commits and pushes any changes to the `output/` directory back to the repository.
 
 ## How to Use
 
-### Prerequisites
-
-Before running the scripts, ensure you have the following installed:
-
-*   **Python 3**: The scripts are written in Python 3.
-*   **`yt-dlp`**: A command-line program to download videos from YouTube and other sites. Ensure it's in your system's PATH or accessible to the scripts.
-*   **Python Libraries**: Install the required Python libraries using pip:
-    ```bash
-    pip install natsort ruamel.yaml
-    ```
-
 ### Configuration
 
-*   **`data/iptv_database.json`**: Edit this file to manage your main IPTV channel list.
-*   **`data/youtube_channels.json`**: Configure the YouTube channels you want to include in your playlist.
-*   **`playlists.yaml`**: Define custom playlist groupings based on `tvg-id` from your `iptv_database.json`.
+To customize your playlists, edit the files in the `data/` directory and the main `playlists.yaml` file:
 
-### Running the Update Process
+*   **`data/iptv_database.json`**: Manage your primary list of IPTV channels here.
+*   **`data/youtube_channels.json`**: Define which YouTube channels you want to include.
+*   **`playlists.yaml`**: Create custom, filtered playlists by specifying which `tvg-id`s to include in each file.
 
-To update all playlists and EPG files, and then commit the changes to your Git repository, simply run the batch script:
+### Using the Generated Playlists and EPG
 
-```bash
-.\update_and_commit.bat
-```
+The generated files are intended to be used with any IPTV player that supports `.m3u` playlists and `XMLTV` EPG formats (e.g., VLC, Kodi, IPTV Smarters, Perfect Player).
 
-This script will:
-1.  Execute `main.py` which orchestrates:
-    *   Reading data from `data/` files.
-    *   Generating and saving M3U playlists to `output/playlists/`.
-    *   Generating and saving the YouTube EPG to `output/youtube_epg.xml`.
-2.  Stage all changes in Git.
-3.  Commit the changes with a default message. (You may want to edit `update_and_commit.bat` to prompt for a custom commit message or review changes before committing.)
-4.  Push the committed changes to your remote Git repository.
+1.  **Find the File URL**: In your GitHub repository, navigate to the `output/` directory, select the desired file (e.g., `playlist_iptv.m3u`), and get its raw URL.
+2.  **Load into Player**:
+    *   **Playlist**: In your IPTV player, find the option to "Add Playlist from URL" (or similar) and paste the raw URL of your `.m3u` file.
+    *   **EPG**: For players that support it, find the option to "Add EPG from URL" and paste the raw URL of the `youtube_epg.xml` file.
 
-## Python Scripts Overview
-
-*   **`main.py`**: The central script that calls functions from other modules to perform the entire update process.
-*   **`m3u_utils.py`**: Contains generic utility functions for parsing and generating M3U playlist content.
-*   **`epg_generator.py`**: Handles the creation of EPG XML data based on M3U playlist content.
-*   **`youtube_utils.py`**: Manages fetching YouTube stream URLs and generating YouTube-specific playlist entries.
-
-## Using the Generated Playlists and EPG
-
-Once you have run the `update_and_commit.bat` script, your generated IPTV playlists (`.m3u` files) and the YouTube EPG (`youtube_epg.xml`) will be located in the `output/` directory.
-
-To use these in an IPTV player (e.g., VLC, Kodi, IPTV Smarters Pro, Perfect Player):
-
-1.  **Load the M3U Playlist**: Most IPTV players will have an option to "Add Playlist," "Load M3U File," or similar. Navigate to the `output/playlists/` directory and select the desired `.m3u` file (e.g., `playlist_iptv.m3u`).
-2.  **Load the EPG (if applicable)**: For players that support external EPG sources (like Kodi or Perfect Player), look for an option to "Add EPG Source" or "Load XMLTV." Point it to `output/youtube_epg.xml`.
-
-    *Note: The exact steps may vary depending on your specific IPTV player. Refer to your player's documentation for detailed instructions.*
+This allows your IPTV player to always pull the latest version of your files directly from your repository.
