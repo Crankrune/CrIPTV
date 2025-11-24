@@ -12,6 +12,7 @@ def generate_iptv_playlists():
     """
     Updates the main playlist and specific playlists from the JSON data.
     """
+    print("Starting IPTV playlist generation...")
     with open("data/iptv_database.json", "r", encoding="utf-8") as f:
         playlist_data = json.load(f)
 
@@ -21,6 +22,7 @@ def generate_iptv_playlists():
     )
     with open("output/playlists/playlist_iptv.m3u", "w", encoding="utf-8") as f:
         f.write(playlist_content)
+    print("Generated output/playlists/playlist_iptv.m3u")
 
     # Update specific playlists from YAML configuration
     yaml = YAML(typ="safe")
@@ -35,6 +37,9 @@ def generate_iptv_playlists():
         playlist_content = generate_playlist(matching_channels)
         with open(f"output/playlists/{playlist}.m3u", "w", encoding="utf-8") as f:
             f.write(playlist_content)
+        print(f"Generated output/playlists/{playlist}.m3u")
+
+    print("Finished IPTV playlist generation.")
 
 
 def generate_youtube_playlist():
