@@ -24,6 +24,19 @@ def generate_iptv_playlists():
         f.write(playlist_content)
     print("Generated output/playlists/playlist_iptv.m3u")
 
+    # Update the working M3U file
+    with open("data/iptv_database_info.json", "r", encoding="utf-8") as f:
+        playlist_data = json.load(f)
+
+    playlist_data = [channel for channel in playlist_data if channel["working"] is True]
+
+    playlist_content = generate_playlist(
+        natsorted(playlist_data, key=lambda ch: ch["name"].casefold())
+    )
+    with open("output/playlists/playlist_iptv_working.m3u", "w", encoding="utf-8") as f:
+        f.write(playlist_content)
+    print("Generated output/playlists/playlist_iptv_working.m3u")
+
     # Update specific playlists from YAML configuration
     yaml = YAML(typ="safe")
     with open("playlists.yaml", "r") as f:
@@ -59,5 +72,5 @@ def generate_youtube_epg():
 
 if __name__ == "__main__":
     generate_iptv_playlists()
-    # generate_youtube_playlist()
-    # generate_youtube_epg()
+    generate_youtube_playlist()
+    generate_youtube_epg()
