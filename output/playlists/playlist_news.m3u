@@ -14,14 +14,8 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8#385214819c093313b759032
 #EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="America's Voice News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/real-americas-voice-us.png?raw=true" group-title="News",America's Voice News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604
 
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News America" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="News",BBC News America
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8#a520437f14111328c7e076b218828bef0a9133387fdc09332f305650eb7c3d5a
-
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC World News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="News",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="News",Bloomberg
-http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="News",C-SPAN
 https://fl1.moveonjoy.com/C-SPAN/index.m3u8
@@ -55,9 +49,6 @@ https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN
 https://fl1.moveonjoy.com/CNN/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="News",CNN International
-http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-
 #EXTINF:-1 tvg-id="WOFL-DT.us_locals1" tvg-name="FOX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-35-wofl-us.png?raw=true" group-title="Local",FOX
 https://fl1.moveonjoy.com/FOX/index.m3u8
 
@@ -74,9 +65,6 @@ https://a1xs.vip/300014
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-framed-us.png?raw=true" group-title="News",FOX News
 # http://nocable.cc:8080/91161088/91161088/1818
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-weather-us.png?raw=true" group-title="News",FOX Weather 1
-https://foxweather-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-weather-us.png?raw=true" group-title="News",FOX Weather 2
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -98,9 +86,6 @@ https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC East
 https://a1xs.vip/300015
-
-#EXTINF:-1 tvg-id="NBC.Chicago.(Live.Stream).us2" tvg-name="NBC Chicago News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-5-wmaq-us.png?raw=true" group-title="Local",NBC Chicago News
-https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCNN.PEACOCK" tvg-name="NBC News Now" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="News",NBC News Now
 # https://a1xs.vip/300013
@@ -127,9 +112,6 @@ https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3
 
 #EXTINF:-1 tvg-id="plex.tv.Vice.News.plex" tvg-name="VICE News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="News",VICE News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="News",Weather Channel
-http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="Local",WGN
 http://fl1.moveonjoy.com/WGN/index.m3u8
