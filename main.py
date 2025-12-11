@@ -3,6 +3,7 @@ import json
 from natsort import natsorted
 from ruamel.yaml import YAML
 
+from check_streams import main as check_streams
 from epg_generator import write_youtube_epg_file
 from m3u_utils import generate_playlist
 from youtube_utils import update_stream_urls, write_playlist
@@ -71,6 +72,7 @@ def generate_youtube_epg():
 
 
 if __name__ == "__main__":
+    check_streams()
     generate_iptv_playlists()
     generate_youtube_playlist()
     generate_youtube_epg()

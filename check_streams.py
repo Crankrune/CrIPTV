@@ -108,5 +108,10 @@ def process_channels(
 # main_stream = get_best_stream(stream_info)
 # print(url, main_stream, sep="\n")
 
-if __name__ == "__main__":
+
+def main():
     process_channels(json_db)
+
+
+if __name__ == "__main__":
+    main()
