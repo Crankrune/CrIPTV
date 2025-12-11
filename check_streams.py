@@ -3,11 +3,8 @@ import subprocess
 from copy import deepcopy
 from typing import Any
 
-from ext_pathlib import Path
-
-json_db: list[dict[str, str | list[str]]] = json.loads(
-    Path("data/iptv_database.json").read_text()
-)
+with open("data/iptv_database_info.json", "r", encoding="utf-8") as f:
+    json_db: list[dict[str, str | list[str]]] = json.load(f)
 
 
 def get_stream_info(url: str) -> dict:
