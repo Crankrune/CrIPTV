@@ -45,7 +45,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Adult.Swim.ca2",
@@ -257,8 +257,8 @@
     "name": "Bar Rescue",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2ee6c0fc88000877d26c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794332-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0960644d-9f55-4a3e-8c16-71ab199dc6b4",
     "commented_urls": [],
-    "width": 1216,
-    "height": 684,
+    "width": 1280,
+    "height": 720,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -287,7 +287,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "beIN.Sports.USA.HD.us2",
@@ -317,7 +317,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "BET.GOSPEL.us2",
@@ -472,8 +472,8 @@
     "name": "Buzzr",
     "url": "https://livetv-fa.tubi.video/buzzr/playlist.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -601,7 +601,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "plex.tv.CBS.Sports.HQ.plex",
@@ -641,7 +641,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Cinemax.HD.us2",
@@ -711,7 +711,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "CNN.HD.us2",
@@ -723,7 +723,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -981,7 +981,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Discovery.Life.Channel.us2",
@@ -996,7 +996,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Science.Channel.HD.us2",
@@ -1051,9 +1051,9 @@
     "name": "Disney XD",
     "url": "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 59.94,
+    "width": 768,
+    "height": 432,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1135,7 +1135,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "ESPNU.HD.us2",
@@ -1227,7 +1227,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "f9c0d48b540a55dcb98b04d2cc8abf25",
@@ -1378,7 +1378,7 @@
     "fps": 0.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxSports503.au",
@@ -1388,12 +1388,12 @@
     "name": "FOX Sports 503",
     "url": "https://a1xs.vip/700003",
     "commented_urls": [],
-    "width": 640,
-    "height": 360,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1403,12 +1403,12 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSports505.au",
@@ -1418,7 +1418,12 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": false
+    "working": true,
+    "width": 1920,
+    "height": 1080,
+    "fps": 50.0,
+    "codec": "h264",
+    "bitrate": null
   },
   {
     "tvg-id": "FoxSports506.au",
@@ -1443,12 +1448,12 @@
     "name": "FOX Sports 507",
     "url": "https://a1xs.vip/700007",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 50.0,
-    "codec": "hevc",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Fuse.HD.us2",
@@ -1523,7 +1528,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Game.Show.Network.HD.us2",
@@ -1555,7 +1560,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Grit.us2",
@@ -1570,7 +1575,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Hallmark.Channel.HD.us2",
@@ -1660,7 +1665,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "HBO.Comedy.HD.us2",
@@ -1692,7 +1697,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "HBO.Zone.HD.us2",
@@ -1707,7 +1712,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Home.and.Garden.Television.HD.us2",
@@ -1905,7 +1910,7 @@
     "height": 720,
     "fps": 29.97,
     "codec": "h264",
-    "bitrate": "52",
+    "bitrate": "49",
     "working": true
   },
   {
@@ -2001,7 +2006,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Me.TV.Network.us2",
@@ -2031,7 +2036,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "MGM+.HD.us2",
@@ -2046,7 +2051,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "MGM+.Drive-In.us2",
@@ -2061,7 +2066,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "MGM+.Hits.HD.us2",
@@ -2076,7 +2081,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "MLB.Baseball.Dummy.us",
@@ -2121,7 +2126,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "MOTORTREND.HD.us2",
@@ -2164,7 +2169,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "MTV.-.Music.Television.HD.us2",
@@ -2264,7 +2269,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "National.Geographic.Wild.HD.us2",
@@ -2424,7 +2429,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "WFLA-DT.us_locals1",
@@ -2466,9 +2471,9 @@
     "name": "NBC Golf",
     "url": "https://fl1.moveonjoy.com/GOLF/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
-    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3176,7 +3181,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "PBS.Kids.Stream.us2",
@@ -3312,9 +3317,9 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/PPV_8/index.m3u8"
     ],
-    "width": 1908,
-    "height": 1068,
-    "fps": 23.98,
+    "width": 1920,
+    "height": 1080,
+    "fps": 24.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3402,7 +3407,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Paramount+.with.Showtime.HD.(Pacific).us2",
@@ -3417,7 +3422,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Showtime.2.HD.us2",
@@ -3477,7 +3482,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp+HD.uk",
@@ -3492,7 +3497,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -3507,7 +3512,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -3517,8 +3522,8 @@
     "name": "Sky Sports F1 Alt",
     "url": "http://cord-cutter.net:8080/bn80NG/909467/35244",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
@@ -3552,7 +3557,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Sony.Movie.Channel.HD.us2",
@@ -3822,7 +3827,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Starz.HD.(Pacific).us2",
@@ -3837,7 +3842,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SundanceTV.HD.us2",
@@ -3867,7 +3872,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "TBS.HD.us2",
@@ -3907,7 +3912,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "TYT.The.Young.Turks.us2",
@@ -4055,7 +4060,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "truTV.HD.us2",
@@ -4139,7 +4144,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "TV.Land.HD.us2",
@@ -4336,6 +4341,6 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   }
 ]
