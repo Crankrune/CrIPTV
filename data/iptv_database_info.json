@@ -257,8 +257,8 @@
     "name": "Bar Rescue",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2ee6c0fc88000877d26c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794332-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0960644d-9f55-4a3e-8c16-71ab199dc6b4",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1216,
+    "height": 684,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -362,7 +362,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "BET.Soul.us2",
@@ -841,8 +841,8 @@
     "name": "Cozi TV",
     "url": "http://fl1.moveonjoy.com/COZI_TV/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1061,7 +1061,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Magnolia.Network.HD.us2",
@@ -1380,10 +1380,10 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 0.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSports503.au",
@@ -1393,12 +1393,12 @@
     "name": "FOX Sports 503",
     "url": "https://a1xs.vip/700003",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 640,
+    "height": 360,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1915,7 +1915,7 @@
     "height": 720,
     "fps": 29.97,
     "codec": "h264",
-    "bitrate": "41",
+    "bitrate": "37",
     "working": true
   },
   {
@@ -2563,8 +2563,8 @@
     "name": "NewsNation",
     "url": "https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -2876,7 +2876,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3141,7 +3141,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Ovation.HD.us2",
@@ -3323,7 +3323,7 @@
       "# http://fl1.moveonjoy.com/PPV_8/index.m3u8"
     ],
     "width": 1920,
-    "height": 1080,
+    "height": 1040,
     "fps": 23.98,
     "codec": "h264",
     "bitrate": null,
@@ -3514,7 +3514,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3529,7 +3529,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3929,7 +3929,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 30.0,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3993,7 +3993,7 @@
     "working": true,
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null
   },
@@ -4010,7 +4010,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "TNT.Sports.3.HD.uk",
@@ -4035,7 +4035,12 @@
     "name": "TNT Sports 4",
     "url": "https://a1xs.vip/2000024",
     "commented_urls": [],
-    "working": false
+    "working": true,
+    "width": 1920,
+    "height": 1080,
+    "fps": 25.0,
+    "codec": "h264",
+    "bitrate": null
   },
   {
     "tvg-id": "5dae084727c8af0009fe40a4",
@@ -4131,7 +4136,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 60.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4201,8 +4206,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
     ],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -4276,8 +4281,8 @@
     "name": "WildNOut",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3730-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a03cd523-0223-48b3-aeb7-ce7ca6c2de02",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1216,
+    "height": 684,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -4301,7 +4306,12 @@
     "name": "WeTV",
     "url": "http://fl1.moveonjoy.com/WE_TV/index.m3u8",
     "commented_urls": [],
-    "working": false
+    "working": true,
+    "width": 1280,
+    "height": 720,
+    "fps": 59.94,
+    "codec": "h264",
+    "bitrate": null
   },
   {
     "tvg-id": "WGN-DT.us_locals1",
