@@ -171,9 +171,17 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 # https://fl1.moveonjoy.com/NBC/index.m3u8
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC East
+https://a1xs.vip/300015
+
 #EXTINF:-1 tvg-id="NBCNN.PEACOCK" tvg-name="NBC News Now" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="News",NBC News Now
 # https://a1xs.vip/300013
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="Sports",NFL Network
+# https://a1xs.vip/40000032
+# http://nocable.cc:8080/91161088/91161088/159117
+http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone Alt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone Alt
 # http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
@@ -220,10 +228,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entertainment",truTV
 http://fl1.moveonjoy.com/TRU_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entertainment",USA Network
-# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-https://a1xs.vip/1100020
 
 #EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="Local",WGN
 http://fl1.moveonjoy.com/WGN/index.m3u8

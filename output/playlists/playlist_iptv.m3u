@@ -612,9 +612,9 @@ http://fl1.moveonjoy.com/NFL_15/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="Sports",NFL Network
-# https://a1xs.vip/40000033
-# http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-http://nocable.cc:8080/91161088/91161088/159117
+# https://a1xs.vip/40000032
+# http://nocable.cc:8080/91161088/91161088/159117
+http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone
 # http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8

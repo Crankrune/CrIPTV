@@ -18,5 +18,8 @@ https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8#7c5565b305430a9bf27c5123086127c8
 # https://fl1.moveonjoy.com/NBC/index.m3u8
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC East
+https://a1xs.vip/300015
+
 #EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="Local",WGN
 http://fl1.moveonjoy.com/WGN/index.m3u8
