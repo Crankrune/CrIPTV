@@ -217,9 +217,9 @@
     "name": "AXS TV",
     "url": "https://fl1.moveonjoy.com/Axs_TV/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
-    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -232,7 +232,12 @@
     "name": "BBC America",
     "url": "http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8",
     "commented_urls": [],
-    "working": false
+    "working": true,
+    "width": 1280,
+    "height": 720,
+    "fps": 59.94,
+    "codec": "h264",
+    "bitrate": null
   },
   {
     "tvg-id": "BBCEarth.us",
@@ -427,8 +432,8 @@
     "name": "Boomerang",
     "url": "https://fl1.moveonjoy.com/BOOMERANG/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 960,
+    "height": 540,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -472,8 +477,8 @@
     "name": "Buzzr",
     "url": "https://livetv-fa.tubi.video/buzzr/playlist.m3u8",
     "commented_urls": [],
-    "width": 640,
-    "height": 360,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -841,8 +846,8 @@
     "name": "Cozi TV",
     "url": "http://fl1.moveonjoy.com/COZI_TV/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 960,
+    "height": 540,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -971,7 +976,12 @@
     "name": "Discovery Channel",
     "url": "https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
     "commented_urls": [],
-    "working": false
+    "working": true,
+    "width": 1280,
+    "height": 720,
+    "fps": 59.94,
+    "codec": "h264",
+    "bitrate": null
   },
   {
     "tvg-id": "Discovery.Family.Channel.HD.us2",
@@ -1061,7 +1071,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Magnolia.Network.HD.us2",
@@ -1413,7 +1423,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxSports505.au",
@@ -1423,7 +1433,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -1440,7 +1450,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 30.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1458,7 +1468,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Fuse.HD.us2",
@@ -1560,8 +1570,8 @@
     "name": "getTV",
     "url": "http://fl1.moveonjoy.com/GET_TV/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 640,
+    "height": 480,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -1625,7 +1635,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Hallmark.Mystery.HD.us2",
@@ -1915,7 +1925,7 @@
     "height": 720,
     "fps": 29.97,
     "codec": "h264",
-    "bitrate": "37",
+    "bitrate": "31",
     "working": true
   },
   {
@@ -2466,7 +2476,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Golf.Channel.HD.us2",
@@ -2879,7 +2889,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "NHL.Hockey.Dummy.us",
@@ -2904,7 +2914,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "NHL.Hockey.Dummy.us",
@@ -2919,7 +2929,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "NHL.Hockey.Dummy.us",
@@ -2934,7 +2944,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "NHL.Hockey.Dummy.us",
@@ -2949,7 +2959,7 @@
     "fps": 60.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "NHL.Hockey.Dummy.us",
@@ -2974,7 +2984,7 @@
     "fps": 60.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "NHL.Hockey.Dummy.us",
@@ -3136,9 +3146,9 @@
     "name": "Outside TV",
     "url": "http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
-    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3323,7 +3333,7 @@
       "# http://fl1.moveonjoy.com/PPV_8/index.m3u8"
     ],
     "width": 1920,
-    "height": 1040,
+    "height": 1080,
     "fps": 23.98,
     "codec": "h264",
     "bitrate": null,
@@ -3990,7 +4000,7 @@
     "name": "TNT Sports 1",
     "url": "https://a1xs.vip/2000021",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -4010,7 +4020,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "TNT.Sports.3.HD.uk",
@@ -4050,8 +4060,8 @@
     "name": "Tosh.0 Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86",
     "commented_urls": [],
-    "width": 1216,
-    "height": 684,
+    "width": 640,
+    "height": 360,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -4110,7 +4120,12 @@
     "name": "TSN 2",
     "url": "http://fl1.moveonjoy.com/TSN_2/index.m3u8",
     "commented_urls": [],
-    "working": false
+    "working": true,
+    "width": 960,
+    "height": 540,
+    "fps": 29.97,
+    "codec": "h264",
+    "bitrate": null
   },
   {
     "tvg-id": "TSN3.ca",
@@ -4122,7 +4137,12 @@
     "commented_urls": [
       "# https://a1xs.vip/6000003"
     ],
-    "working": false
+    "working": true,
+    "width": 960,
+    "height": 540,
+    "fps": 29.97,
+    "codec": "h264",
+    "bitrate": null
   },
   {
     "tvg-id": "TSN4.ca",
@@ -4206,8 +4226,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,

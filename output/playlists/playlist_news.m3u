@@ -77,9 +77,6 @@ https://a1xs.vip/300008
 # https://fl1.moveonjoy.com/NBC/index.m3u8
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 
-#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC East
-https://a1xs.vip/300015
-
 #EXTINF:-1 tvg-id="NBCNN.PEACOCK" tvg-name="NBC News Now" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="News",NBC News Now
 # https://a1xs.vip/300013
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
