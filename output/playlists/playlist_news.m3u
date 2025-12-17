@@ -84,6 +84,9 @@ https://a1xs.vip/300015
 # https://a1xs.vip/300013
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
+#EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="News",Newsmax
 # http://nocable.cc:8080/91161088/91161088/161450
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8

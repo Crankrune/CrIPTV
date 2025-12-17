@@ -362,7 +362,7 @@
     "name": "BET Jams",
     "url": "http://fl1.moveonjoy.com/BET_Jams/index.m3u8",
     "commented_urls": [],
-    "width": 720,
+    "width": 640,
     "height": 480,
     "fps": 29.97,
     "codec": "h264",
@@ -432,8 +432,8 @@
     "name": "Boomerang",
     "url": "https://fl1.moveonjoy.com/BOOMERANG/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 960,
+    "height": 540,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -771,8 +771,8 @@
     "name": "Comedy Central PlutoTV",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1216,
+    "height": 684,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -851,7 +851,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Crave1.HD.ca2",
@@ -1066,9 +1066,9 @@
     "name": "Disney XD",
     "url": "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
     "commented_urls": [],
-    "width": 768,
-    "height": 432,
-    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1373,10 +1373,10 @@
     "name": "FOX Sports 501",
     "url": "https://a1xs.vip/700001",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -1388,10 +1388,10 @@
     "name": "FOX Sports 502",
     "url": "https://a1xs.vip/700002",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -1450,10 +1450,10 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSportsMore.au",
@@ -1463,12 +1463,12 @@
     "name": "FOX Sports 507",
     "url": "https://a1xs.vip/700007",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 50.0,
-    "codec": "hevc",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Fuse.HD.us2",
@@ -1523,7 +1523,7 @@
     "name": "FXX",
     "url": "https://fl1.moveonjoy.com/FXX/index.m3u8",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 960,
     "height": 540,
     "fps": 29.97,
@@ -1697,7 +1697,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "HBO.Drama.us2",
@@ -1925,7 +1925,7 @@
     "height": 720,
     "fps": 29.97,
     "codec": "h264",
-    "bitrate": "27",
+    "bitrate": "25",
     "working": true
   },
   {
@@ -2471,8 +2471,8 @@
     "name": "NBC East",
     "url": "https://a1xs.vip/300015",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -2578,7 +2578,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Newsmax.TV.HD.us2",
@@ -2770,8 +2770,8 @@
     "name": "NFL Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 854,
+    "height": 480,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -3121,8 +3121,8 @@
     "name": "Outdoor Channel",
     "url": "http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 960,
+    "height": 540,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -3332,9 +3332,9 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/PPV_8/index.m3u8"
     ],
-    "width": 1908,
-    "height": 1068,
-    "fps": 23.98,
+    "width": 1920,
+    "height": 1036,
+    "fps": 24.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3392,7 +3392,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "SEC.Network.HD.us2",
@@ -3524,7 +3524,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3587,7 +3587,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Sportsman.Channel.us2",
@@ -3772,7 +3772,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Starz.Edge.HD.us2",
@@ -3985,9 +3985,9 @@
       "# http://fl1.moveonjoy.com/TNT/index.m3u8",
       "# https://a1xs.vip/300001"
     ],
-    "width": 1920,
-    "height": 1080,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4003,8 +4003,8 @@
     "working": true,
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
-    "codec": "h264",
+    "fps": 25.0,
+    "codec": "hevc",
     "bitrate": null
   },
   {
@@ -4020,7 +4020,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "TNT.Sports.3.HD.uk",
@@ -4060,8 +4060,8 @@
     "name": "Tosh.0 Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1216,
+    "height": 684,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -4092,7 +4092,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
