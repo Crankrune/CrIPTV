@@ -18,9 +18,6 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 # https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 
-#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="Lifestyle",America's Test Kitchen
-https://livetv-fa.tubi.video/americas-test-kitchen2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="BIG Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Sports",BIG Ten Network
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
@@ -129,6 +126,9 @@ https://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movies",FX Movies
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Comedy",FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies",HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
 
@@ -137,10 +137,6 @@ http://fl1.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
 https://tvpass.org/live/IFCEast/hd
-
-#EXTINF:-1 tvg-id="plex.tv.ION.plex" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="Entertainment",ION
-# http://fl1.moveonjoy.com/ION_TV/index.m3u8
-https://livetv-fa.tubi.video/ion/playlist.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-plus-us.png" group-title="Entertainment",ION Plus
 # http://fl1.moveonjoy.com/ION_Plus/index.m3u8
