@@ -126,11 +126,17 @@ https://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movies",FX Movies
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Comedy",FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies",HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/hbo2-pl.png?raw=true" group-title="Movies",HBO2
 http://fl1.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
+https://tvpass.org/live/IFCEast/hd
 
 #EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-plus-us.png" group-title="Entertainment",ION Plus
 # http://fl1.moveonjoy.com/ION_Plus/index.m3u8
@@ -169,11 +175,6 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 # https://a1xs.vip/40000032
 # http://nocable.cc:8080/91161088/91161088/159117
 http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone Alt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone Alt
-# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-# http://nocable.cc:8080/91161088/91161088/208830
-https://a1xs.vip/40000033
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone (tvpass)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone (tvpass)
 https://tvpass.org/live/NFLRedZone/hd

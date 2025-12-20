@@ -151,6 +151,9 @@ https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" group-title="Documentary",Court TV
 https://fl1.moveonjoy.com/COURT_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="Cozi.TV.us2" tvg-name="Cozi TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" group-title="Entertainment",Cozi TV
+http://fl1.moveonjoy.com/COZI_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="Crave1.HD.ca2" tvg-name="Crave 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movies",Crave 1
 http://fl1.moveonjoy.com/CRAVE_1/index.m3u8
 
@@ -240,6 +243,9 @@ http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="FOX Sports 501" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 501
 https://a1xs.vip/700001
 
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 502
+https://a1xs.vip/700002
+
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
 
@@ -270,6 +276,9 @@ https://fl1.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movies",FX Movies
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Comedy",FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Entertainment",FYI FHD
 http://fl1.moveonjoy.com/FYI/index.m3u8
@@ -323,6 +332,9 @@ http://fl1.moveonjoy.com/HSN/index.m3u8
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentary",ID (Investigation Discovery)
 http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
+https://tvpass.org/live/IFCEast/hd
 
 #EXTINF:-1 tvg-id="InfoWars.DUMMY.us" tvg-name="InfoWars" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/info-wars-us.png?raw=true" group-title="News",InfoWars
 https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8
@@ -452,11 +464,6 @@ http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone (tvpass)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone (tvpass)
 https://tvpass.org/live/NFLRedZone/hd
 
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone Alt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone Alt
-# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-# http://nocable.cc:8080/91161088/91161088/208830
-https://a1xs.vip/40000033
-
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="Kids",Nick Jr
 http://fl1.moveonjoy.com/NICK_JR/index.m3u8
 
@@ -533,9 +540,6 @@ http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movies",Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1
-https://a1xs.vip/2000005
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4k" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4k
 https://a1xs.vip/2000016
