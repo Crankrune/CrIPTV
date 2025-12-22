@@ -74,7 +74,7 @@ def generate_full_iptv_playlist():
                 seen_channel_urls.add(channel["url"])
 
             for commented_url in channel["commented_urls"]:
-                url = re.sub("^#\s*", "", commented_url)
+                url = re.sub(r"^#\s*", "", commented_url)
                 if url not in seen_channel_urls:
                     urls.append(url)
                     seen_channel_urls.add(url)

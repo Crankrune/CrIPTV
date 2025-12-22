@@ -325,9 +325,9 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-2-wcbs-us.png?raw=true",
     "group-title": "Local",
     "name": "CBS",
-    "url": "http://nocable.cc:8080/91161088/91161088/120749",
+    "url": "https://fl1.moveonjoy.com/CBS/index.m3u8",
     "commented_urls": [
-      "# https://fl1.moveonjoy.com/CBS/index.m3u8"
+      "# http://nocable.cc:8080/91161088/91161088/120749"
     ]
   },
   {
@@ -758,8 +758,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",
     "group-title": "Local",
     "name": "FOX Florida",
-    "url": "http://nocable.cc:8080/91161088/91161088/121595",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/121595",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/121595"
+    ]
   },
   {
     "tvg-id": "Fox.Business.HD.us2",
@@ -1634,8 +1636,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-hz-us.png?raw=true",
     "group-title": "Sports",
     "name": "NBC Sports Philadelphia",
-    "url": "http://nocable.cc:8080/91161088/91161088/20943",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/20943",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/20943"
+    ]
   },
   {
     "tvg-id": "NewsNation.us2",
@@ -1828,10 +1832,11 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",
     "group-title": "Sports",
     "name": "NFL RedZone",
-    "url": "http://nocable.cc:8080/91161088/91161088/208830",
+    "url": "http://cord-cutter.net:8080/30550113/30550113/208830",
     "commented_urls": [
       "# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
-      "# https://a1xs.vip/40000033"
+      "# https://a1xs.vip/40000033",
+      "# http://nocable.cc:8080/91161088/91161088/208830"
     ]
   },
   {
@@ -1843,7 +1848,8 @@
     "url": "https://a1xs.vip/40000033",
     "commented_urls": [
       "# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
-      "# http://nocable.cc:8080/91161088/91161088/208830"
+      "# http://nocable.cc:8080/91161088/91161088/208830",
+      "# http://cord-cutter.net:8080/30550113/30550113/208830"
     ]
   },
   {
@@ -2239,8 +2245,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "SEC Network",
-    "url": "http://nocable.cc:8080/91161088/91161088/17608",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/17608",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/17608"
+    ]
   },
   {
     "tvg-id": "Paramount+.with.Showtime.HD.us2",
@@ -2374,8 +2382,10 @@
     "tvg-logo": "https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png",
     "group-title": "Sports",
     "name": "Spectrum SportsNet LA Dodgers",
-    "url": "http://nocable.cc:8080/91161088/91161088/31636",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/31636",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/31636"
+    ]
   },
   {
     "tvg-id": "Spectrum.SportsNet.Lakers.HD.us2",
@@ -2383,8 +2393,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "Spectrum SportsNet Lakers",
-    "url": "http://nocable.cc:8080/91161088/91161088/20946",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/20946",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/20946"
+    ]
   },
   {
     "tvg-id": "Sportsnet.360.HD.ca2",
@@ -2392,8 +2404,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "Sportsnet 360",
-    "url": "http://nocable.cc:8080/91161088/91161088/57299",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/57299",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/57299"
+    ]
   },
   {
     "tvg-id": "Sportsnet.East.ca2",
@@ -2401,8 +2415,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "Sportsnet East",
-    "url": "http://nocable.cc:8080/91161088/91161088/57298",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/57298",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/57298"
+    ]
   },
   {
     "tvg-id": "SNY.SportsNet.New.York.HD.us2",
@@ -2410,8 +2426,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "SportsNet New York",
-    "url": "http://nocable.cc:8080/91161088/91161088/20938",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/20938",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/20938"
+    ]
   },
   {
     "tvg-id": "Sportsnet.One.ca2",
@@ -2419,8 +2437,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "Sportsnet One",
-    "url": "http://nocable.cc:8080/91161088/91161088/10247",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/10247",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/10247"
+    ]
   },
   {
     "tvg-id": "Sportsnet.Ontario.HD.ca2",
@@ -2428,8 +2448,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "Sportsnet Ontario",
-    "url": "http://nocable.cc:8080/91161088/91161088/11649",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/11649",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/11649"
+    ]
   },
   {
     "tvg-id": "SportsNet.Pittsburgh.HD.us2",
@@ -2437,8 +2459,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26028_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "SportsNet Pittsburgh",
-    "url": "http://nocable.cc:8080/91161088/91161088/108178",
-    "commented_urls": []
+    "url": "http://cord-cutter.net:8080/30550113/30550113/108178",
+    "commented_urls": [
+      "# http://nocable.cc:8080/91161088/91161088/108178"
+    ]
   },
   {
     "tvg-id": "Start.TV.Network.us2",
