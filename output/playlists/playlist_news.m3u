@@ -17,6 +17,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC World News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="News",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="News",Bloomberg
+http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+
 #EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="News",C-SPAN
 https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
@@ -45,19 +48,12 @@ https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN
 https://fl1.moveonjoy.com/CNN/index.m3u8
 
-#EXTINF:-1 tvg-id="WOFL-DT.us_locals1" tvg-name="FOX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-35-wofl-us.png?raw=true" group-title="Local",FOX
-https://fl1.moveonjoy.com/FOX/index.m3u8
-
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="FOX Business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="News",FOX Business
 https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-name="FOX Live Now" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/live-now-fox-us.png" group-title="News",FOX Live Now
 # https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 https://a1xs.vip/300014
-
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-framed-us.png?raw=true" group-title="News",FOX News
-# http://nocable.cc:8080/91161088/91161088/1818
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-weather-us.png?raw=true" group-title="News",FOX Weather 2
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -99,9 +95,6 @@ https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8#f00aefe25f8ff3f75d53c52e4
 
 #EXTINF:-1 tvg-id="OAN.Plus" tvg-name="OAN Plus" tvg-logo="https://www.oan.plus/images/logos/OAN-Plus.png" group-title="News",OAN Plus
 https://oan-plus-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TYT.The.Young.Turks.us2" tvg-name="The Young Turks" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tyt-us.png?raw=true" group-title="News",The Young Turks
-https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Vice.News.plex" tvg-name="VICE News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="News",VICE News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8

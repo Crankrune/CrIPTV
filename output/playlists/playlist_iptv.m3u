@@ -109,8 +109,8 @@ https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-2-wcbs-us.png?raw=true" group-title="Local",CBS
-# https://fl1.moveonjoy.com/CBS/index.m3u8
-http://nocable.cc:8080/91161088/91161088/120749
+# http://nocable.cc:8080/91161088/91161088/120749
+https://fl1.moveonjoy.com/CBS/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="News",CBS News
 # http://fl1.moveonjoy.com/CBS_News/index.m3u8
@@ -261,7 +261,8 @@ https://fl1.moveonjoy.com/FOX/index.m3u8
 https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="WFLX-DT.us_locals1" tvg-name="FOX Florida" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="Local",FOX Florida
-http://nocable.cc:8080/91161088/91161088/121595
+# http://nocable.cc:8080/91161088/91161088/121595
+http://cord-cutter.net:8080/30550113/30550113/121595
 
 #EXTINF:-1 tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-name="FOX Live Now" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/live-now-fox-us.png" group-title="News",FOX Live Now
 # https://livetv-fa.tubi.video/fox-live-now/index.m3u8
@@ -551,7 +552,8 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 https://a1xs.vip/400050
 
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-hz-us.png?raw=true" group-title="Sports",NBC Sports Philadelphia
-http://nocable.cc:8080/91161088/91161088/20943
+# http://nocable.cc:8080/91161088/91161088/20943
+http://cord-cutter.net:8080/30550113/30550113/20943
 
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="News",Newsmax
 # http://nocable.cc:8080/91161088/91161088/161450
@@ -619,7 +621,8 @@ http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone
 # http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 # https://a1xs.vip/40000033
-http://nocable.cc:8080/91161088/91161088/208830
+# http://nocable.cc:8080/91161088/91161088/208830
+http://cord-cutter.net:8080/30550113/30550113/208830
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone (tvpass)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone (tvpass)
 https://tvpass.org/live/NFLRedZone/hd
@@ -627,6 +630,7 @@ https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone Alt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone Alt
 # http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 # http://nocable.cc:8080/91161088/91161088/208830
+# http://cord-cutter.net:8080/30550113/30550113/208830
 https://a1xs.vip/40000033
 
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Sports",NHL 1
@@ -759,7 +763,8 @@ http://fl1.moveonjoy.com/REVOLT/index.m3u8
 https://livetv-fa.tubi.video/wxyz2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="Sports",SEC Network
-http://nocable.cc:8080/91161088/91161088/17608
+# http://nocable.cc:8080/91161088/91161088/17608
+http://cord-cutter.net:8080/30550113/30550113/17608
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movies",Showtime 2
 http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -798,34 +803,42 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 http://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png" group-title="Sports",Spectrum SportsNet LA Dodgers
-http://nocable.cc:8080/91161088/91161088/31636
+# http://nocable.cc:8080/91161088/91161088/31636
+http://cord-cutter.net:8080/30550113/30550113/31636
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum SportsNet Lakers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png" group-title="Sports",Spectrum SportsNet Lakers
-http://nocable.cc:8080/91161088/91161088/20946
+# http://nocable.cc:8080/91161088/91161088/20946
+http://cord-cutter.net:8080/30550113/30550113/20946
 
 #EXTINF:-1 tvg-id="Sportsman.Channel.us2" tvg-name="Sportsman Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" group-title="Sports",Sportsman Channel
 http://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="Sports",Sportsnet 360
-http://nocable.cc:8080/91161088/91161088/57299
+# http://nocable.cc:8080/91161088/91161088/57299
+http://cord-cutter.net:8080/30550113/30550113/57299
 
 #EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" group-title="Sports",Sportsnet East
-http://nocable.cc:8080/91161088/91161088/57298
+# http://nocable.cc:8080/91161088/91161088/57298
+http://cord-cutter.net:8080/30550113/30550113/57298
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" group-title="Sports",SportsNet New York
 http://fl1.moveonjoy.com/SNY/index.m3u8
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="Sports",SportsNet New York
-http://nocable.cc:8080/91161088/91161088/20938
+# http://nocable.cc:8080/91161088/91161088/20938
+http://cord-cutter.net:8080/30550113/30550113/20938
 
 #EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="Sports",Sportsnet One
-http://nocable.cc:8080/91161088/91161088/10247
+# http://nocable.cc:8080/91161088/91161088/10247
+http://cord-cutter.net:8080/30550113/30550113/10247
 
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="Sportsnet Ontario" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png" group-title="Sports",Sportsnet Ontario
-http://nocable.cc:8080/91161088/91161088/11649
+# http://nocable.cc:8080/91161088/91161088/11649
+http://cord-cutter.net:8080/30550113/30550113/11649
 
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-name="SportsNet Pittsburgh" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26028_dark_360w_270h.png" group-title="Sports",SportsNet Pittsburgh
-http://nocable.cc:8080/91161088/91161088/108178
+# http://nocable.cc:8080/91161088/91161088/108178
+http://cord-cutter.net:8080/30550113/30550113/108178
 
 #EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" group-title="Entertainment",Start TV
 http://fl1.moveonjoy.com/Start_Tv/index.m3u8
