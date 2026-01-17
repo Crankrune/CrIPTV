@@ -8,6 +8,9 @@ https://fl1.moveonjoy.com/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Sports",ACC Network
 http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="BIG Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Sports",BIG Ten Network
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="WTSP-DT.us_locals1" tvg-name="CBS Tampa Bay" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-10-wtsp-us.png?raw=true" group-title="Local",CBS Tampa Bay
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 
@@ -35,9 +38,6 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="Sports",FS1
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="FOX Sports 501" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 501
-https://a1xs.vip/700001
-
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 503
 https://a1xs.vip/700003
 
@@ -49,6 +49,9 @@ https://a1xs.vip/700005
 
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 506
 https://a1xs.vip/700006
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="FOX Sports 507" tvg-logo="https://i.ibb.co/CK1F69ht/Fox507.png" group-title="Sports",FOX Sports 507
+https://a1xs.vip/700007
 
 #EXTINF:-1 tvg-id="KCWE-DT.us_locals1" tvg-name="CW Kansas City" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cw/cw-29-kcwe-us.png?raw=true" group-title="Local",CW Kansas City
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8#7c5565b305430a9bf27c5123086127c81477bd8a1fd0b2fcf239f1174950d809
@@ -62,9 +65,6 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="WFLA-DT.us_locals1" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
 # https://fl1.moveonjoy.com/NBC/index.m3u8
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
-
-#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC East
-https://a1xs.vip/300015
 
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Sports",NBC Golf
 https://fl1.moveonjoy.com/GOLF/index.m3u8
@@ -82,6 +82,9 @@ https://a1xs.vip/40000033
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone (tvpass)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="Sports",NFL RedZone (tvpass)
 https://tvpass.org/live/NFLRedZone/hd
+
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sports",Sky Sports+
+https://a1xs.vip/2000012
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1
 https://a1xs.vip/2000005
@@ -118,10 +121,6 @@ http://fl1.moveonjoy.com/TSN/index.m3u8
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="Sports",TSN 4
 # http://fl1.moveonjoy.com/TSN_4/index.m3u8
 https://tvpass.org/live/tsn4/hd
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entertainment",USA Network
-# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-https://a1xs.vip/1100020
 
 #EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="Local",WGN
 http://fl1.moveonjoy.com/WGN/index.m3u8
