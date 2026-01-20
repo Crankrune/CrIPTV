@@ -292,7 +292,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "beIN.Sports.USA.HD.us2",
@@ -334,10 +334,10 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "BET.Her.us2",
@@ -362,7 +362,7 @@
     "name": "BET Jams",
     "url": "http://fl1.moveonjoy.com/BET_Jams/index.m3u8",
     "commented_urls": [],
-    "width": 720,
+    "width": 640,
     "height": 480,
     "fps": 29.97,
     "codec": "h264",
@@ -1076,7 +1076,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Magnolia.Network.HD.us2",
@@ -1140,7 +1140,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "ESPNEWS.HD.us2",
@@ -1383,7 +1383,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxLeague.au",
@@ -1413,7 +1413,7 @@
     "fps": 0.0,
     "codec": "hevc",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -1575,8 +1575,8 @@
     "name": "getTV",
     "url": "http://fl1.moveonjoy.com/GET_TV/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 640,
+    "height": 480,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -1787,9 +1787,9 @@
     "name": "IFC",
     "url": "https://tvpass.org/live/IFCEast/hd",
     "commented_urls": [],
-    "width": 640,
-    "height": 360,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1930,7 +1930,7 @@
     "height": 720,
     "fps": 29.97,
     "codec": "h264",
-    "bitrate": "6",
+    "bitrate": "259",
     "working": true
   },
   {
@@ -1991,9 +1991,9 @@
     "name": "Lifetime Movies Network",
     "url": "http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 59.94,
+    "width": 960,
+    "height": 540,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -2829,8 +2829,8 @@
       "# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
       "# http://nocable.cc:8080/91161088/91161088/208830"
     ],
-    "width": 1024,
-    "height": 576,
+    "width": 640,
+    "height": 360,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -3126,8 +3126,8 @@
     "name": "Outdoor Channel",
     "url": "http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 960,
+    "height": 540,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -3524,7 +3524,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4080,8 +4080,8 @@
     "name": "Tosh.0 Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86",
     "commented_urls": [],
-    "width": 1216,
-    "height": 684,
+    "width": 1280,
+    "height": 720,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -4346,7 +4346,7 @@
     "name": "WeTV",
     "url": "http://fl1.moveonjoy.com/WE_TV/index.m3u8",
     "commented_urls": [],
-    "working": false,
+    "working": true,
     "width": 1280,
     "height": 720,
     "fps": 59.94,
