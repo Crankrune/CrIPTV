@@ -167,7 +167,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Animal.Planet.HD.us2",
@@ -219,7 +219,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -408,9 +408,9 @@
     "url": "http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8",
     "commented_urls": [],
     "working": true,
-    "width": 960,
-    "height": 540,
-    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null
   },
@@ -437,9 +437,9 @@
     "name": "Boomerang",
     "url": "https://fl1.moveonjoy.com/BOOMERANG/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -576,8 +576,8 @@
     "name": "CBS News Chicago",
     "url": "https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 640,
+    "height": 360,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1043,7 +1043,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1413,7 +1413,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1528,7 +1528,7 @@
     "name": "FXX",
     "url": "https://fl1.moveonjoy.com/FXX/index.m3u8",
     "commented_urls": [],
-    "working": false,
+    "working": true,
     "width": 960,
     "height": 540,
     "fps": 29.97,
@@ -1575,8 +1575,8 @@
     "name": "getTV",
     "url": "http://fl1.moveonjoy.com/GET_TV/index.m3u8",
     "commented_urls": [],
-    "width": 640,
-    "height": 480,
+    "width": 1920,
+    "height": 1080,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -1697,9 +1697,9 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1911,8 +1911,8 @@
     "name": "Judge Judy Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92e536f28870007fa9b3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5077-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7542660-a0a4-415c-a70a-fae3199e0e29",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1216,
+    "height": 684,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -1996,7 +1996,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Love.Nature.ca",
@@ -2578,9 +2578,9 @@
     "name": "NewsNation",
     "url": "https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 59.94,
+    "width": 960,
+    "height": 540,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3151,9 +3151,9 @@
     "name": "Outside TV",
     "url": "http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 59.94,
+    "width": 1920,
+    "height": 1080,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3198,7 +3198,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3557,7 +3557,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -4080,8 +4080,8 @@
     "name": "Tosh.0 Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86",
     "commented_urls": [],
-    "width": 1216,
-    "height": 684,
+    "width": 1280,
+    "height": 720,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -4176,7 +4176,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 30.0,
+    "fps": 60.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4248,7 +4248,7 @@
     ],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true

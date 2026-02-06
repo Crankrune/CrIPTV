@@ -34,6 +34,9 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="Sports",FS1
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 503
+https://a1xs.vip/700003
+
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
 
@@ -72,6 +75,9 @@ https://a1xs.vip/2000012
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1
 https://a1xs.vip/2000005
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 Alt" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 Alt
+http://cord-cutter.net:8080/bn80NG/909467/35244
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4k" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4k
 https://a1xs.vip/2000016
