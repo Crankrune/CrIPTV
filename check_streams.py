@@ -21,6 +21,7 @@ def get_stream_info(url: str) -> dict:
             url,
         ],
         stdout=subprocess.PIPE,
+        timeout=30,
     )
     return json.loads(p.stdout.decode("utf-8"))
 

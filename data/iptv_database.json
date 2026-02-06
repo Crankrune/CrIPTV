@@ -1619,7 +1619,9 @@
     "group-title": "Sports",
     "name": "NBC Sports",
     "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8",
-    "commented_urls": []
+    "commented_urls": [
+      "# https://jmp2.uk/stvp-USBD420002446"
+    ]
   },
   {
     "tvg-id": "NBC.Sports.Bay.Area.HD.us2",
@@ -1820,8 +1822,9 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",
     "group-title": "Sports",
     "name": "NFL Network",
-    "url": "http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
+    "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
     "commented_urls": [
+      "# http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
       "# https://a1xs.vip/40000032",
       "# http://nocable.cc:8080/91161088/91161088/159117"
     ]
@@ -1984,8 +1987,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "NHL Network",
-    "url": "http://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Nickelodeon.HD.us2",
