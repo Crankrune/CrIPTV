@@ -35,9 +35,6 @@ http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" group-title="Entertainment",Aspire
 http://fl1.moveonjoy.com/Aspire/index.m3u8
 
-#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/512px-AXS_TV_logo.svg.png" group-title="Entertainment",AXS TV
-https://fl1.moveonjoy.com/Axs_TV/index.m3u8
-
 #EXTINF:-1 tvg-id="BarRescue.us" tvg-name="Bar Rescue" tvg-logo="https://i.imgur.com/WFgWGPb.png" group-title="Entertainment",Bar Rescue
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2ee6c0fc88000877d26c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794332-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0960644d-9f55-4a3e-8c16-71ab199dc6b4
 
@@ -49,6 +46,9 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC World News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="News",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET Gospel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="Entertainment",BET Gospel
+http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entertainment",BET HER
 http://fl1.moveonjoy.com/BET_HER/index.m3u8
@@ -93,9 +93,6 @@ https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/
 #EXTINF:-1 tvg-id="CBS.News.Texas" tvg-name="CBS News Texas" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-dfw-dallas-fort-worth-us.png?raw=true" group-title="News",CBS News Texas
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8#3b4349ce0e8371a721ea449eaf4d33c99fc7a6bf5b8d71d8872f010a00871d56
 
-#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-hq-us.png?raw=true" group-title="Sports",CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sports",CBS Sports Network
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
@@ -119,9 +116,6 @@ https://fl1.moveonjoy.com/CMT/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="News",CNBC
 https://fl1.moveonjoy.com/CNBC/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN
-https://fl1.moveonjoy.com/CNN/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Comedy",Comedy Central
 http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
@@ -210,11 +204,14 @@ https://a1xs.vip/300014
 #EXTINF:-1 tvg-id="plex.tv.FOX.SOUL.plex" tvg-name="FOX Soul" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" group-title="Entertainment",FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="FOX Sports 501" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 501
+https://a1xs.vip/700001
+
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 502
+https://a1xs.vip/700002
+
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
-
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FOX Sports 505" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 505
-https://a1xs.vip/700005
 
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 506
 https://a1xs.vip/700006
@@ -239,9 +236,6 @@ https://fl1.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movies",FX Movies
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
-
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Comedy",FXX
-https://fl1.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Entertainment",FYI FHD
 http://fl1.moveonjoy.com/FYI/index.m3u8
@@ -326,6 +320,9 @@ http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movies Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Movies",Lifetime Movies Network
 http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" group-title="Documentary",Love Nature
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" group-title="Lifestyle",Magnolia
 http://fl1.moveonjoy.com/DIY/index.m3u8
@@ -496,17 +493,11 @@ http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movies",Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1
-https://a1xs.vip/2000005
-
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4k" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4k
 https://a1xs.vip/2000016
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 Alt" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 Alt
 http://cord-cutter.net:8080/bn80NG/909467/35244
-
-#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sports",Sky Sports+
-https://a1xs.vip/2000012
 
 #EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="Documentary",Smithsonian Channel
 http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
@@ -585,10 +576,6 @@ https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" group-title="Entertainment",TVOne
 http://fl1.moveonjoy.com/TV_ONE/index.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entertainment",USA Network
-# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-https://a1xs.vip/1100020
 
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment",VH1
 http://fl1.moveonjoy.com/VH1/index.m3u8

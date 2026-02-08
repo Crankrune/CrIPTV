@@ -222,7 +222,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "BBC.America.HD.us2",
@@ -337,7 +337,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "BET.Her.us2",
@@ -514,7 +514,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -621,7 +621,7 @@
     "name": "CBS Sports HQ",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 854,
     "height": 480,
     "fps": 30.0,
@@ -651,8 +651,8 @@
     "name": "Cinemax",
     "url": "http://fl1.moveonjoy.com/CINEMAX/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -741,7 +741,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "CNN.International.us2",
@@ -776,8 +776,8 @@
     "name": "Comedy Central PlutoTV",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef",
     "commented_urls": [],
-    "width": 1216,
-    "height": 684,
+    "width": 854,
+    "height": 480,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -998,7 +998,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1071,8 +1071,8 @@
     "name": "Disney XD",
     "url": "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
     "commented_urls": [],
-    "width": 768,
-    "height": 432,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1199,7 +1199,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1383,7 +1383,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxLeague.au",
@@ -1398,7 +1398,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSports503.au",
@@ -1423,10 +1423,10 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 640,
-    "height": 480,
-    "fps": 25.0,
-    "codec": "mpeg2video",
+    "width": 1920,
+    "height": 1080,
+    "fps": 50.0,
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -1453,10 +1453,10 @@
     "name": "FOX Sports 506",
     "url": "https://a1xs.vip/700006",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 50.0,
-    "codec": "hevc",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1528,7 +1528,7 @@
     "name": "FXX",
     "url": "https://fl1.moveonjoy.com/FXX/index.m3u8",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 960,
     "height": 540,
     "fps": 29.97,
@@ -1545,7 +1545,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1680,8 +1680,8 @@
     "name": "HBO2",
     "url": "http://fl1.moveonjoy.com/HBO_2/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1697,9 +1697,9 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8"
     ],
-    "width": 1280,
-    "height": 720,
-    "fps": 29.97,
+    "width": 1920,
+    "height": 1080,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1712,8 +1712,8 @@
     "name": "HBO Family",
     "url": "http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1727,8 +1727,8 @@
     "name": "HBO Zone",
     "url": "http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1744,7 +1744,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1802,8 +1802,8 @@
     "name": "ID (Investigation Discovery)",
     "url": "http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1847,8 +1847,8 @@
     "name": "Investigation Discovery",
     "url": "http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1978,7 +1978,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -2006,12 +2006,12 @@
     "name": "Love Nature",
     "url": "http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Marquee.Sports.Network.HD.us2",
@@ -2284,8 +2284,8 @@
     "name": "National Geographic",
     "url": "http://fl1.moveonjoy.com/National_Geographic/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -2299,8 +2299,8 @@
     "name": "Nat Geo Wild",
     "url": "http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -2578,8 +2578,8 @@
     "name": "NewsNation",
     "url": "https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -3198,7 +3198,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3374,7 +3374,7 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3432,8 +3432,8 @@
     "name": "Showtime East",
     "url": "http://fl1.moveonjoy.com/SHOWTIME/index.m3u8",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -3527,7 +3527,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -3542,7 +3542,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -3804,7 +3804,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3842,8 +3842,8 @@
     "name": "Starz Encore Westerns",
     "url": "http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -4080,8 +4080,8 @@
     "name": "Tosh.0 Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1216,
+    "height": 684,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -4176,7 +4176,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 60.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4251,7 +4251,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "VH1.HD.us2",
