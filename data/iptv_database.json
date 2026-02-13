@@ -1,12 +1,22 @@
 [
   {
+    "tvg-id": "A.and.E.HD.East.us2",
+    "tvg-name": "A&E TV",
+    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "A&E TV",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/59056.m3u8",
+    "commented_urls": []
+  },
+  {
     "tvg-id": "WABC-DT.us_locals1",
     "tvg-name": "ABC",
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png",
     "group-title": "Local",
     "name": "ABC",
-    "url": "https://fl1.moveonjoy.com/ABC/index.m3u8",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/120952.m3u8",
     "commented_urls": [
+      "# https://fl1.moveonjoy.com/ABC/index.m3u8",
       "# https://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8",
       "# https://a1xs.vip/300003"
     ]
@@ -26,8 +36,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",
     "group-title": "Sports",
     "name": "ACC Network",
-    "url": "http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/ACC_NETWORK/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Adult.Swim.ca2",
@@ -71,9 +83,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",
     "group-title": "Movies",
     "name": "AMC",
-    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/18925.m3u8",
     "commented_urls": [
-      "# https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8"
+      "# https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8",
+      "# http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8"
     ]
   },
   {
@@ -109,8 +122,10 @@
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",
     "group-title": "Documentary",
     "name": "Animal Planet",
-    "url": "http://fl1.moveonjoy.com/Animal_Planet/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/Animal_Planet/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Antenna.TV.us2",
@@ -127,8 +142,10 @@
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png",
     "group-title": "Entertainment",
     "name": "Aspire",
-    "url": "http://fl1.moveonjoy.com/Aspire/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/Aspire/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/Aspire/index.m3u8"
+    ]
   },
   {
     "tvg-id": "AXS.TV.us2",
@@ -136,8 +153,10 @@
     "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/512px-AXS_TV_logo.svg.png",
     "group-title": "Entertainment",
     "name": "AXS TV",
-    "url": "https://fl1.moveonjoy.com/Axs_TV/index.m3u8",
-    "commented_urls": []
+    "url": "https://fl31.moveonjoy.com/Axs_TV/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/Axs_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "BBC.America.HD.us2",
@@ -145,8 +164,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "BBC America",
-    "url": "http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/BBC_AMERICA/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8"
+    ]
   },
   {
     "tvg-id": "BBCEarth.us",
@@ -181,8 +202,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",
     "group-title": "News",
     "name": "BBC World News",
-    "url": "http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
+    ]
   },
   {
     "tvg-id": "beIN.Sports.USA.HD.us2",
@@ -199,8 +222,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "BET",
-    "url": "http://fl1.moveonjoy.com/BET_EAST/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/13702.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/BET_EAST/index.m3u8"
+    ]
   },
   {
     "tvg-id": "BET.GOSPEL.us2",
@@ -244,8 +269,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",
     "group-title": "Sports",
     "name": "BIG Ten Network",
-    "url": "https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Bloomberg.HD.us2",
@@ -253,8 +280,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true",
     "group-title": "News",
     "name": "Bloomberg",
-    "url": "http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8",
-    "commented_urls": []
+    "url": "https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8"
+    ]
   },
   {
     "tvg-id": "plex.tv.The.Bob.Ross.Channel.plex",
@@ -271,8 +300,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",
     "group-title": "Kids",
     "name": "Boomerang",
-    "url": "https://fl1.moveonjoy.com/BOOMERANG/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/BOOMERANG/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Bounce.TV.us2",
@@ -280,8 +311,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true",
     "group-title": "Entertainment",
     "name": "Bounce",
-    "url": "http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Bravo.HD.us2",
@@ -289,8 +322,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "Bravo",
-    "url": "http://fl1.moveonjoy.com/BRAVO/index.m3u8",
-    "commented_urls": []
+    "url": "http://41.205.93.154/BRAVO/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/BRAVO/index.m3u8"
+    ]
   },
   {
     "tvg-id": "BUZZR.Stream.us2",
@@ -307,8 +342,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png",
     "group-title": "News",
     "name": "C-SPAN",
-    "url": "https://fl1.moveonjoy.com/C-SPAN/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/C-SPAN/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Cartoon.Network.HD.us2",
@@ -316,8 +353,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",
     "group-title": "Kids",
     "name": "Cartoon Network",
-    "url": "https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
+    ]
   },
   {
     "tvg-id": "WCBS-DT.us_locals1",
@@ -325,9 +364,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-2-wcbs-us.png?raw=true",
     "group-title": "Local",
     "name": "CBS",
-    "url": "https://fl1.moveonjoy.com/CBS/index.m3u8",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/120749.m3u8",
     "commented_urls": [
-      "# http://nocable.cc:8080/91161088/91161088/120749"
+      "# http://nocable.cc:8080/91161088/91161088/120749",
+      "# https://fl1.moveonjoy.com/CBS/index.m3u8"
     ]
   },
   {
@@ -374,8 +414,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "CBS Sports Network",
-    "url": "https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_CBS_SPORTS/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+    ]
   },
   {
     "tvg-id": "plex.tv.CBS.Sports.HQ.plex",
@@ -401,8 +443,10 @@
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
     "group-title": "Movies",
     "name": "Cinemax",
-    "url": "http://fl1.moveonjoy.com/CINEMAX/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/CINEMAX/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/CINEMAX/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Cinemax.HD.us2",
@@ -428,8 +472,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true",
     "group-title": "Entertainment",
     "name": "Cleo TV",
-    "url": "http://fl1.moveonjoy.com/Cleo_TV/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/Cleo_TV/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/Cleo_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "CMT.HD.us2",
@@ -437,8 +483,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "CMT",
-    "url": "https://fl1.moveonjoy.com/CMT/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/CMT/index.m3u8"
+    ]
   },
   {
     "tvg-id": "CNBC.HD.us2",
@@ -446,8 +494,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",
     "group-title": "News",
     "name": "CNBC",
-    "url": "https://fl1.moveonjoy.com/CNBC/index.m3u8",
-    "commented_urls": []
+    "url": "http://41.205.93.154:80/CNBC/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/CNBC/index.m3u8"
+    ]
   },
   {
     "tvg-id": "CNN.HD.us2",
@@ -455,8 +505,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",
     "group-title": "News",
     "name": "CNN",
-    "url": "https://fl1.moveonjoy.com/CNN/index.m3u8",
-    "commented_urls": []
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/CNN/index.m3u8"
+    ]
   },
   {
     "tvg-id": "CNN.International.us2",
@@ -473,8 +525,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",
     "group-title": "Comedy",
     "name": "Comedy Central",
-    "url": "http://fl1.moveonjoy.com/Comedy_Central/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/Comedy_Central/index.m3u8"
+    ]
   },
   {
     "tvg-id": "5ca671f215a62078d2ec0abf",
@@ -486,13 +540,24 @@
     "commented_urls": []
   },
   {
+    "tvg-id": "Comedy.TV.HD.us2",
+    "tvg-name": "Comedy TV",
+    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "Comedy TV",
+    "url": "https://fl31.moveonjoy.com/Comedy_TV/index.m3u8",
+    "commented_urls": []
+  },
+  {
     "tvg-id": "Comet.us2",
     "tvg-name": "Comet",
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png",
     "group-title": "Entertainment",
     "name": "Comet",
-    "url": "https://fl1.moveonjoy.com/COMET/index.m3u8",
-    "commented_urls": []
+    "url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/COMET/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Cooking.Channel.HD.us2",
@@ -500,8 +565,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true",
     "group-title": "Lifestyle",
     "name": "Cooking Channel",
-    "url": "https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8"
+    ]
   },
   {
     "tvg-id": "UK:.COPS.be",
@@ -518,8 +585,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true",
     "group-title": "Documentary",
     "name": "Court TV",
-    "url": "https://fl1.moveonjoy.com/COURT_TV/index.m3u8",
-    "commented_urls": []
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/COURT_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Cozi.TV.us2",
@@ -527,8 +596,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true",
     "group-title": "Entertainment",
     "name": "Cozi TV",
-    "url": "http://fl1.moveonjoy.com/COZI_TV/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/11868.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/COZI_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Crave1.HD.ca2",
@@ -572,8 +643,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true",
     "group-title": "Documentary",
     "name": "Crime + Investigation",
-    "url": "http://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
-    "commented_urls": []
+    "url": "https://fl31.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8"
+    ]
   },
   {
     "tvg-id": "CuriosityStream.us2",
@@ -582,6 +655,15 @@
     "group-title": "Documentary",
     "name": "Curiosity Stream",
     "url": "http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "WKCF-DT.us_locals1",
+    "tvg-name": "CW",
+    "tvg-logo": "https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png",
+    "group-title": "TV",
+    "name": "CW",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/120893.m3u8",
     "commented_urls": []
   },
   {
@@ -608,8 +690,10 @@
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",
     "group-title": "Documentary",
     "name": "Discovery Channel",
-    "url": "https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
-    "commented_urls": []
+    "url": "https://fl31.moveonjoy.com/Discovery_Channel/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Discovery.Family.Channel.HD.us2",
@@ -617,8 +701,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",
     "group-title": "Kids",
     "name": "Discover Family Channel",
-    "url": "http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Discovery.Life.Channel.us2",
@@ -626,8 +712,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",
     "group-title": "Documentary",
     "name": "Discovery Life",
-    "url": "http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/DISCOVERY_LIFE/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Science.Channel.HD.us2",
@@ -635,8 +723,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true",
     "group-title": "Documentary",
     "name": "Discovery Science",
-    "url": "http://fl1.moveonjoy.com/Discovery_Science/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/Discovery_Science/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/Discovery_Science/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Disney.Channel.HD.us2",
@@ -644,8 +734,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true",
     "group-title": "Kids",
     "name": "Disney",
-    "url": "https://fl1.moveonjoy.com/DISNEY/index.m3u8",
-    "commented_urls": []
+    "url": "https://fl31.moveonjoy.com/DISNEY/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/DISNEY/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Disney.Junior.HD.us2",
@@ -653,8 +745,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",
     "group-title": "Kids",
     "name": "Disney Jr.",
-    "url": "https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8",
-    "commented_urls": []
+    "url": "https://fl31.moveonjoy.com/DISNEY_JR/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Disney.XD.HD.us2",
@@ -662,8 +756,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",
     "group-title": "Kids",
     "name": "Disney XD",
-    "url": "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Magnolia.Network.HD.us2",
@@ -680,8 +776,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",
     "group-title": "Entertainment",
     "name": "E!",
-    "url": "https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_E/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8"
+    ]
   },
   {
     "tvg-id": "ESPN.HD.us2",
@@ -700,9 +798,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "ESPN 2",
-    "url": "https://a1xs.vip/40000012",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/2210.m3u8",
     "commented_urls": [
-      "# http://fl1.moveonjoy.com/ESPN_2/index.m3u8"
+      "# http://fl1.moveonjoy.com/ESPN_2/index.m3u8",
+      "# https://a1xs.vip/40000012"
     ]
   },
   {
@@ -711,8 +810,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "ESPN News",
-    "url": "https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/ESPN_NEWS/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u81"
+    ]
   },
   {
     "tvg-id": "ESPNU.HD.us2",
@@ -720,9 +821,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "ESPN U",
-    "url": "https://fl1.moveonjoy.com/ESPN_U/index.m3u8",
+    "url": "https://fl31.moveonjoy.com/ESPN_U/index.m3u8",
     "commented_urls": [
-      "# https://a1xs.vip/40000013"
+      "# https://a1xs.vip/40000013",
+      "# https://fl1.moveonjoy.com/ESPN_U/index.m3u8"
     ]
   },
   {
@@ -735,13 +837,123 @@
     "commented_urls": []
   },
   {
+    "tvg-id": "FanDuel.Sports.Network.Detroit.24/7.HDTV.us",
+    "tvg-name": "FDSN Detroit",
+    "tvg-logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54286_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN Detroit",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/20930.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.Florida.HDTV.(Out.of.Market).us",
+    "tvg-name": "FDSN Florida",
+    "tvg-logo": "https://i.gyazo.com/fad701fbaaafe161b13b23ed9b50179b.png",
+    "group-title": "TV",
+    "name": "FDSN Florida",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/46794.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.Midwest.24/7.HDTV.us",
+    "tvg-name": "FDSN Midwest",
+    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11058_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN Midwest",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/66795.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.North.HDTV.us",
+    "tvg-name": "FDSN North",
+    "tvg-logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10977_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN North",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/58827.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.Ohio.(Cleveland).HDTV.us",
+    "tvg-name": "FDSN Ohio",
+    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49691_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN Ohio",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/17752.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us",
+    "tvg-name": "FDSN Oklahoma",
+    "tvg-logo": "https://i.gyazo.com/80ad6fd142cd67f06eef58d9ce5aa72b.png",
+    "group-title": "TV",
+    "name": "FDSN Oklahoma",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/20934.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.SoCal.HDTV.us",
+    "tvg-name": "FDSN SoCal",
+    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16743_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN SoCal",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/221151.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.Southeast.HDTV.(Mont./Birm./Dothan/Mobile.AL).us",
+    "tvg-name": "FDSN Southeast",
+    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20789_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN Southeast",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/2213.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.Southwest.HDTV.24/7.(Main).us",
+    "tvg-name": "FDSN Southwest",
+    "tvg-logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59629_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN Southwest",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/21843.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us",
+    "tvg-name": "FDSN Sun",
+    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61084_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN Sun",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/104917.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.West.HDTV.us",
+    "tvg-name": "FDSN West",
+    "tvg-logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59627_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN West",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8",
+    "commented_urls": []
+  },
+  {
+    "tvg-id": "FanDuel.Sports.Network.Wisconsin.24/7.HDTV.us",
+    "tvg-name": "FDSN Wisconsin",
+    "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16348_dark_360w_270h.png",
+    "group-title": "TV",
+    "name": "FDSN Wisconsin",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8",
+    "commented_urls": []
+  },
+  {
     "tvg-id": "Food.Network.HD.us2",
     "tvg-name": "Food Network",
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",
     "group-title": "Lifestyle",
     "name": "Food Network",
-    "url": "https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8"
+    ]
   },
   {
     "tvg-id": "WOFL-DT.us_locals1",
@@ -769,8 +981,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",
     "group-title": "News",
     "name": "FOX Business",
-    "url": "https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8",
-    "commented_urls": []
+    "url": "https://fl31.moveonjoy.com/FOX_Business_Network/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8"
+    ]
   },
   {
     "tvg-id": "f9c0d48b540a55dcb98b04d2cc8abf25",
@@ -789,9 +1003,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-framed-us.png?raw=true",
     "group-title": "News",
     "name": "FOX News",
-    "url": "https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/1818.m3u8",
     "commented_urls": [
-      "# http://nocable.cc:8080/91161088/91161088/1818"
+      "# http://nocable.cc:8080/91161088/91161088/1818",
+      "# https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8"
     ]
   },
   {
@@ -827,8 +1042,11 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "Freeform",
-    "url": "http://fl1.moveonjoy.com/FREE_FORM/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/13370.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/FREE_FORM/index.m3u8",
+      "# https://a1xs.vip/40000021"
+    ]
   },
   {
     "tvg-id": "FS1.HD.us2",
@@ -836,8 +1054,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true",
     "group-title": "Sports",
     "name": "FS1",
-    "url": "https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/1846.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8"
+    ]
   },
   {
     "tvg-id": "FS2.HD.us2",
@@ -845,9 +1065,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",
     "group-title": "Sports",
     "name": "FS2",
-    "url": "https://a1xs.vip/40000022",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/1847.m3u8",
     "commented_urls": [
-      "# https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8"
+      "# https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8",
+      "# https://a1xs.vip/40000022"
     ]
   },
   {
@@ -919,8 +1140,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "Fuse",
-    "url": "http://fl1.moveonjoy.com/FUSE/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/FUSE/index.m3u8"
+    ]
   },
   {
     "tvg-id": "FX.HD.us2",
@@ -928,8 +1151,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "FX",
-    "url": "https://fl1.moveonjoy.com/FX/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/FX/index.m3u8"
+    ]
   },
   {
     "tvg-id": "FX.Movie.Channel.HD.us2",
@@ -937,8 +1162,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",
     "group-title": "Movies",
     "name": "FX Movies",
-    "url": "http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/10260.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8"
+    ]
   },
   {
     "tvg-id": "FXX.HD.us2",
@@ -946,8 +1173,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",
     "group-title": "Comedy",
     "name": "FXX",
-    "url": "https://fl1.moveonjoy.com/FXX/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/FXX/index.m3u8"
+    ]
   },
   {
     "tvg-id": "FYI.Channel.HD.us2",
@@ -955,8 +1184,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true",
     "group-title": "Entertainment",
     "name": "FYI FHD",
-    "url": "http://fl1.moveonjoy.com/FYI/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/FYI/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/FYI/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Game.Show.Network.HD.us2",
@@ -975,8 +1206,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true",
     "group-title": "Entertainment",
     "name": "getTV",
-    "url": "http://fl1.moveonjoy.com/GET_TV/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/GET_TV/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/GET_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Grit.us2",
@@ -984,8 +1217,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true",
     "group-title": "Entertainment",
     "name": "Grit TV",
-    "url": "http://fl1.moveonjoy.com/GRIT_TV/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/GRIT_TV/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/GRIT_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Hallmark.Channel.HD.us2",
@@ -993,17 +1228,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true",
     "group-title": "Movies",
     "name": "Hallmark",
-    "url": "http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
-    "commented_urls": []
-  },
-  {
-    "tvg-id": "Hallmark.Channel.HD.us2",
-    "tvg-name": "Hallmark Channel",
-    "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",
-    "group-title": "Movies",
-    "name": "Hallmark Channel",
-    "url": "http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Hallmark.Family.us2",
@@ -1011,8 +1239,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true",
     "group-title": "Movies",
     "name": "Hallmark Family",
-    "url": "http://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Hallmark.Mystery.HD.us2",
@@ -1020,8 +1250,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",
     "group-title": "Movies",
     "name": "Hallmark Mystery",
-    "url": "http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/10289.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
+    ]
   },
   {
     "tvg-id": "HBO.East.us2",
@@ -1029,8 +1261,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",
     "group-title": "Movies",
     "name": "HBO",
-    "url": "http://fl1.moveonjoy.com/HBO/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_HBO/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/HBO/index.m3u8"
+    ]
   },
   {
     "tvg-id": "HBO2.HD.us2",
@@ -1038,8 +1272,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/poland/hbo2-pl.png?raw=true",
     "group-title": "Movies",
     "name": "HBO2",
-    "url": "http://fl1.moveonjoy.com/HBO_2/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_HBO2/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/HBO_2/index.m3u8"
+    ]
   },
   {
     "tvg-id": "HBO.Comedy.HD.us2",
@@ -1049,7 +1285,8 @@
     "name": "HBO Comedy",
     "url": "https://a1xs.vip/300005",
     "commented_urls": [
-      "# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8"
+      "# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8",
+      "# http://fl31.moveonjoy.com/HBO_COMEDY/index.m3u8"
     ]
   },
   {
@@ -1058,8 +1295,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
     "group-title": "Movies",
     "name": "HBO Family",
-    "url": "http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8",
-    "commented_urls": []
+    "url": "https://fl31.moveonjoy.com/HBO_FAMILY/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8"
+    ]
   },
   {
     "tvg-id": "HBO.Zone.HD.us2",
@@ -1067,8 +1306,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",
     "group-title": "Movies",
     "name": "HBO Zone",
-    "url": "http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Home.and.Garden.Television.HD.us2",
@@ -1112,8 +1353,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png",
     "group-title": "Documentary",
     "name": "ID (Investigation Discovery)",
-    "url": "http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8"
+    ]
   },
   {
     "tvg-id": "InfoWars.DUMMY.us",
@@ -1251,8 +1494,10 @@
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/marquee-sports-network-us.png",
     "group-title": "Sports",
     "name": "Marquee Sports Network",
-    "url": "http://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8",
+    "commented_urls": [
+      " http://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Me.TV.Network.us2",
@@ -1332,8 +1577,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "MLB Network",
-    "url": "http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8"
+    ]
   },
   {
     "tvg-id": "MOTORTREND.HD.us2",
@@ -1341,8 +1588,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "MotorTrend",
-    "url": "http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8"
+    ]
   },
   {
     "tvg-id": "MSG.National.us2",
@@ -1350,8 +1599,10 @@
     "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png",
     "group-title": "Entertainment",
     "name": "MSG",
-    "url": "http://fl1.moveonjoy.com/MSG/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+    "commented_urls": [
+      "# # http://fl1.moveonjoy.com/MSG/index.m3u8"
+    ]
   },
   {
     "tvg-id": "MS.NOW.HD.us2",
@@ -1359,10 +1610,11 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true",
     "group-title": "News",
     "name": "MS NOW",
-    "url": "https://a1xs.vip/300008",
+    "url": "http://41.205.93.154/MSNBC/index.m3u8",
     "commented_urls": [
       "# https://fl1.moveonjoy.com/MSNBC/index.m3u8",
-      "# https://list.iptvcat.com/my_list/s/78eb9ee7492757886b89a5f3106fba9b.m3u8"
+      "# https://list.iptvcat.com/my_list/s/78eb9ee7492757886b89a5f3106fba9b.m3u8",
+      "# https://a1xs.vip/300008"
     ]
   },
   {
@@ -1371,8 +1623,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "MTV",
-    "url": "http://fl1.moveonjoy.com/MTV/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/9818.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/MTV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "MTV2:.Music.Television.HD.us2",
@@ -1560,8 +1814,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",
     "group-title": "Sports",
     "name": "NBA TV",
-    "url": "https://fl1.moveonjoy.com/NBA_TV/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/NBA_TV/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/NBA_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "WFLA-DT.us_locals1",
@@ -1569,9 +1825,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",
     "group-title": "Local",
     "name": "NBC",
-    "url": "https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8",
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/120950.m3u8",
     "commented_urls": [
-      "# https://fl1.moveonjoy.com/NBC/index.m3u8"
+      "# https://fl1.moveonjoy.com/NBC/index.m3u8",
+      "# https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8"
     ]
   },
   {
@@ -1589,8 +1846,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "NBC Golf",
-    "url": "https://fl1.moveonjoy.com/GOLF/index.m3u8",
-    "commented_urls": []
+    "url": "https://fl31.moveonjoy.com/GOLF/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/GOLF/index.m3u8"
+    ]
   },
   {
     "tvg-id": "NBC.Chicago.(Live.Stream).us2",
@@ -1629,8 +1888,10 @@
     "tvg-logo": "https://i.imgur.com/lxdcjBQ.png",
     "group-title": "Sports",
     "name": "NBC Sports Bay Area",
-    "url": "https://a1xs.vip/400050",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/9900.m3u8",
+    "commented_urls": [
+      "# https://a1xs.vip/400050"
+    ]
   },
   {
     "tvg-id": "NBC.Sports.Philadelphia.HD.us2",
@@ -1649,8 +1910,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true",
     "group-title": "News",
     "name": "NewsNation",
-    "url": "https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8",
-    "commented_urls": []
+    "url": "http://fl31.moveonjoy.com/NEWS_NATION/index.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Newsmax.TV.HD.us2",
@@ -2027,8 +2290,10 @@
     "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",
     "group-title": "Kids",
     "name": "NickToons",
-    "url": "https://fl1.moveonjoy.com/NICKTOONS/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/36.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/NICKTOONS/index.m3u8"
+    ]
   },
   {
     "tvg-id": "One.America.News.Network.HD.us2",
@@ -2250,9 +2515,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png",
     "group-title": "Sports",
     "name": "SEC Network",
-    "url": "http://cord-cutter.net:8080/30550113/30550113/17608",
+    "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
     "commented_urls": [
-      "# http://nocable.cc:8080/91161088/91161088/17608"
+      "# http://nocable.cc:8080/91161088/91161088/17608",
+      "# http://cord-cutter.net:8080/30550113/30550113/17608"
     ]
   },
   {
@@ -2574,8 +2840,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "TBS",
-    "url": "http://fl1.moveonjoy.com/TBS/index.m3u8",
-    "commented_urls": []
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/TBS/index.m3u8"
+    ]
   },
   {
     "tvg-id": "Turner.Classic.Movies.HD.us2",
@@ -2610,8 +2878,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",
     "group-title": "Documentary",
     "name": "TLC",
-    "url": "https://fl1.moveonjoy.com/TLC/index.m3u8",
-    "commented_urls": []
+    "url": "http://mytvstream.net:8080/live/30550113/30550113/46691.m3u8",
+    "commented_urls": [
+      "# https://fl1.moveonjoy.com/TLC/index.m3u8"
+    ]
   },
   {
     "tvg-id": "6d8659091f745b8b864f438f06c56fae",
@@ -2628,10 +2898,11 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "TNT",
-    "url": "https://a1xs.vip/300002",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
     "commented_urls": [
       "# http://fl1.moveonjoy.com/TNT/index.m3u8",
-      "# https://a1xs.vip/300001"
+      "# https://a1xs.vip/300001",
+      "# https://a1xs.vip/300002"
     ]
   },
   {
@@ -2694,8 +2965,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "truTV",
-    "url": "http://fl1.moveonjoy.com/TRU_TV/index.m3u8",
-    "commented_urls": []
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/TRU_TV/index.m3u8"
+    ]
   },
   {
     "tvg-id": "TSN1.ca",
@@ -2781,7 +3054,8 @@
     "name": "USA Network",
     "url": "https://a1xs.vip/1100020",
     "commented_urls": [
-      "# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
+      "# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8",
+      "# http://mytvstream.net:8080/live/30550113/30550113/10252.m3u8"
     ]
   },
   {
@@ -2799,8 +3073,10 @@
     "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png",
     "group-title": "Entertainment",
     "name": "Vice",
-    "url": "http://fl1.moveonjoy.com/VICELAND/index.m3u8",
-    "commented_urls": []
+    "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
+    "commented_urls": [
+      "# http://fl1.moveonjoy.com/VICELAND/index.m3u8"
+    ]
   },
   {
     "tvg-id": "plex.tv.Vice.News.plex",
