@@ -1,24 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 
-#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="Local",ABC
-# https://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8
-# https://a1xs.vip/300003
-https://fl1.moveonjoy.com/ABC/index.m3u8
-
 #EXTINF:-1 tvg-id="Al.Jazeera.English.ca2" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/aljazeera-uk.png" group-title="News",Al Jazeera English
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8#385214819c093313b7590321ed6470bdd38ec896a45ff88a8ffac4baf94ed098
 
 #EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="America's Voice News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/real-americas-voice-us.png?raw=true" group-title="News",America's Voice News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604
-
-#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC World News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="News",BBC World News
-http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="News",Bloomberg
-http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
-
-#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="News",C-SPAN
-https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="WTSP-DT.us_locals1" tvg-name="CBS Tampa Bay" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-10-wtsp-us.png?raw=true" group-title="Local",CBS Tampa Bay
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
@@ -33,17 +19,8 @@ https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/
 #EXTINF:-1 tvg-id="CBS.News.Texas" tvg-name="CBS News Texas" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-dfw-dallas-fort-worth-us.png?raw=true" group-title="News",CBS News Texas
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8#3b4349ce0e8371a721ea449eaf4d33c99fc7a6bf5b8d71d8872f010a00871d56
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sports",CBS Sports Network
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-id="CGTV.us" tvg-name="Champaign Government TV" tvg-logo="https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg" group-title="News",Champaign Government TV
 https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
-
-#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="News",CNBC
-https://fl1.moveonjoy.com/CNBC/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="FOX Business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="News",FOX Business
-https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-name="FOX Live Now" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/live-now-fox-us.png" group-title="News",FOX Live Now
 # https://livetv-fa.tubi.video/fox-live-now/index.m3u8
@@ -55,16 +32,9 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="InfoWars.DUMMY.us" tvg-name="InfoWars" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/info-wars-us.png?raw=true" group-title="News",InfoWars
 https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WFLA-DT.us_locals1" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
-# https://fl1.moveonjoy.com/NBC/index.m3u8
-https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
-
 #EXTINF:-1 tvg-id="NBCNN.PEACOCK" tvg-name="NBC News Now" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="News",NBC News Now
 # https://a1xs.vip/300013
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-
-#EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
-https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="News",Newsmax
 # http://nocable.cc:8080/91161088/91161088/161450
@@ -81,6 +51,3 @@ https://oan-plus-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Vice.News.plex" tvg-name="VICE News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="News",VICE News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="Local",WGN
-http://fl1.moveonjoy.com/WGN/index.m3u8
