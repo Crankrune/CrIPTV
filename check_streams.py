@@ -9,21 +9,24 @@ with open("data/iptv_database_info.json", "r", encoding="utf-8") as f:
 
 def get_stream_info(url: str) -> dict:
     # ffprobe
-    p = subprocess.run(
-        [
-            "ffprobe",
-            "-v",
-            "quiet",
-            "-print_format",
-            "json",
-            "-show_entries",
-            "stream=width,height,avg_frame_rate,bit_rate,codec_name:format=duration,bit_rate",
-            url,
-        ],
-        stdout=subprocess.PIPE,
-        timeout=30,
-    )
-    return json.loads(p.stdout.decode("utf-8"))
+    try:
+        p = subprocess.run(
+            [
+                "ffprobe",
+                "-v",
+                "quiet",
+                "-print_format",
+                "json",
+                "-show_entries",
+                "stream=width,height,avg_frame_rate,bit_rate,codec_name:format=duration,bit_rate",
+                url,
+            ],
+            stdout=subprocess.PIPE,
+            timeout=30,
+        )
+        return json.loads(p.stdout.decode("utf-8"))
+    except subprocess.TimeoutExpired:
+        return {}
 
 
 def get_best_stream(data: dict) -> dict[str, Any] | None:
