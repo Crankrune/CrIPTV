@@ -6,6 +6,7 @@ from natsort import natsorted
 from ruamel.yaml import YAML
 
 from check_streams import main as check_streams
+from DrewLive_parser import generate_drewlive_playlist
 from epg_generator import write_youtube_epg_file
 from m3u_utils import generate_playlist
 from youtube_utils import update_stream_urls, write_playlist
@@ -54,6 +55,9 @@ def generate_iptv_playlists():
         with open(f"output/playlists/{playlist}.m3u", "w", encoding="utf-8") as f:
             f.write(playlist_content)
         print(f"Generated output/playlists/{playlist}.m3u")
+
+    # Generate DrewLive playlist
+    generate_drewlive_playlist()
 
     print("Finished IPTV playlist generation.")
 
