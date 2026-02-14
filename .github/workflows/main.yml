@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install natsort ruamel.yaml
+          pip install natsort ruamel.yaml httpx
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
