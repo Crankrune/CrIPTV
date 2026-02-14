@@ -14,6 +14,7 @@ def generate_drewlive_playlist():
         "A1xmedia UHD | 4K",
         "A1xmedia US Channels",
         "A1xmedia US Sports",
+        "LGTV - United States",
         "PlexTV - United States",
         "PlutoTV - United States",
         "RokuTV",
