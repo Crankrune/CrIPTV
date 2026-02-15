@@ -56,6 +56,10 @@ https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
 # http://41.205.93.154/ESPN/index.m3u8
 https://a1xs.vip/40000011
 
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
+# http://fl1.moveonjoy.com/ESPN_2/index.m3u8
+https://a1xs.vip/40000012
+
 #EXTINF:-1 tvg-id="plex.tv.FailArmy.plex" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a358-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c35f867b-7463-4560-8d61-09b18127126b
 
@@ -69,24 +73,17 @@ https://a1xs.vip/700001
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 502
 https://a1xs.vip/700002
 
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 503
-https://a1xs.vip/700003
-
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
 
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FOX Sports 505" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 505
-https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 506
+https://a1xs.vip/700006
 
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="FOX Sports 507" tvg-logo="https://i.ibb.co/CK1F69ht/Fox507.png" group-title="Sports",FOX Sports 507
 https://a1xs.vip/700007
 
 #EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-weather-us.png?raw=true" group-title="News",FOX Weather 2
 https://247wlive.foxweather.com/stream/index.m3u8
-
-#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2
-# https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
-https://a1xs.vip/40000022
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entertainment",Game Show Network
 # http://fl1.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
