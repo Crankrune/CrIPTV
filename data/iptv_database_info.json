@@ -1410,10 +1410,10 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 30.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1423,11 +1423,11 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 25.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": 50.0,
     "codec": "h264",
-    "bitrate": "153881",
+    "bitrate": null,
     "working": true
   },
   {
@@ -1458,7 +1458,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSportsMore.au",
@@ -1702,7 +1702,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "HBO.Drama.us2",
@@ -1911,8 +1911,8 @@
     "name": "Judge Judy Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92e536f28870007fa9b3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5077-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7542660-a0a4-415c-a70a-fae3199e0e29",
     "commented_urls": [],
-    "width": 1216,
-    "height": 684,
+    "width": 1280,
+    "height": 720,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -3539,7 +3539,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
     "working": true

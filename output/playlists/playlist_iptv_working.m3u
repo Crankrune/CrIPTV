@@ -69,11 +69,17 @@ https://a1xs.vip/700001
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 502
 https://a1xs.vip/700002
 
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 503
+https://a1xs.vip/700003
+
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
 
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FOX Sports 505" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 505
 https://a1xs.vip/700005
+
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 506
+https://a1xs.vip/700006
 
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="FOX Sports 507" tvg-logo="https://i.ibb.co/CK1F69ht/Fox507.png" group-title="Sports",FOX Sports 507
 https://a1xs.vip/700007
@@ -88,10 +94,6 @@ https://a1xs.vip/40000022
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entertainment",Game Show Network
 # http://fl1.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies",HBO Comedy
-# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
-https://a1xs.vip/300005
 
 #EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
 https://tvpass.org/live/IFCEast/hd
