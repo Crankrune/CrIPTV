@@ -6417,7 +6417,7 @@ https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE Elimination Chamber
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://601.xn--1000-ugoa0hsb9a0hb.com/wwe2.m3u8
+https://601.serverbandel.sbs/wwe2.m3u8
 
 #EXTINF:-1 tvg-id="USBB320000397" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png" group-title="SamsungTVPlus - USA",21 Jump Street (USA)
 https://jmp2.uk/stvp-USBB320000397
@@ -7816,12 +7816,12 @@ https://cdn7.trrfiles.cfd/live/cdn7/playlist.m3u8?expires=1772333686&token=9bcea
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CombatSports2.png" group-title="Sharkstreams - UFC",UFC Fight Night 268 Moreno vs Kavanagh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn2.trrfiles.cfd/live/cdn2/playlist.m3u8?expires=1772333251&token=daa6093968e80dea4b3f6522ee5554848270baad14b76b9be019a0340590be8e
+https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772333251&token=5cc858b45370822f87b2f7382edd8434ff2e960b84108ba9020cf020f83c0302
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",Elimination Chamber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn10.trrfiles.cfd/live/cdn10/playlist.m3u8?expires=1772333248&token=7b9b8f73a51d098f9cf45e9910c780908f2e849dd2f7c4edeffa0923fd8cc6a4
+https://cdn12.trrfiles.cfd/live/cdn12/playlist.m3u8?expires=1772333248&token=4140845a8c784922b6ddf73f6c74c65d14cb85bcb34ceaa1dc89ead4d56f19a8
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
