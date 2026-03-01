@@ -10,19 +10,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 # http://41.205.93.154/ESPN/index.m3u8
 https://a1xs.vip/40000011
 
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
-# http://fl1.moveonjoy.com/ESPN_2/index.m3u8
-https://a1xs.vip/40000012
-
-#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2
-# https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
-https://a1xs.vip/40000022
-
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="FOX Sports 501" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 501
 https://a1xs.vip/700001
 
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 502
 https://a1xs.vip/700002
+
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 503
+https://a1xs.vip/700003
 
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
@@ -76,7 +71,3 @@ https://a1xs.vip/2000024
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="Sports",TSN 4
 # http://fl1.moveonjoy.com/TSN_4/index.m3u8
 https://tvpass.org/live/tsn4/hd
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entertainment",USA Network
-# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-https://a1xs.vip/1100020
