@@ -1693,9 +1693,6 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang (Alternate)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="MoveOnJoy",Boomerang (Alternate)
-http://23.237.104.106:8080/USA_BOOMERANG/mpegts
-
-#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang (Alternate 2)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="MoveOnJoy",Boomerang (Alternate 2)
 http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162635.m3u8
 
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="MoveOnJoy",Bounce TV
@@ -1718,6 +1715,9 @@ http://41.205.93.154/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="BRAVO (Alternate 3)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="MoveOnJoy",BRAVO (Alternate 3)
 http://104.255.88.155/bravo/index.m3u8
+
+#EXTINF:-1 tvg-id="562baf35c5da56cc91cdea41537b43f9" tvg-name="Buzzr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="MoveOnJoy",Buzzr
+https://jmp2.uk/rok-562baf35c5da56cc91cdea41537b43f9.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="MoveOnJoy",CARTOON NETWORK
 http://epicboss.live:80/live/bjune@teksavvy.com/5193594414/124590.m3u8
@@ -1749,6 +1749,9 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MoveOnJoy",CINEMAX
 http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162669.m3u8
 
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="CINEMAX (Alternate)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MoveOnJoy",CINEMAX (Alternate)
+http://www.1play.cool:25461/live/ULtR63183811dd/kquFuCz3EpNa/30358.m3u8
+
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="CINEMAX (Alternate 2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MoveOnJoy",CINEMAX (Alternate 2)
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
@@ -1758,6 +1761,12 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="MoveOnJoy",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="MoveOnJoy",CNBC
+http://www.1play.cool:25461/live/ULtR63183811dd/kquFuCz3EpNa/40978.m3u8
+
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="MoveOnJoy",CNN
+http://www.1play.cool:25461/live/ULtR63183811dd/kquFuCz3EpNa/40532.m3u8
+
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN (Alternate)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="MoveOnJoy",CNN (Alternate)
 http://104.255.88.155/cnn/index.m3u8
 
@@ -1766,6 +1775,9 @@ http://89.105.221.127/CNN/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="MoveOnJoy",COMEDY CENTRAL
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="COMEDY CENTRAL (Alternate)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="MoveOnJoy",COMEDY CENTRAL (Alternate)
+http://www.1play.cool:25461/live/ULtR63183811dd/kquFuCz3EpNa/129642.m3u8
 
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="COMET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" group-title="MoveOnJoy",COMET
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
@@ -6414,11 +6426,6 @@ https://jmp2.uk/rok-77946e082d8958f599087890aebf1623.m3u8
 #EXTINF:-1 tvg-id="f99fa811e587e924c1aeebfe3d7f575f" tvg-name="Z Nation" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f99fa811e587e924c1aeebfe3d7f575f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736192889275_ZNation_HUDlogo_centered_260x147.png" group-title="RokuTV",Z Nation
 https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE Elimination Chamber
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://601.serverbandel.sbs/wwe2.m3u8
-
 #EXTINF:-1 tvg-id="USBB320000397" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png" group-title="SamsungTVPlus - USA",21 Jump Street (USA)
 https://jmp2.uk/stvp-USBB320000397
 
@@ -7816,7 +7823,7 @@ https://cdn7.trrfiles.cfd/live/cdn7/playlist.m3u8?expires=1772333686&token=9bcea
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CombatSports2.png" group-title="Sharkstreams - UFC",UFC Fight Night 268 Moreno vs Kavanagh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772333251&token=5cc858b45370822f87b2f7382edd8434ff2e960b84108ba9020cf020f83c0302
+https://cdn2.trrfiles.cfd/live/cdn2/playlist.m3u8?expires=1772333251&token=daa6093968e80dea4b3f6522ee5554848270baad14b76b9be019a0340590be8e
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",Elimination Chamber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
