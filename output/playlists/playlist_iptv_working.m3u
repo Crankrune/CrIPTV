@@ -56,6 +56,10 @@ https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
 # http://41.205.93.154/ESPN/index.m3u8
 https://a1xs.vip/40000011
 
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
+# http://fl1.moveonjoy.com/ESPN_2/index.m3u8
+https://a1xs.vip/40000012
+
 #EXTINF:-1 tvg-id="plex.tv.FailArmy.plex" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a358-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c35f867b-7463-4560-8d61-09b18127126b
 
@@ -75,6 +79,9 @@ https://a1xs.vip/700003
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
 
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FOX Sports 505" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 505
+https://a1xs.vip/700005
+
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 506
 https://a1xs.vip/700006
 
@@ -91,6 +98,10 @@ https://a1xs.vip/40000022
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entertainment",Game Show Network
 # http://fl1.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies",HBO Comedy
+# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+https://a1xs.vip/300005
 
 #EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
 https://tvpass.org/live/IFCEast/hd
@@ -148,6 +159,10 @@ https://oan-plus-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.Kids.Stream.us2" tvg-name="PBS Kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dash-icon-us.png?raw=true" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true" group-title="Sports",PPV 1
+# http://fl1.moveonjoy.com/PPV_1/index.m3u8
+https://a1xs.vip/ppv1
+
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true" group-title="Sports",PPV 2
 # http://fl1.moveonjoy.com/PPV_2/index.m3u8
 https://a1xs.vip/ppv2
@@ -173,9 +188,6 @@ https://a1xs.vip/2000005
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4k" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4k
 https://a1xs.vip/2000016
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 Alt" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 Alt
-http://cord-cutter.net:8080/bn80NG/909467/35244
 
 #EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sports",Sky Sports+
 https://a1xs.vip/2000012

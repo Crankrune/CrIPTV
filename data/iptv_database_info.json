@@ -1140,7 +1140,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "ESPNEWS.HD.us2",
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": false,
+    "working": true,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -1697,12 +1697,12 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "HBO.Drama.us2",
@@ -2829,8 +2829,8 @@
       "# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
       "# http://nocable.cc:8080/91161088/91161088/208830"
     ],
-    "width": 1024,
-    "height": 576,
+    "width": 640,
+    "height": 360,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -3230,10 +3230,10 @@
     ],
     "width": 1920,
     "height": 1080,
-    "fps": 59.94,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
@@ -3557,7 +3557,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -4068,7 +4068,7 @@
     "working": true,
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null
   },

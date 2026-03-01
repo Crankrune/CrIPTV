@@ -10,6 +10,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 # http://41.205.93.154/ESPN/index.m3u8
 https://a1xs.vip/40000011
 
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
+# http://fl1.moveonjoy.com/ESPN_2/index.m3u8
+https://a1xs.vip/40000012
+
 #EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2
 # https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
 https://a1xs.vip/40000022
@@ -25,6 +29,9 @@ https://a1xs.vip/700003
 
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
+
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FOX Sports 505" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 505
+https://a1xs.vip/700005
 
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 506
 https://a1xs.vip/700006
@@ -51,9 +58,6 @@ https://a1xs.vip/2000012
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1
 https://a1xs.vip/2000005
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 Alt" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 Alt
-http://cord-cutter.net:8080/bn80NG/909467/35244
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4k" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4k
 https://a1xs.vip/2000016
