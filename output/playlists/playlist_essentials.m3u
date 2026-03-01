@@ -43,10 +43,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55
 # https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 https://a1xs.vip/300014
 
-#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2
-# https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
-https://a1xs.vip/40000022
-
 #EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
 https://tvpass.org/live/IFCEast/hd
 
