@@ -73,6 +73,9 @@ https://a1xs.vip/700001
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 502
 https://a1xs.vip/700002
 
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 503
+https://a1xs.vip/700003
+
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
 
@@ -99,9 +102,6 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies",HBO Comedy
 # http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 https://a1xs.vip/300005
-
-#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
-https://tvpass.org/live/IFCEast/hd
 
 #EXTINF:-1 tvg-id="InfoWars.DUMMY.us" tvg-name="InfoWars" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/info-wars-us.png?raw=true" group-title="News",InfoWars
 https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8

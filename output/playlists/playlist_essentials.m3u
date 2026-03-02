@@ -47,9 +47,6 @@ https://a1xs.vip/300014
 # https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
 https://a1xs.vip/40000022
 
-#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
-https://tvpass.org/live/IFCEast/hd
-
 #EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-plus-us.png" group-title="Entertainment",ION Plus
 # http://fl1.moveonjoy.com/ION_Plus/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8

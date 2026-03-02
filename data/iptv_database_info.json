@@ -1365,7 +1365,7 @@
     ],
     "width": 1280,
     "height": 720,
-    "fps": 30.0,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1413,7 +1413,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1792,7 +1792,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Investigation.Discovery.HD.us2",
@@ -4246,9 +4246,9 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
