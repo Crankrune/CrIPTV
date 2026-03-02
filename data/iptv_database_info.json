@@ -1140,7 +1140,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "ESPNEWS.HD.us2",
@@ -1413,7 +1413,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1423,10 +1423,10 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
-    "codec": "hevc",
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -1792,7 +1792,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Investigation.Discovery.HD.us2",
@@ -4176,7 +4176,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 30.0,
+    "fps": 60.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4251,7 +4251,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "VH1.HD.us2",
