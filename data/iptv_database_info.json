@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "202",
+    "bitrate": "179",
     "working": true
   },
   {
@@ -1428,7 +1428,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxSports505.au",
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": false,
+    "working": true,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -1468,10 +1468,10 @@
     "name": "FOX Sports 507",
     "url": "https://a1xs.vip/700007",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 960,
+    "height": 540,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -3572,7 +3572,7 @@
     "fps": 50.0,
     "codec": "hevc",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Smithsonian.HD.Network.us2",
@@ -4246,8 +4246,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
