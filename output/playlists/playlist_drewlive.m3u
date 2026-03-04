@@ -3845,60 +3845,40 @@ https://jmp2.uk/stvp-USBD1700016X9
 #EXTINF:-1 tvg-id="USBC2400019EF-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20240520T214904SQUARE.png" group-title="SamsungTVPlus - USA",ZooMoo
 https://jmp2.uk/stvp-USBC2400019EF
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Brooklyn Nets vs Miami Heat
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Atlanta Hawks vs Milwaukee Bucks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772584188&token=c7e709feb7b447b46857f7ea8f05fcd4d94a64190d717a01f068fb76094a6c6e
+https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772659034&token=8f3e18e9a41ceaa9f06bc1d6460fd0a88877c136746ed39788348b27c03cb62d
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Dallas Mavericks vs Charlotte Hornets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Charlotte Hornets vs Boston Celtics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn3.trrfiles.cfd/live/cdn3/playlist.m3u8?expires=1772582077&token=5bcfb09eedc48c57b76f99e4f0073cad3fe11c14a4c1f63a20115953f0311cb3
+https://cdn2.trrfiles.cfd/live/cdn2/playlist.m3u8?expires=1772659032&token=278dc49eb6f7386d4c37241e05e33109d0e72aa448aef8b2a431c7b437301856
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Detroit Pistons vs Cleveland Cavaliers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Indiana Pacers vs Los Angeles Clippers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn2.trrfiles.cfd/live/cdn2/playlist.m3u8?expires=1772582605&token=e2501f88789124d88ce60a5eecd5ff55e61a7e635127c95a9ecbba7e463e0646
+https://cdn6.trrfiles.cfd/live/cdn6/playlist.m3u8?expires=1772659036&token=f13270ed5a88aeab54d702d200f28b8a9937f1af0d335280057fbee51f549c70
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Memphis Grizzlies vs Minnesota Timberwolves
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Oklahoma City Thunder vs New York Knicks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn6.trrfiles.cfd/live/cdn6/playlist.m3u8?expires=1772586345&token=c41ee2ea3684fbd458b94d12469f74120eb357fdd87af7d7376338c152d0b1f9
+https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772659032&token=a00328b228cd1cbcd4b6d05298b3cef23f8af7b348fa66470a4aa3bcd6547766
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",New Orleans Pelicans vs Los Angeles Lakers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Portland Trail Blazers vs Memphis Grizzlies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772587034&token=98765889f2e54f4a321b5b8d3bce430611a23ebeeb6eca82f696afa4b5450085
+https://cdn9.trrfiles.cfd/live/cdn9/playlist.m3u8?expires=1772659034&token=d60c70985829523cb87e703f6141f388419a77d4bac41e84e50636be057b3174
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",New York Knicks vs Toronto Raptors
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Utah Jazz vs Philadelphia 76ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn9.trrfiles.cfd/live/cdn9/playlist.m3u8?expires=1772582839&token=ca864f0a579f70c55c6ad92c72dfac2b1bfc4147042aa2cd6b6ce68471237596
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Oklahoma City Thunder vs Chicago Bulls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn7.trrfiles.cfd/live/cdn7/playlist.m3u8?expires=1772585128&token=6fb39e50fc6c45295d0f1234f8ec8c5bad1838563c151302ac55e69ddcf9e01c
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Phoenix Suns vs Sacramento Kings
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn2.trrfiles.cfd/live/cdn2/playlist.m3u8?expires=1772587034&token=cb0208c49420f8dd1b49f94f37a3cde0bc0edae6f6fa9cde43f973d43c226076
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",San Antonio Spurs vs Philadelphia 76ers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn8.trrfiles.cfd/live/cdn8/playlist.m3u8?expires=1772584456&token=75b36926c01e1ab5e63fbbfe5de1ff28d42447593f65ba7242cb6fa03427b386
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Washington Wizards vs Orlando Magic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772582627&token=3a7676faed68fe14f72abc6752bd4ddfea4721468569844b0753e72e47751c37
+https://cdn3.trrfiles.cfd/live/cdn3/playlist.m3u8?expires=1772659034&token=006499a87dabc93a201cf5ef9d2490339049b131a21ca81d1decd4a14c3ca6f8
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Monday Night RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772587031&token=5d5af570d0fe09358c309d887b00e48d43c9ad559ac123341e2960e1421e8230
+https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772659032&token=7d63efb7660317996e6b019d396723d7b1ffd5f1a9b29092b1b43cc9557ca5e5
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
