@@ -2226,11 +2226,6 @@ https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="MoveOnJoy",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE Smackdown
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://601.serverbandel.sbs/wwe.m3u8
-
 #EXTINF:-1 tvg-id="USBB320000397-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png" group-title="SamsungTVPlus - USA",21 Jump Street
 https://jmp2.uk/stvp-USBB320000397
 
@@ -3860,6 +3855,11 @@ https://cdn2.trrfiles.cfd/live/cdn2/playlist.m3u8?expires=1772673910&token=c7ac4
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn6.trrfiles.cfd/live/cdn6/playlist.m3u8?expires=1772676379&token=7c1371d5b7b5fb58a5e0faff5eb51c5194f8f2f1fac3ecee90d46770d8d05e03
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Oklahoma City Thunder vs New York Knicks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772673927&token=016c817e21317334658f638e728abbaef45c515519703e652e0e893d4f103821
+
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Portland Trail Blazers vs Memphis Grizzlies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -3874,6 +3874,11 @@ https://cdn3.trrfiles.cfd/live/cdn3/playlist.m3u8?expires=1772673935&token=8d3ae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn10.trrfiles.cfd/live/cdn10/playlist.m3u8?expires=1772674281&token=7295ccfe2646798c72207aa9f054a477f2d997bf98faa1d4a77f7e5c901f46dd
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Monday Night RAW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772679848&token=050d31856e53c507fc4d93a4fab615862f6ffd667472f4c074dc97c7378117b8
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
