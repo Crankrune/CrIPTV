@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "97",
+    "bitrate": "91",
     "working": true
   },
   {
@@ -1140,7 +1140,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "ESPNEWS.HD.us2",
@@ -1398,7 +1398,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxSports503.au",
@@ -1423,9 +1423,9 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
-    "fps": 50.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
