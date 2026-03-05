@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "79",
+    "bitrate": "73",
     "working": true
   },
   {
@@ -1140,7 +1140,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "ESPNEWS.HD.us2",
@@ -1363,12 +1363,12 @@
     "commented_urls": [
       "# https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8"
     ],
-    "width": 1280,
-    "height": 720,
-    "fps": 30.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxCricket.au",
@@ -1378,9 +1378,9 @@
     "name": "FOX Sports 501",
     "url": "https://a1xs.vip/700001",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
-    "fps": 50.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1398,7 +1398,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxSports503.au",
@@ -1408,12 +1408,12 @@
     "name": "FOX Sports 503",
     "url": "https://a1xs.vip/700003",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 960,
+    "height": 540,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": false,
+    "working": true,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -1453,10 +1453,10 @@
     "name": "FOX Sports 506",
     "url": "https://a1xs.vip/700006",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 960,
+    "height": 540,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -1468,10 +1468,10 @@
     "name": "FOX Sports 507",
     "url": "https://a1xs.vip/700007",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
-    "fps": 50.0,
-    "codec": "hevc",
+    "width": 1280,
+    "height": 720,
+    "fps": 25.0,
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -2829,8 +2829,8 @@
       "# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
       "# http://nocable.cc:8080/91161088/91161088/208830"
     ],
-    "width": 1024,
-    "height": 576,
+    "width": 640,
+    "height": 360,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -2846,7 +2846,7 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4251,7 +4251,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "VH1.HD.us2",
