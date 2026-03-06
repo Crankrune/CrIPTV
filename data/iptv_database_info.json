@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "67",
+    "bitrate": "64",
     "working": true
   },
   {
@@ -1368,7 +1368,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxCricket.au",
@@ -1398,7 +1398,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSports503.au",
@@ -1408,10 +1408,10 @@
     "name": "FOX Sports 503",
     "url": "https://a1xs.vip/700003",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
-    "codec": "hevc",
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1423,10 +1423,10 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 960,
+    "height": 540,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -4037,10 +4037,10 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "TNT.Sports.3.HD.uk",
@@ -4052,10 +4052,10 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "TNT.Sports.4.HD.uk",
@@ -4251,7 +4251,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "VH1.HD.us2",
