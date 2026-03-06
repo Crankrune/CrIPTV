@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "75",
+    "bitrate": "70",
     "working": true
   },
   {
@@ -1393,8 +1393,8 @@
     "name": "FOX Sports 502",
     "url": "https://a1xs.vip/700002",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
@@ -1408,10 +1408,10 @@
     "name": "FOX Sports 503",
     "url": "https://a1xs.vip/700003",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
-    "codec": "hevc",
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1423,8 +1423,8 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": false,
+    "working": true,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -1453,10 +1453,10 @@
     "name": "FOX Sports 506",
     "url": "https://a1xs.vip/700006",
     "commented_urls": [],
-    "width": 960,
-    "height": 540,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
-    "codec": "hevc",
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1468,10 +1468,10 @@
     "name": "FOX Sports 507",
     "url": "https://a1xs.vip/700007",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 25.0,
-    "codec": "h264",
+    "width": 960,
+    "height": 540,
+    "fps": 50.0,
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -3527,7 +3527,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -3539,7 +3539,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 25.0,
     "codec": "hevc",
     "bitrate": null,
     "working": true
@@ -3572,7 +3572,7 @@
     "fps": 50.0,
     "codec": "hevc",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Smithsonian.HD.Network.us2",
@@ -4065,7 +4065,7 @@
     "name": "TNT Sports 4",
     "url": "https://a1xs.vip/2000024",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
