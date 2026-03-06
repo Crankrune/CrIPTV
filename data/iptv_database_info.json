@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "70",
+    "bitrate": "67",
     "working": true
   },
   {
@@ -1140,7 +1140,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "ESPNEWS.HD.us2",
@@ -1398,7 +1398,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxSports503.au",
@@ -1408,10 +1408,10 @@
     "name": "FOX Sports 503",
     "url": "https://a1xs.vip/700003",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 960,
+    "height": 540,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -1453,10 +1453,10 @@
     "name": "FOX Sports 506",
     "url": "https://a1xs.vip/700006",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 960,
+    "height": 540,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -1697,9 +1697,9 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3527,7 +3527,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -3572,7 +3572,7 @@
     "fps": 50.0,
     "codec": "hevc",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Smithsonian.HD.Network.us2",
@@ -4021,9 +4021,9 @@
     "url": "https://a1xs.vip/2000021",
     "commented_urls": [],
     "working": true,
-    "width": 1920,
-    "height": 1080,
-    "fps": 50.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null
   },
@@ -4065,7 +4065,7 @@
     "name": "TNT Sports 4",
     "url": "https://a1xs.vip/2000024",
     "commented_urls": [],
-    "working": false,
+    "working": true,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
