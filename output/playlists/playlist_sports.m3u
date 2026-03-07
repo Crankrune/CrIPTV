@@ -58,6 +58,9 @@ https://a1xs.vip/2000005
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 Alt" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 Alt
 http://cord-cutter.net:8080/bn80NG/909467/35244
 
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4k" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4k
+https://a1xs.vip/2000016
+
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment",TNT
 # http://fl1.moveonjoy.com/TNT/index.m3u8
 # https://a1xs.vip/300001
@@ -78,3 +81,7 @@ https://a1xs.vip/2000024
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="Sports",TSN 4
 # http://fl1.moveonjoy.com/TSN_4/index.m3u8
 https://tvpass.org/live/tsn4/hd
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entertainment",USA Network
+# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+https://a1xs.vip/1100020

@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "44",
+    "bitrate": "41",
     "working": true
   },
   {
@@ -1423,8 +1423,8 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
@@ -1470,8 +1470,8 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 50.0,
-    "codec": "hevc",
+    "fps": 25.0,
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -2476,8 +2476,8 @@
     "name": "NBC East",
     "url": "https://a1xs.vip/300015",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
@@ -2829,9 +2829,9 @@
       "# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
       "# http://nocable.cc:8080/91161088/91161088/208830"
     ],
-    "width": 1024,
-    "height": 576,
-    "fps": 59.94,
+    "width": 640,
+    "height": 360,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3572,7 +3572,7 @@
     "fps": 50.0,
     "codec": "hevc",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Smithsonian.HD.Network.us2",
@@ -4246,12 +4246,12 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "VH1.HD.us2",
