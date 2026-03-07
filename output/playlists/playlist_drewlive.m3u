@@ -975,7 +975,7 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE Smackdown
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://602.lifesharper.com/wwe.m3u8
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tudn.m3u8
 
 #EXTINF:-1 tvg-id="USBD70000412-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000412_20250520T211332SQUARE.png" group-title="SamsungTVPlus - USA",4UV
 https://jmp2.uk/stvp-USBD70000412
@@ -2471,8 +2471,11 @@ https://jmp2.uk/stvp-US41000060J
 #EXTINF:-1 tvg-id="USBB440002055-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20240722T230849SQUARE.png" group-title="SamsungTVPlus - USA",Waypoint TV
 https://jmp2.uk/stvp-USBB440002055
 
-#EXTINF:-1 tvg-id="USBC1500009LD-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png" group-title="SamsungTVPlus - USA",WeatherNation
-https://jmp2.uk/stvp-USBC1500009LD
+#EXTINF:-1 tvg-id="US700004OA-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png" group-title="SamsungTVPlus - USA",WBTV News
+https://jmp2.uk/stvp-US700004OA
+
+#EXTINF:-1 tvg-id="US1400004HN-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png" group-title="SamsungTVPlus - USA",WCNC
+https://jmp2.uk/stvp-US1400004HN
 
 #EXTINF:-1 tvg-id="USAJ3400014LK-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400014LK_20240520T214723SQUARE.png" group-title="SamsungTVPlus - USA",WeatherSpy
 https://jmp2.uk/stvp-USAJ3400014LK
@@ -2507,6 +2510,9 @@ https://jmp2.uk/stvp-USBB4400018LR
 #EXTINF:-1 tvg-id="US700010XK-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700010XK_20250915T233927SQUARE.png" group-title="SamsungTVPlus - USA",Witness to Justice
 https://jmp2.uk/stvp-US700010XK
 
+#EXTINF:-1 tvg-id="USBC3200001S5-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png" group-title="SamsungTVPlus - USA",WN Charlotte
+https://jmp2.uk/stvp-USBC3200001S5
+
 #EXTINF:-1 tvg-id="US4100001KP-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100001KP_20241210T013946SQUARE.png" group-title="SamsungTVPlus - USA",Women's Sports Network
 https://jmp2.uk/stvp-US4100001KP
 
@@ -2515,6 +2521,9 @@ https://jmp2.uk/stvp-USBD1700009P5
 
 #EXTINF:-1 tvg-id="USBC1000002NP-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20241014T232212SQUARE.png" group-title="SamsungTVPlus - USA",World’s Most Evil Killers
 https://jmp2.uk/stvp-USBC1000002NP
+
+#EXTINF:-1 tvg-id="USBC1000017D8-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20241112T001219SQUARE.png" group-title="SamsungTVPlus - USA",WSOC Charlotte
+https://jmp2.uk/stvp-USBC1000017D8
 
 #EXTINF:-1 tvg-id="US700005ID-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" group-title="SamsungTVPlus - USA",WWE Superstar Central
 https://jmp2.uk/stvp-US700005ID
@@ -2601,6 +2610,16 @@ https://cdn6.tgfiles.cfd/live/cdn6/playlist.m3u8?expires=1772844215&token=fe04be
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn1.tgfiles.cfd/live/cdn1/playlist.m3u8?expires=1772840570&token=2321a7b48470736bddd9641326b4f2516b45481e3ea78ac798d453b376a04477
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",New Orleans Pelicans vs Phoenix Suns
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn5.tgfiles.cfd/live/cdn5/playlist.m3u8?expires=1772846315&token=47b5b459f7f27691cc3cbca0205bc244ab8905c78c7b4592b84a7cb0545f5b24
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",New York Knicks vs Denver Nuggets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn4.tgfiles.cfd/live/cdn4/playlist.m3u8?expires=1772842739&token=c564a158e4275f1db60f05d44e11e9635000794a618d45f14aba4aaeb3b8ff32
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Portland Trail Blazers vs Houston Rockets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
