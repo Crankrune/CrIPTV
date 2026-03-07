@@ -2597,6 +2597,11 @@ https://cdn7.tgfiles.cfd/live/cdn7/playlist.m3u8?expires=1772846316&token=7d777d
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn6.tgfiles.cfd/live/cdn6/playlist.m3u8?expires=1772844215&token=fe04be4e1704cea94c9f1de2adb08cb8839d3129669ac7900fc0ed398e545eac
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Miami Heat vs Charlotte Hornets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn1.tgfiles.cfd/live/cdn1/playlist.m3u8?expires=1772840570&token=2321a7b48470736bddd9641326b4f2516b45481e3ea78ac798d453b376a04477
+
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Portland Trail Blazers vs Houston Rockets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -2606,6 +2611,11 @@ https://cdn3.tgfiles.cfd/live/cdn3/playlist.m3u8?expires=1772845841&token=316113
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn1.tgfiles.cfd/live/cdn1/playlist.m3u8?expires=1772840275&token=f4015c324865c56ca975eb17e248f915f8e6df5e4fef602ec1d46b774c28a1f7
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Monday Night RAW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772843792&token=1e7b16c7580ec9e3256411e37d24de1d5363410ca092b8077bbdf8c58ee69357
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
