@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "49",
+    "bitrate": "51",
     "working": true
   },
   {
@@ -1140,7 +1140,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "ESPNEWS.HD.us2",
@@ -1368,7 +1368,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxCricket.au",
@@ -1702,7 +1702,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "HBO.Drama.us2",
@@ -2846,7 +2846,7 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
