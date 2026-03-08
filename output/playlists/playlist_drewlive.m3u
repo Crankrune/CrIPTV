@@ -975,7 +975,7 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE NXT Vegenance Day
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://602.e-kinerjapjlppsblhs4.fun/wwe.m3u8
+https://602.xn--1000-ugoa0hsb9a0hb.com/wwe.m3u8
 
 #EXTINF:-1 tvg-id="USBD70000412-us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000412_20250520T211332SQUARE.png" group-title="SamsungTVPlus - USA",4UV
 https://jmp2.uk/stvp-USBD70000412
@@ -2624,7 +2624,12 @@ https://cdn9.tgfiles.cfd/live/cdn9/playlist.m3u8?expires=1772938870&token=e2b08d
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CombatSports2.png" group-title="Sharkstreams - UFC",UFC 326: Holloway vs Oliveira 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn5.tgfiles.cfd/live/cdn5/playlist.m3u8?expires=1772938792&token=d8fabc2fa488d64eebd469ea3c196154893952611e7a03ca2e1689ca18a00432
+https://cdn2.tgfiles.cfd/live/cdn2/playlist.m3u8?expires=1772938792&token=4eec885ddbb345ae7a1a671b20db3c7bcbf59fda559a589fe77efe5630fbd527
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Monday Night RAW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772939909&token=3473df62e8e9aacf4c890012307b897b378ec7f3bc201b92579fedb49485618a
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
