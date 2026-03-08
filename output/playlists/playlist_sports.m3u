@@ -14,6 +14,10 @@ https://a1xs.vip/40000011
 # http://fl1.moveonjoy.com/ESPN_2/index.m3u8
 https://a1xs.vip/40000012
 
+#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2
+# https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
+https://a1xs.vip/40000022
+
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="FOX Sports 501" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 501
 https://a1xs.vip/700001
 

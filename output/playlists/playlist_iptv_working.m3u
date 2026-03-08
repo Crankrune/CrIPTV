@@ -85,6 +85,10 @@ https://a1xs.vip/700007
 #EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-weather-us.png?raw=true" group-title="News",FOX Weather 2
 https://247wlive.foxweather.com/stream/index.m3u8
 
+#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2
+# https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
+https://a1xs.vip/40000022
+
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entertainment",Game Show Network
 # http://fl1.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
