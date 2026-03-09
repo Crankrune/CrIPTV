@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "35",
+    "bitrate": "33",
     "working": true
   },
   {
@@ -1426,7 +1426,7 @@
     "width": 1280,
     "height": 720,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -3562,7 +3562,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -4015,7 +4015,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "TNT.Sports.1.HD.uk",
