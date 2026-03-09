@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "34",
+    "bitrate": "31",
     "working": true
   },
   {
@@ -1264,7 +1264,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Fox.News.Channel.HD.us2",
@@ -2846,7 +2846,7 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3031,7 +3031,7 @@
     "commented_urls": [
       "# https://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
     ],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 59.94,
@@ -4256,7 +4256,7 @@
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "VH1.HD.us2",
