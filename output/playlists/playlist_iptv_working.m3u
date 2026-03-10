@@ -143,10 +143,6 @@ https://tvpass.org/live/NFLRedZone/hd
 # http://nocable.cc:8080/91161088/91161088/208830
 https://a1xs.vip/40000033
 
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Kids",Nickelodeon
-# https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-https://a1xs.vip/300030
-
 #EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="OAN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/one-america-news-network-us.png?raw=true" group-title="News",OAN
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8#f00aefe25f8ff3f75d53c52e405462fa773c78de5a53baa43e2e38580fa5f9be
 
@@ -177,6 +173,9 @@ https://a1xs.vip/2000005
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4k" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4k
 https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 Alt" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 Alt
+http://cord-cutter.net:8080/bn80NG/909467/35244
 
 #EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sports",Sky Sports+
 https://a1xs.vip/2000012
