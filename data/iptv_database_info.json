@@ -1365,7 +1365,7 @@
     ],
     "width": 1280,
     "height": 720,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1453,10 +1453,10 @@
     "name": "FOX Sports 506",
     "url": "https://a1xs.vip/700006",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
-    "codec": "hevc",
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1470,8 +1470,8 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 25.0,
-    "codec": "h264",
+    "fps": 50.0,
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -3562,7 +3562,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
