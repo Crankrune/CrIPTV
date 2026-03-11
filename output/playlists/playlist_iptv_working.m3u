@@ -143,6 +143,10 @@ https://tvpass.org/live/NFLRedZone/hd
 # http://nocable.cc:8080/91161088/91161088/208830
 https://a1xs.vip/40000033
 
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Kids",Nickelodeon
+# https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://a1xs.vip/300030
+
 #EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="OAN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/one-america-news-network-us.png?raw=true" group-title="News",OAN
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8#f00aefe25f8ff3f75d53c52e405462fa773c78de5a53baa43e2e38580fa5f9be
 
