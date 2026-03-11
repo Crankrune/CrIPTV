@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "23",
+    "bitrate": "22",
     "working": true
   },
   {
@@ -1380,8 +1380,8 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 50.0,
-    "codec": "hevc",
+    "fps": 25.0,
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1426,7 +1426,7 @@
     "width": 1280,
     "height": 720,
     "fps": 50.0,
-    "codec": "hevc",
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1441,8 +1441,8 @@
     "working": true,
     "width": 1280,
     "height": 720,
-    "fps": 50.0,
-    "codec": "hevc",
+    "fps": 0.0,
+    "codec": "h264",
     "bitrate": null
   },
   {
@@ -4181,7 +4181,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 60.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
