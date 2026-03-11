@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "27",
+    "bitrate": "23",
     "working": true
   },
   {
@@ -1365,7 +1365,7 @@
     ],
     "width": 1280,
     "height": 720,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1380,8 +1380,8 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 25.0,
-    "codec": "h264",
+    "fps": 50.0,
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -1426,7 +1426,7 @@
     "width": 1280,
     "height": 720,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -3031,7 +3031,7 @@
     "commented_urls": [
       "# https://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
     ],
-    "working": false,
+    "working": true,
     "width": 1920,
     "height": 1080,
     "fps": 59.94,
