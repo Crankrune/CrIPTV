@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "20",
+    "bitrate": "18",
     "working": true
   },
   {
@@ -1365,7 +1365,7 @@
     ],
     "width": 1280,
     "height": 720,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1383,7 +1383,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxLeague.au",
@@ -1428,7 +1428,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxSports505.au",
@@ -4181,7 +4181,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 29.97,
+    "fps": 60.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
