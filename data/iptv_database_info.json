@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "19",
+    "bitrate": "20",
     "working": true
   },
   {
@@ -1413,7 +1413,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1441,7 +1441,7 @@
     "working": true,
     "width": 1920,
     "height": 1080,
-    "fps": 30.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null
   },
@@ -1470,8 +1470,8 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 25.0,
-    "codec": "h264",
+    "fps": 50.0,
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
