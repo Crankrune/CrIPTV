@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "19",
+    "bitrate": "17",
     "working": true
   },
   {
@@ -1393,8 +1393,8 @@
     "name": "FOX Sports 502",
     "url": "https://a1xs.vip/700002",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
@@ -1423,8 +1423,8 @@
     "name": "FOX Sports 504",
     "url": "https://a1xs.vip/700004",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
@@ -2846,7 +2846,7 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3562,7 +3562,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
