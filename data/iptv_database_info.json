@@ -549,7 +549,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "CBS.News.National.Stream.us2",
@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "15",
+    "bitrate": "17",
     "working": true
   },
   {
@@ -1383,7 +1383,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxLeague.au",
@@ -1413,7 +1413,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxFooty.au",
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -2846,7 +2846,7 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
