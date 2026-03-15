@@ -4247,25 +4247,10 @@ https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn6.tyfiles.cfd/live/cdn6/playlist.m3u8?expires=1773525441&token=b285f38fba7e5955780d856a880db8b9ffe1c1c36d5c23b5ae2cf5eaa8b17c49
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Charlotte Hornets vs San Antonio Spurs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn7.tyfiles.cfd/live/cdn7/playlist.m3u8?expires=1773524811&token=4a102b85d2c1d8a902e80f457793dd630f12aab8a1297b6dfd90b9867e9207da
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Denver Nuggets vs Los Angeles Lakers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn6.tyfiles.cfd/live/cdn6/playlist.m3u8?expires=1773526492&token=8ce62a40448f8554214806ee8a13debf79e36570a8ffff7f95dc23f1fd31bc8d
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Milwaukee Bucks vs Atlanta Hawks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn10.tyfiles.cfd/live/cdn10/playlist.m3u8?expires=1773525415&token=4dedfec4b18e04457f923cc2438add7fde156467fea6f397f3079e1e1ca5cf8e
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Orlando Magic vs Miami Heat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn9.tyfiles.cfd/live/cdn9/playlist.m3u8?expires=1773526549&token=629bb056d4397abec57dde99250e97b05c530a5802b0105fe362f469d13d1fcc
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Sacramento Kings vs Los Angeles Clippers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
