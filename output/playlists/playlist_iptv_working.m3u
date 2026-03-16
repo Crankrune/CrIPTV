@@ -75,6 +75,9 @@ https://a1xs.vip/700003
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
 https://a1xs.vip/700004
 
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FOX Sports 505" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 505
+https://a1xs.vip/700005
+
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="FOX Sports 507" tvg-logo="https://i.ibb.co/CK1F69ht/Fox507.png" group-title="Sports",FOX Sports 507
 https://a1xs.vip/700007
 
@@ -135,6 +138,10 @@ https://tvpass.org/live/NFLRedZone/hd
 # http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 # http://nocable.cc:8080/91161088/91161088/208830
 https://a1xs.vip/40000033
+
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Kids",Nickelodeon
+# https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://a1xs.vip/300030
 
 #EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="OAN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/one-america-news-network-us.png?raw=true" group-title="News",OAN
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8#f00aefe25f8ff3f75d53c52e405462fa773c78de5a53baa43e2e38580fa5f9be
