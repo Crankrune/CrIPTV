@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "15",
+    "bitrate": "14",
     "working": true
   },
   {
@@ -2829,8 +2829,8 @@
       "# http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
       "# http://nocable.cc:8080/91161088/91161088/208830"
     ],
-    "width": 1024,
-    "height": 576,
+    "width": 640,
+    "height": 360,
     "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
