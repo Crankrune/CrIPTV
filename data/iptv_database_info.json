@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "14",
+    "bitrate": "15",
     "working": true
   },
   {
@@ -1439,9 +1439,9 @@
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
     "working": true,
-    "width": 1280,
-    "height": 720,
-    "fps": 30.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null
   },
@@ -1468,10 +1468,10 @@
     "name": "FOX Sports 507",
     "url": "https://a1xs.vip/700007",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
