@@ -4236,15 +4236,10 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 #EXTINF:-1 tvg-id="696998dfa2b623e8b20125a3-us" tvg-logo="https://images.pluto.tv/channels/696998dfa2b623e8b20125a3/colorLogoPNG_1770231337178.png" group-title="PlutoTV - United States",ZenLIFE by Stingray
 https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE NXT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://601.lifesharper.com/wwe.m3u8
-
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE Smackdown
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://601.boyolili.uk/wwe.m3u8
+https://601.lifesharper.com/wwe.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Dallas Mavericks vs New Orleans Pelicans
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -4280,6 +4275,11 @@ https://cdn12.tyfiles.cfd/live/cdn12/playlist.m3u8?expires=1773703456&token=0dc6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn11.tyfiles.cfd/live/cdn11/playlist.m3u8?expires=1773704685&token=b18fd95e170c40eadcbf95c98186fcff10f4a9b169ea9c29272c3c34fb6655a9
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",San Antonio Spurs vs Los Angeles Clippers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn14.tyfiles.cfd/live/cdn14/playlist.m3u8?expires=1773708053&token=0a05de9b3b03f6a7ba34d6d191036e0a5d2de03190f908f71e3611ed7f17f917
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Monday Night RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -4549,15 +4549,6 @@ https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c28
 
 #EXTINF:-1 tvg-id="400000033" tvg-logo="https://canvas-lb.tubitv.com/opts/_oaMTbqkvgy0VA==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",Kartoon Channel!
 https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
-
-#EXTINF:-1 tvg-id="603178" tvg-logo="https://canvas-lb.tubitv.com/opts/Wip8wYzIID6ipg==/bf147be9-a73f-4512-a28d-cf3429b8b83b/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KMGH Denver 7+ News
-https://live-manifest.production-public.tubi.io/live/13df0714-d770-4999-8251-e00573bd9878/playlist.m3u8
-
-#EXTINF:-1 tvg-id="687458" tvg-logo="https://canvas-lb.tubitv.com/opts/61l_hjycWEsCPQ==/e68a39c1-7715-4690-a4be-ef8182cde199/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KOAA News 5 Colorado
-https://live-manifest.production-public.tubi.io/live/13925190-f7d7-4b7a-ada9-12544c2c77f8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="618766" tvg-logo="https://canvas-lb.tubitv.com/opts/ke_ornWShTfyaw==/19de8aa2-e268-4204-96a3-5407fe3c6632/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KUSA 9NEWS
-https://live-manifest.production-public.tubi.io/live/9e58873a-95d7-418f-b0c9-a825e26d9454/playlist.m3u8
 
 #EXTINF:-1 tvg-id="400000251" tvg-logo="https://canvas-lb.tubitv.com/opts/BYzaJwTCsR4qOQ==/d4c950c6-5131-47a1-a52b-f0644e28d89a/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",Law&Crime
 https://live-manifest.production-public.tubi.io/live/315e77b4-d6b2-410a-85fa-08243751ecc1/playlist.m3u8
