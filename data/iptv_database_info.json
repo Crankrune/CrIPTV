@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "12",
+    "bitrate": "13",
     "working": true
   },
   {
@@ -1378,12 +1378,12 @@
     "name": "FOX Sports 501",
     "url": "https://a1xs.vip/700001",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
-    "fps": 50.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxLeague.au",
@@ -1408,10 +1408,10 @@
     "name": "FOX Sports 503",
     "url": "https://a1xs.vip/700003",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 50.0,
-    "codec": "h264",
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -1428,7 +1428,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "FoxSports505.au",
@@ -1439,9 +1439,9 @@
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
     "working": true,
-    "width": 1920,
-    "height": 1080,
-    "fps": 50.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null
   },
@@ -1453,10 +1453,10 @@
     "name": "FOX Sports 506",
     "url": "https://a1xs.vip/700006",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 50.0,
-    "codec": "hevc",
+    "codec": "h264",
     "bitrate": null,
     "working": true
   },
@@ -1470,8 +1470,8 @@
     "commented_urls": [],
     "width": 1280,
     "height": 720,
-    "fps": 30.0,
-    "codec": "h264",
+    "fps": 50.0,
+    "codec": "hevc",
     "bitrate": null,
     "working": true
   },
@@ -3544,7 +3544,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 25.0,
     "codec": "hevc",
     "bitrate": null,
     "working": true
@@ -3562,7 +3562,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -4181,7 +4181,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 60.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
