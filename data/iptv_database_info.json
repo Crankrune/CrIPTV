@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
@@ -2846,7 +2846,7 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4073,7 +4073,7 @@
     "working": true,
     "width": 1280,
     "height": 720,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null
   },
