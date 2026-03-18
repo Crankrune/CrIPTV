@@ -91,10 +91,6 @@ https://247wlive.foxweather.com/stream/index.m3u8
 # http://fl1.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies",HBO Comedy
-# http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
-https://a1xs.vip/300005
-
 #EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
 https://tvpass.org/live/IFCEast/hd
 
