@@ -10,12 +10,6 @@ https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8
 # http://fl1.moveonjoy.com/CBS_News/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="8fec7a48bdc959d7b1a91d27e3ffbb0b" tvg-name="CBS News Chicago" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-chicago-us.png?raw=true" group-title="News",CBS News Chicago
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-
-#EXTINF:-1 tvg-id="CBS.News.Texas" tvg-name="CBS News Texas" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-dfw-dallas-fort-worth-us.png?raw=true" group-title="News",CBS News Texas
-https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8#3b4349ce0e8371a721ea449eaf4d33c99fc7a6bf5b8d71d8872f010a00871d56
-
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-hq-us.png?raw=true" group-title="Sports",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 
