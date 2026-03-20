@@ -4073,7 +4073,7 @@
     "working": true,
     "width": 1280,
     "height": 720,
-    "fps": 25.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null
   },
