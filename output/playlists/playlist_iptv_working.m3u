@@ -196,6 +196,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 # http://fl1.moveonjoy.com/TSN_4/index.m3u8
 https://tvpass.org/live/tsn4/hd
 
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entertainment",USA Network
+# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+https://a1xs.vip/1100020
+
 #EXTINF:-1 tvg-id="plex.tv.Vice.News.plex" tvg-name="VICE News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="News",VICE News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 
