@@ -561,8 +561,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/CBS_News/index.m3u8"
     ],
-    "width": 640,
-    "height": 360,
+    "width": 320,
+    "height": 180,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1453,9 +1453,9 @@
     "name": "FOX Sports 506",
     "url": "https://a1xs.vip/700006",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 30.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1468,8 +1468,8 @@
     "name": "FOX Sports 507",
     "url": "https://a1xs.vip/700007",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
@@ -4042,7 +4042,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
