@@ -19,10 +19,6 @@ https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Deal.Or.No.Deal.plex" tvg-name="Deal or No Deal" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Entertainment",Deal or No Deal
 https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
-# http://41.205.93.154/ESPN/index.m3u8
-https://a1xs.vip/40000011
-
 #EXTINF:-1 tvg-id="plex.tv.FailArmy.plex" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a358-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c35f867b-7463-4560-8d61-09b18127126b
 

@@ -43,10 +43,6 @@ https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Deal.Or.No.Deal.plex" tvg-name="Deal or No Deal" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Entertainment",Deal or No Deal
 https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
-# http://41.205.93.154/ESPN/index.m3u8
-https://a1xs.vip/40000011
-
 #EXTINF:-1 tvg-id="plex.tv.FailArmy.plex" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a358-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c35f867b-7463-4560-8d61-09b18127126b
 
@@ -159,9 +155,6 @@ https://a1xs.vip/ppv5
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true" group-title="Sports",PPV 6
 # http://fl1.moveonjoy.com/PPV_6/index.m3u8
 https://a1xs.vip/ppv6
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1
-https://a1xs.vip/2000005
 
 #EXTINF:-1 tvg-id="6d8659091f745b8b864f438f06c56fae" tvg-name="TNA Wrestling" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg" group-title="Entertainment",TNA Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
