@@ -4260,11 +4260,6 @@ https://cdn7.tkfiles.cfd/live/cdn7/playlist.m3u8?expires=1774135399&token=f36ccf
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn5.tkfiles.cfd/live/cdn5/playlist.m3u8?expires=1774135309&token=dc2421892523ce26be38467f505952b587f8e7b7947bd2db696efca15fed14c1
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Los Angeles Clippers vs Dallas Mavericks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn8.tkfiles.cfd/live/cdn8/playlist.m3u8?expires=1774135808&token=c356392a5718d64e1d1ec4f8acb3a08f192c687f106a0d9a6cb116d1118244cc
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Los Angeles Lakers vs Orlando Magic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -4298,7 +4293,7 @@ https://cdn1.tkfiles.cfd/live/cdn1/playlist.m3u8?expires=1774138655&token=a60234
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CombatSports2.png" group-title="Sharkstreams - UFC",UFC Fight Night 270 Evloev vs Murphy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn9.tkfiles.cfd/live/cdn9/playlist.m3u8?expires=1774134661&token=d3654b267e6d6b69a434df0480d5a0e6e160260b7f896c92ff9de87b340bd702
+https://cdn10.tkfiles.cfd/live/cdn10/playlist.m3u8?expires=1774134661&token=049e6ef304ceaacb9b50c42a9a78d954f25d900bfe81c6c729ba2b13aa6a7b01
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Monday Night RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
