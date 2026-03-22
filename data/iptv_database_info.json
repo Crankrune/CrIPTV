@@ -549,7 +549,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "CBS.News.National.Stream.us2",
@@ -1468,8 +1468,8 @@
     "name": "FOX Sports 507",
     "url": "https://a1xs.vip/700007",
     "commented_urls": [],
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
@@ -3238,7 +3238,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
@@ -3562,7 +3562,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -4025,7 +4025,7 @@
     "name": "TNT Sports 1",
     "url": "https://a1xs.vip/2000021",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1920,
     "height": 1080,
     "fps": 50.0,
