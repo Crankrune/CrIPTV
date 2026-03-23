@@ -147,10 +147,6 @@ https://oan-plus-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.Kids.Stream.us2" tvg-name="PBS Kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dash-icon-us.png?raw=true" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true" group-title="Sports",PPV 1
-# http://fl1.moveonjoy.com/PPV_1/index.m3u8
-https://a1xs.vip/ppv1
-
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true" group-title="Sports",PPV 3
 # http://fl1.moveonjoy.com/PPV_3/index.m3u8
 https://a1xs.vip/ppv3
@@ -167,9 +163,6 @@ https://a1xs.vip/ppv5
 # http://fl1.moveonjoy.com/PPV_6/index.m3u8
 https://a1xs.vip/ppv6
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1
-https://a1xs.vip/2000005
-
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4k" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4k
 https://a1xs.vip/2000016
 
@@ -180,9 +173,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 # http://fl1.moveonjoy.com/TNT/index.m3u8
 # https://a1xs.vip/300001
 https://a1xs.vip/300002
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="Entertainment",TNT Sports 1
-https://a1xs.vip/2000021
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="Entertainment",TNT Sports 2
 https://a1xs.vip/2000022
