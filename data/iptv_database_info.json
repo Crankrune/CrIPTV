@@ -3544,7 +3544,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 31.67,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -3562,7 +3562,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -4071,8 +4071,8 @@
     "url": "https://a1xs.vip/2000024",
     "commented_urls": [],
     "working": true,
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null
@@ -4181,7 +4181,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 60.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
