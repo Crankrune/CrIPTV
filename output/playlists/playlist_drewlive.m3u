@@ -4254,6 +4254,11 @@ https://601.oletv20.shop/wwe.m3u8
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn9.tkfiles.cfd/live/cdn9/playlist.m3u8?expires=1774306600&token=189fe968d4e145cd995478956a85a1a93f71382eb3a5a0da7e5b7a2e1f372f2a
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Golden State Warriors vs Dallas Mavericks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn8.tkfiles.cfd/live/cdn8/playlist.m3u8?expires=1774306599&token=5be27630a319d1108cb4dee6fb81f621b6c1570d1851898f79a037c370bcf5f4
+
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Houston Rockets vs Chicago Bulls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -4288,6 +4293,11 @@ https://cdn1.tkfiles.cfd/live/cdn1/playlist.m3u8?expires=1774306323&token=2b4411
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn2.tkfiles.cfd/live/cdn2/playlist.m3u8?expires=1774306324&token=99deea37a09e9f50d6d374e08d7381fc7effd1d54e246538ff8786825fc76fa2
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Toronto Raptors vs Utah Jazz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn7.tkfiles.cfd/live/cdn7/playlist.m3u8?expires=1774306599&token=c99069d7f51b1ab849406707c1742860702cf6484d7700e9140c7d3d49d9cefc
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Monday Night RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
