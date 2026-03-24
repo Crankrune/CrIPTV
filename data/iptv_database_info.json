@@ -3544,7 +3544,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 41.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4042,7 +4042,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4071,8 +4071,8 @@
     "url": "https://a1xs.vip/2000024",
     "commented_urls": [],
     "working": true,
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null
