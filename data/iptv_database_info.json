@@ -561,8 +561,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/CBS_News/index.m3u8"
     ],
-    "width": 320,
-    "height": 180,
+    "width": 640,
+    "height": 360,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -4073,7 +4073,7 @@
     "working": true,
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null
   },
