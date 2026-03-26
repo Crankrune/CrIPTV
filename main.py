@@ -57,7 +57,7 @@ def generate_iptv_playlists():
         print(f"Generated output/playlists/{playlist}.m3u")
 
     # Generate DrewLive playlist
-    generate_drewlive_playlist()
+    # generate_drewlive_playlist()
 
     print("Finished IPTV playlist generation.")
 
