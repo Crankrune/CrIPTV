@@ -549,7 +549,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "CBS.News.National.Stream.us2",
@@ -561,8 +561,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/CBS_News/index.m3u8"
     ],
-    "width": 640,
-    "height": 360,
+    "width": 320,
+    "height": 180,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "10",
+    "bitrate": "9",
     "working": true
   },
   {
@@ -3562,7 +3562,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -4073,7 +4073,7 @@
     "working": true,
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null
   },
@@ -4253,7 +4253,7 @@
     ],
     "width": 1920,
     "height": 1080,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
