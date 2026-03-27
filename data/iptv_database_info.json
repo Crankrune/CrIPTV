@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "8",
+    "bitrate": "9",
     "working": true
   },
   {
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1280,
     "height": 720,
     "fps": 30.0,
@@ -3233,8 +3233,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/PPV_1/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
+    "width": 640,
+    "height": 360,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -3289,7 +3289,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": "3163109",
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "PPV.EVENTS.Dummy.us",
@@ -4071,8 +4071,8 @@
     "url": "https://a1xs.vip/2000024",
     "commented_urls": [],
     "working": true,
-    "width": 1920,
-    "height": 1080,
+    "width": 1280,
+    "height": 720,
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null
@@ -4251,9 +4251,9 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
     ],
-    "width": 1920,
-    "height": 1080,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
