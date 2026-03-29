@@ -561,8 +561,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/CBS_News/index.m3u8"
     ],
-    "width": 320,
-    "height": 180,
+    "width": 1280,
+    "height": 720,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "7",
+    "bitrate": "8",
     "working": true
   },
   {
@@ -1473,7 +1473,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Fuse.HD.us2",
@@ -2600,7 +2600,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "N2.Newsmax2.us2",
@@ -3562,7 +3562,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "SkySp.F1.HD.uk",
@@ -4025,10 +4025,10 @@
     "name": "TNT Sports 1",
     "url": "https://a1xs.vip/2000021",
     "commented_urls": [],
-    "working": false,
-    "width": 1920,
-    "height": 1080,
-    "fps": 50.0,
+    "working": true,
+    "width": 1280,
+    "height": 720,
+    "fps": 25.0,
     "codec": "h264",
     "bitrate": null
   },
