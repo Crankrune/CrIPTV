@@ -53,20 +53,8 @@ https://a1xs.vip/40000011
 #EXTINF:-1 tvg-id="plex.tv.FailArmy.plex" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a358-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c35f867b-7463-4560-8d61-09b18127126b
 
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="FOX Sports 501" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 501
-https://a1xs.vip/700001
-
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 502
-https://a1xs.vip/700002
-
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 503
 https://a1xs.vip/700003
-
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-504-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 504
-https://a1xs.vip/700004
-
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="Sports",FOX Sports 506
-https://a1xs.vip/700006
 
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="FOX Sports 507" tvg-logo="https://i.ibb.co/CK1F69ht/Fox507.png" group-title="Sports",FOX Sports 507
 https://a1xs.vip/700007
@@ -146,10 +134,6 @@ https://oan-plus-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBS.Kids.Stream.us2" tvg-name="PBS Kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dash-icon-us.png?raw=true" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/pay-per-view-1.png?raw=true" group-title="Sports",PPV 1
-# http://fl1.moveonjoy.com/PPV_1/index.m3u8
-https://a1xs.vip/ppv1
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1
 https://a1xs.vip/2000005
