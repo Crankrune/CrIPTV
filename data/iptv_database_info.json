@@ -561,8 +561,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/CBS_News/index.m3u8"
     ],
-    "width": 320,
-    "height": 180,
+    "width": 640,
+    "height": 360,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
@@ -1378,9 +1378,9 @@
     "name": "FOX Sports 501",
     "url": "https://a1xs.vip/700001",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 30.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -1398,7 +1398,7 @@
     "fps": 50.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSports503.au",
@@ -1425,10 +1425,10 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 50.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSports505.au",
@@ -1438,7 +1438,7 @@
     "name": "FOX Sports 505",
     "url": "https://a1xs.vip/700005",
     "commented_urls": [],
-    "working": true,
+    "working": false,
     "width": 1280,
     "height": 720,
     "fps": 30.0,
@@ -1458,7 +1458,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "FoxSportsMore.au",
@@ -1789,7 +1789,7 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 59.94,
+    "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4029,7 +4029,7 @@
     "width": 1920,
     "height": 1080,
     "fps": 25.0,
-    "codec": "hevc",
+    "codec": "h264",
     "bitrate": null
   },
   {
