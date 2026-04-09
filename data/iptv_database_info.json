@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "82",
+    "bitrate": "80",
     "working": true
   },
   {
