@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "345",
+    "bitrate": "266",
     "working": true
   },
   {
@@ -2846,7 +2846,7 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
@@ -4181,7 +4181,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 30.0,
+    "fps": 60.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
