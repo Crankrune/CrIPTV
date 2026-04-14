@@ -3965,10 +3965,10 @@ https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://daffodil.underupturnip.net/wwe.m3u8
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Monday Night RAW
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Portland Trail Blazers vs Phoenix Suns
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://to1.tofiles.cfd/live/raw/stream.m3u8?expires=1776113938&token=9b2fa797eeda3d2b505f9f20f90a1e6e379666ae15855623aa8c48053552d327
+https://mb4.tofiles.cfd/live/blazer/stream.m3u8?expires=1776200348&token=aacbd4d52eb56cacab33d2b93481c6d7628af0a552aa45d1e4149b089a2a9069
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
