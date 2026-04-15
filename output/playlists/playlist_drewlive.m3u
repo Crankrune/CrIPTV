@@ -3973,7 +3973,7 @@ https://mb3.tofiles.cfd/live/miami/stream.m3u8?expires=1776221139&token=7e4788cc
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Portland Trail Blazers vs Phoenix Suns
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://mb4.tofiles.cfd/live/blazer/stream.m3u8?expires=1776221139&token=4884232b976b9c7e5ff0694556f14fa5465933b5bff4c6769be5a510b23cd037
+https://mb5.tofiles.cfd/live/blazer/stream.m3u8?expires=1776221139&token=d921c0a77973e7659119764a0e374129217aca46660b7eb7a934e23e0c2d7d28
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
