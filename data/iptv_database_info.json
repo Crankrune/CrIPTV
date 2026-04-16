@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "77",
+    "bitrate": "78",
     "working": true
   },
   {
@@ -1787,12 +1787,12 @@
     "name": "IFC",
     "url": "https://tvpass.org/live/IFCEast/hd",
     "commented_urls": [],
-    "width": 640,
-    "height": 360,
-    "fps": 59.94,
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Investigation.Discovery.HD.us2",
@@ -2846,10 +2846,10 @@
     "commented_urls": [],
     "width": 640,
     "height": 360,
-    "fps": 29.97,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "NHL.Hockey.Dummy.us",
@@ -4181,10 +4181,10 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 60.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "TSN5.ca",
