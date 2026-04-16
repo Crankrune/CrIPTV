@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "78",
+    "bitrate": "72",
     "working": true
   },
   {
@@ -1787,9 +1787,9 @@
     "name": "IFC",
     "url": "https://tvpass.org/live/IFCEast/hd",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
