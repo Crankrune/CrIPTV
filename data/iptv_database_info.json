@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "66",
+    "bitrate": "61",
     "working": true
   },
   {
@@ -4179,8 +4179,8 @@
     "commented_urls": [
       "# http://fl1.moveonjoy.com/TSN_4/index.m3u8"
     ],
-    "width": 1280,
-    "height": 720,
+    "width": 640,
+    "height": 360,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
