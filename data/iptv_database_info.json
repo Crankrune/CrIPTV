@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "78",
+    "bitrate": "66",
     "working": true
   },
   {
@@ -2844,9 +2844,9 @@
     "name": "NFL RedZone (tvpass)",
     "url": "https://tvpass.org/live/NFLRedZone/hd",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "fps": 59.94,
     "codec": "h264",
     "bitrate": null,
     "working": true
