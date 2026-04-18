@@ -21,9 +21,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="BBCEarth.us" tvg-name="BBC Earth" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entertainment",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8#0a70f508006a2738cf7d678e620c1074b9d27de41826af53ab7e8774a25f0534
 
-#EXTINF:-1 tvg-id="plex.tv.The.Bob.Ross.Channel.plex" tvg-name="Bob Ross Channel" tvg-logo="https://images.fubo.tv/station_logos/Bob-ross-channel_c.png" group-title="Entertainment",Bob Ross Channel
-https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="News",CBS News
 # http://fl1.moveonjoy.com/CBS_News/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
