@@ -3987,7 +3987,7 @@ https://nb1.tmfiles.cfd/live/boston/stream.m3u8?expires=1776637674&token=6e72a09
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Phoenix Suns vs Oklahoma City Thunder
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb1.tmfiles.cfd/live/boston/stream.m3u8?expires=1776637618&token=0fffd04ed6ecf47b938fba41dc0b0836099d74a2561ce8f5f1d9f38d3a7a5124
+https://nb2.tmfiles.cfd/live/thunder/stream.m3u8?expires=1776637618&token=fe3a8be48577d08347c10ce88fa7af1a9f9dc8fe3a5b2f471d3985f87135d033
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Portland Trail Blazers vs San Antonio Spurs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -3997,7 +3997,7 @@ https://nb4.tmfiles.cfd/live/spurs/stream.m3u8?expires=1776639187&token=dcc65e07
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE Night: WrestleMania 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb1.tmfiles.cfd/live/wwe/stream.m3u8?expires=1776637600&token=4e8be0ea2d37ae0d5114b51b842622e1a695cef264f5afabf365583d90190ec6
+https://nb5.tmfiles.cfd/live/wwe/stream.m3u8?expires=1776637600&token=7fa1755dbca2530b48fed3af777a4c549d0f7c874351ba7cd911f36a3515bc40
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
