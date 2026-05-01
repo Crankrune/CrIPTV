@@ -3516,6 +3516,9 @@ https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a-us" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="PlutoTV - United States",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 
+#EXTINF:-1 tvg-id="69d7ebb726eeec84158e28cb-us" tvg-logo="https://images.pluto.tv/channels/69d7ebb726eeec84158e28cb/colorLogoPNG_1777587473079.png" group-title="PlutoTV - United States",Pluto TV Adventure
+https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
+
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49-us" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png" group-title="PlutoTV - United States",Pluto TV Anime
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 
@@ -3554,6 +3557,9 @@ https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
 
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86-us" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="PlutoTV - United States",Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+
+#EXTINF:-1 tvg-id="69d6c7befde57cd5ba0160c3-us" tvg-logo="https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png" group-title="PlutoTV - United States",Pluto TV Hometown Drama
+https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
 
 #EXTINF:-1 tvg-id="569546031a619b8f07ce6e25-us" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="PlutoTV - United States",Pluto TV Horror
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
@@ -3707,12 +3713,6 @@ https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 
 #EXTINF:-1 tvg-id="65c69bbfd77d450008c7ffee-us" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="PlutoTV - United States",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
-
-#EXTINF:-1 tvg-id="6049295e7dcef800073c2499-us" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG_1771543916293.png" group-title="PlutoTV - United States",Star Trek en español
-https://jmp2.uk/plu-6049295e7dcef800073c2499.m3u8
-
-#EXTINF:-1 tvg-id="6675c88da1d7ad00084762cb-us" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" group-title="PlutoTV - United States",Star Trek: The Motion Pictures
-https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
 
 #EXTINF:-1 tvg-id="695c32e61ca20bb8ca802eb9-us" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="PlutoTV - United States",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
