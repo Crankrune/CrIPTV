@@ -56,9 +56,6 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Comedy",IFC
 https://tvpass.org/live/IFCEast/hd
 
-#EXTINF:-1 tvg-id="InfoWars.DUMMY.us" tvg-name="InfoWars" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/info-wars-us.png?raw=true" group-title="News",InfoWars
-https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-plus-us.png" group-title="Entertainment",ION Mystery
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 
