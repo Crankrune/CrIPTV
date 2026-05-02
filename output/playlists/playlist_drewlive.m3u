@@ -3996,17 +3996,17 @@ https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Philadelphia 76ers vs Boston Celtics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://sh2.shfiles.cfd/live/boston/stream.m3u8?expires=1777734010&token=139d637ea84778a996c6cedf3903b046d84d78436478ce445f8e9f7db4b368b7
+https://sh2.shfiles.cfd/live/boston/stream.m3u8?expires=1777740364&token=d3aeb75a0b93f7718469067ec7cdb1842bd310b7ef5c0e174eeef6aa1103e36c
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CombatSports2.png" group-title="Sharkstreams - UFC",UFC Fight Night: Della Maddalena v. Prates
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://sh1.shfiles.cfd/live/ufc/stream.m3u8?expires=1777733324&token=9759d26f65da633e643eecc3e629eb7bef0a9d0ce32136f4230c567a5591de53
+https://sh1.shfiles.cfd/live/ufc/stream.m3u8?expires=1777735709&token=cdcccc8ee12da62e2b8196b3cd8f582fe1b6595433c4bca09e3556f9999301c5
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://sh5.shfiles.cfd/live/smackdown/stream.m3u8?expires=1777734001&token=4925a82891be8aa2e680711e974e18dd31a3ddd72faf2493b96013d57a2e0bfb
+https://sh5.shfiles.cfd/live/smackdown/stream.m3u8?expires=1777741194&token=4fd4b8019f06883e337f991ca5c4b843bf4de1acfb9097cc5a8aadcdc7405343
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
