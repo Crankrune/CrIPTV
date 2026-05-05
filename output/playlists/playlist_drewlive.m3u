@@ -3993,7 +3993,7 @@ https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE NXT
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.denishdhakal.com.np/wwe.m3u8
+https://daffodil.sraspers.org/wwe.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Minnesota Timberwolves vs San Antonio Spurs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -4003,7 +4003,7 @@ https://sh2.shfiles.cfd/live/spurs/stream.m3u8?expires=1777940264&token=18878def
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Philadelphia 76ers vs New York Knicks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://sh1.shfiles.cfd/live/knicks/stream.m3u8?expires=1777938675&token=e54f37d2db444608cf952e1e31ad1562dcb6866193f4bc82ed4fad6db13aa1b3
+https://sh1.shfiles.cfd/live/knicks/stream.m3u8?expires=1778014661&token=dd938d260aeeec375919a5c1f7dca6eebdf43e3ecda2ad5fe6ebf92d15ed9572
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE: Monday Night RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
