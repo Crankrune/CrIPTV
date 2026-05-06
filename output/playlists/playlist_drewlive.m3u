@@ -4001,7 +4001,7 @@ https://nb1.bpfiles.cfd/live/pistons/stream.m3u8?expires=1778028758&token=dcefd8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Los Angeles Lakers vs Oklahoma City Thunder
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb2.bpfiles.cfd/live/lakers/stream.m3u8?expires=1778028758&token=13a413500fdc859205b158fdf8ed9f9ecdd428d446820662d2d6e808974a2867
+https://nb3.bpfiles.cfd/live/lakers/stream.m3u8?expires=1778028758&token=b72c4476765a5da2faf67b945cf6f7cba01fa4fe56c69de1f074b1d4f74863e4
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE: Monday Night RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
