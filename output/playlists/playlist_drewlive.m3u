@@ -2985,11 +2985,11 @@ https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 #EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67-us" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 
-#EXTINF:-1 tvg-id="62cdcac1be7a970008781a64-us" tvg-logo="https://images.pluto.tv/channels/62cdcac1be7a970008781a64/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Pittsburgh
-https://jmp2.uk/plu-62cdcac1be7a970008781a64.m3u8
-
 #EXTINF:-1 tvg-id="5eb1b17aa5277e00083f6521-us" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
+
+#EXTINF:-1 tvg-id="62cdcd05b9e7a10007399603-us" tvg-logo="https://images.pluto.tv/channels/62cdcd05b9e7a10007399603/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Sacramento
+https://jmp2.uk/plu-62cdcd05b9e7a10007399603.m3u8
 
 #EXTINF:-1 tvg-id="60cb6df2b2ad610008cd5bea-us" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Sacramento
 https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
@@ -3618,6 +3618,9 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="6675c7868768aa0008d7f1c7-us" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="PlutoTV - United States",Pokémon
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
+#EXTINF:-1 tvg-id="69e6be40fde57cd5ba562b29-us" tvg-logo="https://images.pluto.tv/channels/69e6be40fde57cd5ba562b29/colorLogoPNG_1777592109830.png" group-title="PlutoTV - United States",Pokémon en español
+https://jmp2.uk/plu-69e6be40fde57cd5ba562b29.m3u8
+
 #EXTINF:-1 tvg-id="63b48016d9dd51000828fa37-us" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" group-title="PlutoTV - United States",POWERNATION
 https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
 
@@ -3995,17 +3998,17 @@ https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/cb11e19b9dd8de88a925532ea
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Detroit Pistons vs Cleveland Cavaliers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb6.bpfiles.cfd/live/pistons/stream.m3u8?expires=1778524587&token=4d13349ae3e0b65d20c23a89bd58fa6ca6e5a1e23d7b77850d3502e3f8fbb6ce
+https://nb6.bpfiles.cfd/live/pistons/stream.m3u8?expires=1778529718&token=ffb5ad0d1634508b86a9c0f987db5992aaa08b86925e4ab0b9fad62a6de0d327
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Oklahoma City Thunder vs Los Angeles Lakers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb7.bpfiles.cfd/live/lakers/stream.m3u8?expires=1778524590&token=e9feb70f8c4ef41e441bff3a0762d88063d679630b3ca5ddf04d2467520823d8
+https://nb7.bpfiles.cfd/live/lakers/stream.m3u8?expires=1778530949&token=1450c31691808e56f48c67c76efa51c6898f830ee241c8f2401408ace7025e47
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE: Monday Night RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb9.bpfiles.cfd/live/raw/stream.m3u8?expires=1778524586&token=056736e62bda45c8401a22db6cc18bad045cc874e983a746a9f3cc64726ad594
+https://nb9.bpfiles.cfd/live/raw/stream.m3u8?expires=1778532985&token=8188a6b7e2477648a9646c74a4c77b60299345015426cda369e39306a2ca1c53
 
 #EXTINF:-1 tvg-id="687450" tvg-logo="https://canvas-lb.tubitv.com/opts/nFlppDwdl5Z3Zg==/336146fe-7a27-4e45-ac1c-b4d57c74ca6c/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",25 News KXXV / KRHD
 https://live-manifest.production-public.tubi.io/live/0db2988e-37ba-47a8-9db9-067b4ec49c5f/playlist.m3u8
