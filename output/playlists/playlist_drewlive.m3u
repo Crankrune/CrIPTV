@@ -3996,22 +3996,25 @@ https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",NBA Draft Lottery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://bo1.bofiles.cfd/live/knicks/stream.m3u8?expires=1778461205&token=68fc91d7484e59c902539e3a10f0dca452ac46981065f670aa0bff9ebffb5143
+https://bo1.bofiles.cfd/live/knicks/stream.m3u8?expires=1778457088&token=204cdba94c91139e23dce4dca17905e22a52b8ffa9d56611a83c598dcfd8d399
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",New York Knicks vs Philadelphia 76ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://bo1.bofiles.cfd/live/knicks/stream.m3u8?expires=1778497204&token=95d9e13617bd5625354eac5c7414b2eea6a9745b4f4965c6217f1926e29b4dad
+https://bo1.bofiles.cfd/live/knicks/stream.m3u8?expires=1778456776&token=72eed785c1428011c83f7b4ba0be4c7bcfc906140729fc4ef9a451e1aeb5a27d
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",San Antonio Spurs vs Minnesota Timberwolves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://bo2.bofiles.cfd/live/timber/stream.m3u8?expires=1778456768&token=a47296baef5348a751129612611db296dff5e1ef3a6608d175e980fe2b2e60ad
+https://bo1.bofiles.cfd/live/timber/stream.m3u8?expires=1778456765&token=ed27992c85df88ed5088038abcd2f9eb56bfba8ef94a333c37ad317a88420ce5
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",WWE: Monday Night RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://sh4.shfiles.cfd/live/wwe/stream.m3u8?expires=1778461210&token=bd2aab9f3deaddb3464b83124e85c118f5f3a98fc1b23bc24061cedfd9bfa88d
+https://sh4.shfiles.cfd/live/wwe/stream.m3u8?expires=1778457995&token=7a1096b0fe3d13eaa4209f3d7b1dbba7d183958738ac53834d028e6f4b8617b0
+
+#EXTINF:-1 tvg-id="687450" tvg-logo="https://canvas-lb.tubitv.com/opts/nFlppDwdl5Z3Zg==/336146fe-7a27-4e45-ac1c-b4d57c74ca6c/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",25 News KXXV / KRHD
+https://live-manifest.production-public.tubi.io/live/0db2988e-37ba-47a8-9db9-067b4ec49c5f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
@@ -4199,6 +4202,18 @@ https://live-manifest.production-public.tubi.io/live/91f6ca76-72da-4f5e-a878-fa9
 #EXTINF:-1 tvg-id="671083" tvg-logo="https://canvas-lb.tubitv.com/opts/zLoOXSCJ53buRQ==/cede5a8f-240c-4790-bd37-e1e51583cd0c/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",Forensic Files
 https://live-manifest.production-public.tubi.io/live/8ebe3ce9-1b31-4a38-be9f-4b55f6b49eaf/playlist.m3u8
 
+#EXTINF:-1 tvg-id="721975" tvg-logo="https://canvas-lb.tubitv.com/opts/TFJ2nrVVCnY-_A==/725e3c88-34f1-4cb7-ad88-cbf6b56f6faa/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",FOX23 Tulsa
+https://live-manifest.production-public.tubi.io/live/e5f8753b-01af-4f0f-8f9e-c6ea0aec03be/playlist.m3u8
+
+#EXTINF:-1 tvg-id="555112" tvg-logo="https://canvas-lb.tubitv.com/opts/RBbXDyt9gs3T7g==/17b79a3b-2fce-4809-b64b-1904a5cc2efc/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",FOX LOCAL Austin
+https://live-manifest.production-public.tubi.io/live/e287b7a8-9e3e-4ab8-b960-2b904de366a2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="555108" tvg-logo="https://canvas-lb.tubitv.com/opts/kXLZOMRfqEvaUA==/030bbbae-0d54-4b1b-9b97-716984f5a4e2/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",FOX LOCAL Dallas | Fort Worth
+https://live-manifest.production-public.tubi.io/live/3d685789-0fc1-4e5c-8382-bbd0919815fe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="555110" tvg-logo="https://canvas-lb.tubitv.com/opts/9tfJR-k2rRki8A==/21cbc3da-b205-4f74-b573-1798806439fd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",FOX LOCAL Houston
+https://live-manifest.production-public.tubi.io/live/77322671-3ab0-41a7-bb87-b70211ab1cf1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="555113" tvg-logo="https://canvas-lb.tubitv.com/opts/oC-hI5oCZJUiBA==/0e73f3ca-3e7a-4fa9-82e2-cefdfb798fef/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",FOX LOCAL Los Angeles
 https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf7bcbddaf1/playlist.m3u8
 
@@ -4283,14 +4298,23 @@ https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c28
 #EXTINF:-1 tvg-id="400000033" tvg-logo="https://canvas-lb.tubitv.com/opts/_oaMTbqkvgy0VA==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",Kartoon Channel!
 https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
 
-#EXTINF:-1 tvg-id="603178" tvg-logo="https://canvas-lb.tubitv.com/opts/Wip8wYzIID6ipg==/bf147be9-a73f-4512-a28d-cf3429b8b83b/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KMGH Denver 7+ News
-https://live-manifest.production-public.tubi.io/live/13df0714-d770-4999-8251-e00573bd9878/playlist.m3u8
+#EXTINF:-1 tvg-id="603915" tvg-logo="https://canvas-lb.tubitv.com/opts/6OaTlthwvW7Q8g==/b99826e1-4c75-41da-88e0-3fd39d7951fe/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KHBS Very Arkansas 40
+https://live-manifest.production-public.tubi.io/live/151f5651-5002-49b7-b593-1270b9fefe52/playlist.m3u8
 
-#EXTINF:-1 tvg-id="687458" tvg-logo="https://canvas-lb.tubitv.com/opts/61l_hjycWEsCPQ==/e68a39c1-7715-4690-a4be-ef8182cde199/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KOAA News 5 Colorado
-https://live-manifest.production-public.tubi.io/live/13925190-f7d7-4b7a-ada9-12544c2c77f8/playlist.m3u8
+#EXTINF:-1 tvg-id="610472" tvg-logo="https://canvas-lb.tubitv.com/opts/1crcyOAFoOtisA==/452d6a80-53e0-4b00-aa07-ae0fccd17efa/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KHOU Houston 11
+https://live-manifest.production-public.tubi.io/live/f8ea023b-067e-4339-a1f7-7d252863490f/playlist.m3u8
 
-#EXTINF:-1 tvg-id="618766" tvg-logo="https://canvas-lb.tubitv.com/opts/ke_ornWShTfyaw==/19de8aa2-e268-4204-96a3-5407fe3c6632/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KUSA 9NEWS
-https://live-manifest.production-public.tubi.io/live/9e58873a-95d7-418f-b0c9-a825e26d9454/playlist.m3u8
+#EXTINF:-1 tvg-id="687449" tvg-logo="https://canvas-lb.tubitv.com/opts/sExlgyA12MWDaw==/83d5d5af-20d3-494b-8697-5f6a1801df40/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KJRH 2 News Oklahoma
+https://live-manifest.production-public.tubi.io/live/1f32fa05-2b2c-41b3-baf2-56061914c99b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="588301" tvg-logo="https://canvas-lb.tubitv.com/opts/uvrics3i3tTWQA==/6ccfc749-ccf2-45d1-9d36-3dcdbda0560a/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KOCO Very Oklahoma 5
+https://live-manifest.production-public.tubi.io/live/2a4f6135-7915-440e-9623-4999a80bb432/playlist.m3u8
+
+#EXTINF:-1 tvg-id="688740" tvg-logo="https://canvas-lb.tubitv.com/opts/jJR7JxhfTrDveg==/6f832c92-e8da-4e41-aae6-354a4c6fd750/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KRIS6 Corpus Christi
+https://live-manifest.production-public.tubi.io/live/399b01e5-7b96-48c1-b1e1-cd6d88083963/playlist.m3u8
+
+#EXTINF:-1 tvg-id="687470" tvg-logo="https://canvas-lb.tubitv.com/opts/uHIWn8ooscKFcg==/9dee2225-042d-4ecd-9641-7637b352fb6b/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",KTVH News Helena
+https://live-manifest.production-public.tubi.io/live/56383ccf-a3be-42a1-a0ee-f4ad684d677b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="400000251" tvg-logo="https://canvas-lb.tubitv.com/opts/BYzaJwTCsR4qOQ==/d4c950c6-5131-47a1-a52b-f0644e28d89a/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",Law&Crime
 https://live-manifest.production-public.tubi.io/live/315e77b4-d6b2-410a-85fa-08243751ecc1/playlist.m3u8
@@ -4508,8 +4532,14 @@ https://live-manifest.production-public.tubi.io/live/d419b6d7-3ede-4ca6-9d7c-3f3
 #EXTINF:-1 tvg-id="715945" tvg-logo="https://canvas-lb.tubitv.com/opts/DuU9Cn6o7BqCBg==/2f1fd1c5-7bdc-475f-841f-9a2a9f3ae75b/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",Welcome Home
 https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8
 
+#EXTINF:-1 tvg-id="610470" tvg-logo="https://canvas-lb.tubitv.com/opts/2HnLVRH9sngiLQ==/bdc8b906-9dde-4c4a-a587-4014d3e4df38/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",WFAA Dallas–Fort Worth 8
+https://live-manifest.production-public.tubi.io/live/afbc0e49-62a8-4a83-bf9d-be1ebdbcdc34/playlist.m3u8
+
 #EXTINF:-1 tvg-id="670603" tvg-logo="https://canvas-lb.tubitv.com/opts/zpmicKsrwms87A==/991109c5-dce1-4eac-a23f-1d4713c52cbf/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",Wipeout Xtra
 https://live-manifest.production-public.tubi.io/live/ea70dfb3-0a75-4ca1-9151-476fb43f6230/playlist.m3u8
+
+#EXTINF:-1 tvg-id="610466" tvg-logo="https://canvas-lb.tubitv.com/opts/jyRBgTtq5TBU_A==/c26080ca-ad78-4448-8d95-355ae515aa13/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",WMTW Very Maine 8
+https://live-manifest.production-public.tubi.io/live/d2ebafbd-4e3e-483d-a9ac-c1bc56f8dc95/playlist.m3u8
 
 #EXTINF:-1 tvg-id="692073" tvg-logo="https://canvas-lb.tubitv.com/opts/4d5Ea4ugACCJXg==/4a1d8a18-5086-438b-9298-7381aee4cb83/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",Women's Sports Network
 https://live-manifest.production-public.tubi.io/live/d4c5e01e-75ff-4e1d-abb1-d240e3a3694a/playlist.m3u8
