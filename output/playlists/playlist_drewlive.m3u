@@ -3990,12 +3990,12 @@ https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE NXT
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://601.formaturamaxi.com.br/wwe.m3u8
+https://601.sandhost.qzz.io/wwe.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",New York Knicks vs Cleveland Cavaliers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nh1.hocloud.cfd/live/espn/stream.m3u8?expires=1779753579&token=024bb93c672f5489342916c997ff539ac0eeab0dea7e5d044d269688fcf43f9b
+https://nh2.hocloud.cfd/live/espn/stream.m3u8?expires=1779753579&token=0cefffe1aabe1da116a2362e50523f6e25e27ab5c8e95b757329218335621010
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/WWE.png" group-title="Sharkstreams - WWE",Monday Night Raw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
