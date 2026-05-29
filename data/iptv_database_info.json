@@ -4181,7 +4181,7 @@
     ],
     "width": 640,
     "height": 360,
-    "fps": 59.94,
+    "fps": 60.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
