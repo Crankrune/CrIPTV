@@ -3042,14 +3042,8 @@ https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 #EXTINF:-1 tvg-id="60fb2f47c133270007327375-us" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png" group-title="PlutoTV - United States",Cine aventura
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
 
-#EXTINF:-1 tvg-id="64b9671cdac71b0008f371df-us" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png" group-title="PlutoTV - United States",Cine Clásico
-https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
-
 #EXTINF:-1 tvg-id="5f513564e4622a0007c578c0-us" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png" group-title="PlutoTV - United States",Cine comedia
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-
-#EXTINF:-1 tvg-id="686c1c873ffa5e0c91a85938-us" tvg-logo="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png" group-title="PlutoTV - United States",Cine Crimen
-https://jmp2.uk/plu-686c1c873ffa5e0c91a85938.m3u8
 
 #EXTINF:-1 tvg-id="5cf96b1c4f1ca3f0629f4bf0-us" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="PlutoTV - United States",Cine en español
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
@@ -3380,9 +3374,6 @@ https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
 
 #EXTINF:-1 tvg-id="66df8a29b25d2b0008fc5fe0-us" tvg-logo="https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/colorLogoPNG.png" group-title="PlutoTV - United States",Love Nature
 https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
-
-#EXTINF:-1 tvg-id="5c01df1759ee03633e7b272c-us" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="PlutoTV - United States",Lucha Libre AAA
-https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
 
 #EXTINF:-1 tvg-id="6887a86be3703b7d42b3eca3-us" tvg-logo="https://images.pluto.tv/channels/6887a86be3703b7d42b3eca3/colorLogoPNG_1757524386570.png" group-title="PlutoTV - United States",Matched Married Meet by Lifetime
 https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
@@ -3723,9 +3714,6 @@ https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 tvg-id="5f21ea08007a49000762d349-us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png" group-title="PlutoTV - United States",Smithsonian Channel Selects
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
-#EXTINF:-1 tvg-id="605e479d5b8229000763e697-us" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="PlutoTV - United States",Sony Canal Escape Perfecto
-https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
-
 #EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2-us" tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="PlutoTV - United States",Spike Outdoors
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 
@@ -4016,11 +4004,6 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
 #EXTINF:-1 tvg-id="696998dfa2b623e8b20125a3-us" tvg-logo="https://images.pluto.tv/channels/696998dfa2b623e8b20125a3/colorLogoPNG_1770231337178.png" group-title="PlutoTV - United States",ZenLIFE by Stingray
 https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Roxiestream - WWE",WWE Smackdown
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
 
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="TubiTV",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
