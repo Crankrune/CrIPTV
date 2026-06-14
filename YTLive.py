@@ -18,7 +18,7 @@ def is_live_ydl(video_id: str, debug: bool = False) -> bool:
         "skip_download": True,
         "extract_flat": False,
         "allow_unplayable_formats": True,
-        "extractor_args": {"youtube": {"player_client": ["android", "tv"]}},
+        # "extractor_args": {"youtube": {"player_client": ["android", "tv"]}},
         "cookiefile": "cookies.txt",
     }
     try:
@@ -60,7 +60,7 @@ def get_live_from_url(video_url: str) -> list[dict]:
         "ignoreerrors": True,
         "allow_unplayable_formats": True,
         "extract_flat": False,
-        "extractor_args": {"youtube": {"player_client": ["android", "tv"]}},
+        # "extractor_args": {"youtube": {"player_client": ["android", "tv"]}},
         "cookiefile": "cookies.txt",
     }
     with yt_dlp.YoutubeDL(opts) as ydl:
