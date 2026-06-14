@@ -56,7 +56,7 @@ def get_live_from_url(video_url: str) -> list[dict]:
         "quiet": True,
         "no_warnings": True,
         "skip_download": True,
-        "format": "best",
+        # "format": "best",
         "ignoreerrors": True,
         "allow_unplayable_formats": True,
         "extract_flat": False,
