@@ -10,6 +10,7 @@ from DrewLive_parser import generate_drewlive_playlist
 from epg_generator import write_youtube_epg_file
 from m3u_utils import generate_playlist
 from youtube_utils import update_stream_urls, write_playlist
+from YTLive import main as yt_generator
 
 
 def generate_iptv_playlists():
@@ -119,4 +120,5 @@ if __name__ == "__main__":
     generate_iptv_playlists()
     generate_full_iptv_playlist()
     # generate_youtube_playlist()
-    # generate_youtube_epg()
+    yt_generator()
+    generate_youtube_epg()
