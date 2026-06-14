@@ -243,7 +243,7 @@ def main() -> None:
     start: float = time.perf_counter()
     m3u: str = channels_to_m3u(CHANNELS, LINKS)
     os.makedirs("output/playlists", exist_ok=True)
-    with open("youtube.m3u", "w", encoding="utf-8") as f:
+    with open("./output/playlists/playlist_youtube.m3u", "w", encoding="utf-8") as f:
         f.write(m3u)
 
     end: float = time.perf_counter()
