@@ -53,16 +53,15 @@ def is_live_ydl(video_id: str, debug: bool = False) -> bool:
 
 
 def get_live_from_url(video_url: str) -> list[dict]:
-    opts = {
+    opts: dict[str, bool | int | str | dict[str, list[str]]] = {
         "quiet": True,
         "no_warnings": True,
         "skip_download": True,
         "format": "best",
         "ignoreerrors": True,
         "allow_unplayable_formats": True,
-        "extractor_args": {
-            "youtube": {"player_client": ["android_testsuite", "android", "web"]}
-        },
+        "extract_flat": False,
+        "extractor_args": {"youtube": {"player_client": ["android", "tv"]}},
     }
     with yt_dlp.YoutubeDL(opts) as ydl:
         e = ydl.extract_info(video_url, download=False)
