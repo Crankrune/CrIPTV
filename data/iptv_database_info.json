@@ -2518,8 +2518,8 @@
     "commented_urls": [
       "# https://a1xs.vip/300013"
     ],
-    "width": 1920,
-    "height": 1080,
+    "width": 768,
+    "height": 432,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
