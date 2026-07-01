@@ -102,7 +102,7 @@
     "commented_urls": [],
     "width": 1920,
     "height": 1080,
-    "fps": 25.0,
+    "fps": 0.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
