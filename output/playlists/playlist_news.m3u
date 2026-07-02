@@ -35,6 +35,3 @@ https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8#f00aefe25f8ff3f75d53c52e4
 
 #EXTINF:-1 tvg-id="OAN.Plus" tvg-name="OAN Plus" tvg-logo="https://www.oan.plus/images/logos/OAN-Plus.png" group-title="News",OAN Plus
 https://oan-plus-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="plex.tv.Vice.News.plex" tvg-name="VICE News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="News",VICE News
-https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
