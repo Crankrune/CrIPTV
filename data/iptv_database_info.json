@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "27",
+    "bitrate": "25",
     "working": true
   },
   {
@@ -1316,9 +1316,9 @@
     "name": "FOX Weather 2",
     "url": "https://247wlive.foxweather.com/stream/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
-    "fps": 30.0,
+    "width": 512,
+    "height": 288,
+    "fps": 15.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
