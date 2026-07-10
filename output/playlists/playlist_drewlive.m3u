@@ -2229,6 +2229,9 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 tvg-id="6661f11a41af6400080e90d8-us" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="PlutoTV - United States",Big Brother
 https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
 
+#EXTINF:-1 tvg-id="64a765c04ea480000823917a-us" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG_1749506871042.png" group-title="PlutoTV - United States",Big Brother Camera 1
+https://jmp2.uk/plu-64a765c04ea480000823917a.m3u8
+
 #EXTINF:-1 tvg-id="686d61503484d6073283059d-us" tvg-logo="https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoPNG_1752619670829.png" group-title="PlutoTV - United States",Black Family Sitcoms
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 
