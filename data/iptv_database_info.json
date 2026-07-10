@@ -624,7 +624,7 @@
     "working": true,
     "width": 1216,
     "height": 684,
-    "fps": 0.0,
+    "fps": 30.0,
     "codec": "h264",
     "bitrate": null
   },
@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "14",
+    "bitrate": "12",
     "working": true
   },
   {
