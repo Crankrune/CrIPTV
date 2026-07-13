@@ -640,8 +640,8 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "11",
-    "working": false
+    "bitrate": "12",
+    "working": true
   },
   {
     "tvg-id": "Cinemax.HD.us2",
