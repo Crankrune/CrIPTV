@@ -13,9 +13,6 @@ https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8
 # http://fl1.moveonjoy.com/CBS_News/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="CGTV.us" tvg-name="Champaign Government TV" tvg-logo="https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg" group-title="News",Champaign Government TV
-https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
-
 #EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-weather-us.png?raw=true" group-title="News",FOX Weather 2
 https://247wlive.foxweather.com/stream/index.m3u8
 
