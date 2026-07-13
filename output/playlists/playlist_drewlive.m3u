@@ -2298,6 +2298,9 @@ https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
 #EXTINF:-1 tvg-id="5eb1af2ad345340008fccd1e-us" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Boston
 https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8
 
+#EXTINF:-1 tvg-id="62cdc75b1a1cbd0007ed45dc-us" tvg-logo="https://images.pluto.tv/channels/62cdc75b1a1cbd0007ed45dc/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Chicago
+https://jmp2.uk/plu-62cdc75b1a1cbd0007ed45dc.m3u8
+
 #EXTINF:-1 tvg-id="5eb1aeb2fd4b8a00076c2047-us" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Chicago
 https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
 
@@ -2324,9 +2327,6 @@ https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 
 #EXTINF:-1 tvg-id="5dc48170e280c80009a861ab-us" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News New York
 https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
-
-#EXTINF:-1 tvg-id="62cdca1cda044a00077b903d-us" tvg-logo="https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Philadelphia
-https://jmp2.uk/plu-62cdca1cda044a00077b903d.m3u8
 
 #EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67-us" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
