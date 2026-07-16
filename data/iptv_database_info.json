@@ -60,7 +60,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Adult.Swim.ca2",
@@ -75,7 +75,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "plex.tv.Always.Funny.plex",
@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "152",
+    "bitrate": "145",
     "working": true
   },
   {
