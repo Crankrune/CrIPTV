@@ -100,8 +100,8 @@
     "name": "Al Jazeera English",
     "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8#385214819c093313b7590321ed6470bdd38ec896a45ff88a8ffac4baf94ed098",
     "commented_urls": [],
-    "width": 426,
-    "height": 240,
+    "width": 1920,
+    "height": 1080,
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "27",
+    "bitrate": "25",
     "working": true
   },
   {
