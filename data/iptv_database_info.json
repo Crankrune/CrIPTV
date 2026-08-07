@@ -1913,7 +1913,7 @@
     "commented_urls": [],
     "width": 1216,
     "height": 684,
-    "fps": 30.0,
+    "fps": 0.0,
     "codec": "h264",
     "bitrate": null,
     "working": true
