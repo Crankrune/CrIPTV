@@ -2247,7 +2247,7 @@ https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8
 #EXTINF:-1 tvg-id="6549310a53fc97000838fcc9-us" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png" group-title="PlutoTV - United States",Bravo Vault
 https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
 
-#EXTINF:-1 tvg-id="60f5d389985a0c0007357304-us" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-title="PlutoTV - United States",BritBox Mysteries
+#EXTINF:-1 tvg-id="60f5d389985a0c0007357304-us" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG_1786980983531.png" group-title="PlutoTV - United States",BritBox Mysteries
 https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
 
 #EXTINF:-1 tvg-id="5812bfbe4ced4f7b601b12e6-us" tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="PlutoTV - United States",BUZZR
@@ -2304,11 +2304,11 @@ https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 #EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67-us" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 
-#EXTINF:-1 tvg-id="62cdcac1be7a970008781a64-us" tvg-logo="https://images.pluto.tv/channels/62cdcac1be7a970008781a64/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Pittsburgh
-https://jmp2.uk/plu-62cdcac1be7a970008781a64.m3u8
-
 #EXTINF:-1 tvg-id="5eb1b17aa5277e00083f6521-us" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
+
+#EXTINF:-1 tvg-id="62cdcd05b9e7a10007399603-us" tvg-logo="https://images.pluto.tv/channels/62cdcd05b9e7a10007399603/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Sacramento
+https://jmp2.uk/plu-62cdcd05b9e7a10007399603.m3u8
 
 #EXTINF:-1 tvg-id="60cb6df2b2ad610008cd5bea-us" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="PlutoTV - United States",CBS News Sacramento
 https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
@@ -2651,12 +2651,6 @@ https://jmp2.uk/plu-6267352efcf21c0007c76642.m3u8
 
 #EXTINF:-1 tvg-id="63335b193583440007c859fb-us" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG_1767722325837.png" group-title="PlutoTV - United States",Lifetime Movie Favorites
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
-
-#EXTINF:-1 tvg-id="5eb301b7395671000780d100-us" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="PlutoTV - United States",Little Angel's Playroom
-https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
-
-#EXTINF:-1 tvg-id="60493283ffc52f000710edae-us" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="PlutoTV - United States",Little Angel's Playroom en Español
-https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
 
 #EXTINF:-1 tvg-id="654933ac986ad20008a1f406-us" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="PlutoTV - United States",Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
@@ -3069,7 +3063,7 @@ https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8
 #EXTINF:-1 tvg-id="6887aaf4e3703b7d42b71a1e-us" tvg-logo="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/colorLogoPNG_1784129527094.png" group-title="PlutoTV - United States",Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 
-#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a-us" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="PlutoTV - United States",Stories by AMC
+#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a-us" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG_1787093171101.png" group-title="PlutoTV - United States",Stories by AMC
 https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 
 #EXTINF:-1 tvg-id="667f393836a2f90008fd17c0-us" tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png" group-title="PlutoTV - United States",Strawberry Shortcake and Friends
