@@ -139,8 +139,6 @@ https://tv.crankrune.dedyn.io/stream/318.m3u8
 https://tv.crankrune.dedyn.io/stream/319.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" tvg-id="Global.Toronto.HD.ca2",Global
 https://tv.crankrune.dedyn.io/stream/836.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/great-american-family-us.png?raw=true" tvg-id="Great.American.Family.HD.us2",Great American Family
-https://tv.crankrune.dedyn.io/stream/699.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png" tvg-id="Grit.us2",Grit
 https://tv.crankrune.dedyn.io/stream/752.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" tvg-id="HBO.Comedy.HD.us2",HBO Comedy
@@ -177,6 +175,8 @@ https://tv.crankrune.dedyn.io/stream/389.m3u8
 https://tv.crankrune.dedyn.io/stream/326.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" tvg-id="Logo.us2",Logo
 https://tv.crankrune.dedyn.io/stream/849.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/masn-us.png" tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2",MASN
+https://tv.crankrune.dedyn.io/stream/829.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" tvg-id="Me.TV.Network.us2",MeTV
 https://tv.crankrune.dedyn.io/stream/662.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" tvg-id="MGM+.HD.us2",MGM+
@@ -241,8 +241,6 @@ https://tv.crankrune.dedyn.io/stream/331.m3u8
 https://tv.crankrune.dedyn.io/stream/848.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png" tvg-id="Oxygen.True.Crime.HD.us2",Oxygen
 https://tv.crankrune.dedyn.io/stream/332.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" tvg-id="WNET-DT.us_locals1",PBS
-https://tv.crankrune.dedyn.io/stream/210.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" tvg-id="POP.HD.us2",POP
 https://tv.crankrune.dedyn.io/stream/653.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" tvg-id="Paramount.Network.HD.us2",Paramount Network
@@ -281,6 +279,8 @@ https://tv.crankrune.dedyn.io/stream/70.m3u8
 https://tv.crankrune.dedyn.io/stream/449.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png" tvg-id="SkySpMainEvHD.uk",Sky Sports Main Event
 https://tv.crankrune.dedyn.io/stream/38.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" tvg-id="SkySp.News.HD.uk",Sky Sports News
+https://tv.crankrune.dedyn.io/stream/366.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png" tvg-id="SkySp.Racing.HD.uk",Sky Sports Racing
 https://tv.crankrune.dedyn.io/stream/554.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png" tvg-id="SkySp.Tennis.HD.uk",Sky Sports Tennis
@@ -301,8 +301,6 @@ https://tv.crankrune.dedyn.io/stream/922.m3u8
 https://tv.crankrune.dedyn.io/stream/409.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" tvg-id="Sportsnet.East.HD.ca2",SportsNet East
 https://tv.crankrune.dedyn.io/stream/408.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" tvg-id="Sportsnet.One.HD.ca2",SportsNet One
-https://tv.crankrune.dedyn.io/stream/411.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" tvg-id="Sportsnet.Ontario.HD.ca2",SportsNet Ontario
 https://tv.crankrune.dedyn.io/stream/406.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" tvg-id="Sportsnet.West.HD.ca2",SportsNet West
