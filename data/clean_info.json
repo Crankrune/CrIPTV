@@ -89,7 +89,7 @@
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png",
         "epg_id": "BET.HD.us2"
     },
-    "Big Ten Network (BTN USA)": {
+    "BIG TEN Network (BTN USA)": {
         "cleaned_name": "Big Ten Network",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png",
         "epg_id": "Big.Ten.Network.HD.us2"
@@ -420,7 +420,7 @@
         "epg_id": "FYI.Channel.HD.us2"
     },
     "Game Show Network": {
-        "cleaned_name": "GSN",
+        "cleaned_name": "Game Show Network",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true",
         "epg_id": "Game.Show.Network.HD.us2"
     },
@@ -454,7 +454,7 @@
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png",
         "epg_id": "HBO.Comedy.HD.us2"
     },
-    "HBO Family USA": {
+    "HBO Family USA#WRONG": {
         "cleaned_name": "HBO Family",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png",
         "epg_id": "HBO.Family"
