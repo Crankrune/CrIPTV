@@ -212,7 +212,7 @@
     "CTV Canada": {
         "cleaned_name": "CTV",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png",
-        "epg_id": "CTV.Toronto.HD.ca2"
+        "epg_id": "CTV.Vancouver.HD.ca2"
     },
     "CW PIX 11 USA": {
         "cleaned_name": "CW PIX 11",
@@ -727,7 +727,7 @@
     "PBS USA": {
         "cleaned_name": "PBS",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png",
-        "epg_id": "PBS.Stream.us2"
+        "epg_id": "WNET-DT.us_locals1"
     },
     "POP TV USA": {
         "cleaned_name": "POP",
