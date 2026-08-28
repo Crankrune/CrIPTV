@@ -1,5 +1,6 @@
 import json
 import urllib.request
+from urllib.error import HTTPError, URLError
 
 from m3uparse import Channel, Playlist
 
@@ -7,11 +8,15 @@ PLAYLIST_URL: str = "https://tv.crankrune.dedyn.io/playlist.m3u8"
 
 
 def main() -> None:
-    with open("clean_info.json", "r", encoding="utf-8") as f:
+    with open("data/clean_info.json", mode="r", encoding="utf-8") as f:
         clean_info = json.load(f)
 
-    with urllib.request.urlopen(PLAYLIST_URL, timeout=10) as response:
-        m3u_text = response.read().decode("utf-8")
+    try:
+        with urllib.request.urlopen(PLAYLIST_URL, timeout=10) as response:
+            m3u_text = response.read().decode("utf-8")
+    except (HTTPError, URLError):
+        print(f"Unable to grab playlist from {PLAYLIST_URL!r}, no playlist generated.")
+        return
 
     playlist = Playlist.parse(m3u_text)
 
@@ -53,4 +58,4 @@ def main() -> None:
     with open(
         "output/playlists/playlist_CrankTV_working.m3u8", mode="w", encoding="utf-8"
     ) as fl:
-        fl.write(clean_playlist.to_m3u())
+        fl.write(clean_working_playlist.to_m3u())

@@ -5,9 +5,13 @@ from m3u_utils import generate_playlist, parse_playlist
 drewlive_url: str = "http://drewlive2423.duckdns.org:8081/DrewLive/MergedPlaylist.m3u8"
 
 
-def generate_drewlive_playlist():
-    playlist: str = httpx.get(drewlive_url).text
-    playlist_data: list[dict] = parse_playlist(playlist)
+def generate_drewlive_playlist() -> None:
+    try:
+        playlist: str = httpx.get(drewlive_url).text
+    except httpx.ConnectTimeout:
+        print("DrewLive is currently unresponsive, no playlist generated.")
+        return
+    playlist_data: list[dict] = parse_playlist(playlist_content=playlist)
 
     desired_grous: list[str] = [
         "A1xmedia Live Event | PPV",
