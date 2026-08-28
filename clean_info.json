@@ -1,0 +1,1182 @@
+{
+    "A&E USA": {
+        "cleaned_name": "A&E",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",
+        "epg_id": "A.and.E.HD.East.us2"
+    },
+    "ABC NY USA": {
+        "cleaned_name": "ABC New York",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-white-us.png?raw=true",
+        "epg_id": "WABC-DT.us_locals1"
+    },
+    "ABC USA": {
+        "cleaned_name": "ABC",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png",
+        "epg_id": "ABC.National.Feed.us2"
+    },
+    "ACC Network USA": {
+        "cleaned_name": "ACC Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png",
+        "epg_id": "ACC.Network.us2"
+    },
+    "Adult Swim": {
+        "cleaned_name": "Adult Swim",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png",
+        "epg_id": "AdultSwim.com.Cartoon.Network.us2"
+    },
+    "AHC (American Heroes Channel)": {
+        "cleaned_name": "American Heroes Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/american-heroes-channel-us.png",
+        "epg_id": "American.Heroes.Channel.HD.us2"
+    },
+    "Altitude Sports": {
+        "cleaned_name": "Altitude Sports",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/altitude-sports-us.png",
+        "epg_id": "Altitude.Sports.us2"
+    },
+    "AMC USA": {
+        "cleaned_name": "AMC",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",
+        "epg_id": "AMC.HD.us2"
+    },
+    "Animal Planet": {
+        "cleaned_name": "Animal Planet",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",
+        "epg_id": "Animal.Planet.HD.us2"
+    },
+    "Antenna TV USA": {
+        "cleaned_name": "Antenna TV",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/antenna-us.png?raw=true",
+        "epg_id": "Antenna.TV.us2"
+    },
+    "AXS TV USA": {
+        "cleaned_name": "AXS TV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png",
+        "epg_id": "AXS.TV.us2"
+    },
+    "BBC America (BBCA)": {
+        "cleaned_name": "BBC America",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png",
+        "epg_id": "BBC.America.HD.us2"
+    },
+    "BBC Four UK": {
+        "cleaned_name": "BBC Four",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png",
+        "epg_id": "BBC.Four.HD.uk"
+    },
+    "BBC News Channel HD": {
+        "cleaned_name": "BBC News",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png",
+        "epg_id": "BBC.NEWS.HD.uk"
+    },
+    "BBC One UK": {
+        "cleaned_name": "BBC One",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",
+        "epg_id": "BBC.One.HD.uk"
+    },
+    "BBC Three UK": {
+        "cleaned_name": "BBC Three",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png",
+        "epg_id": "BBC.Three.HD.uk"
+    },
+    "BBC Two UK": {
+        "cleaned_name": "BBC Two",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",
+        "epg_id": "BBC.Two.HD.uk"
+    },
+    "BET USA": {
+        "cleaned_name": "BET",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png",
+        "epg_id": "BET.HD.us2"
+    },
+    "Big Ten Network (BTN USA)": {
+        "cleaned_name": "Big Ten Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png",
+        "epg_id": "Big.Ten.Network.HD.us2"
+    },
+    "Boomerang": {
+        "cleaned_name": "Boomerang",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png",
+        "epg_id": "Boomerang.us2"
+    },
+    "Bravo USA": {
+        "cleaned_name": "Bravo",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png",
+        "epg_id": "Bravo.HD.us2"
+    },
+    "C SPAN 1": {
+        "cleaned_name": "C-SPAN",
+        "logo_url": "https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/c-span-1-us.png",
+        "epg_id": "CSPAN.us2"
+    },
+    "Cartoon Network": {
+        "cleaned_name": "Cartoon Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",
+        "epg_id": "Cartoon.Network.HD.us2"
+    },
+    "CBC CA": {
+        "cleaned_name": "CBC",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png",
+        "epg_id": "CBC.Toronto.HD.ca2"
+    },
+    "CBS Sports Golazo": {
+        "cleaned_name": "CBS Sports Golazo",
+        "logo_url": "https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cbs-sports-golazo-network-us.png",
+        "epg_id": "CBS.Sports.Golazo.Network.us2"
+    },
+    "CBS Sports Network (CBSSN)": {
+        "cleaned_name": "CBS Sports Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png",
+        "epg_id": "CBS.Sports.Network.HD.us2"
+    },
+    "CBS USA": {
+        "cleaned_name": "CBS",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",
+        "epg_id": "CBS.Streaming.SD.East.feed.us2"
+    },
+    "CBSNY USA": {
+        "cleaned_name": "CBS New York",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",
+        "epg_id": "WCBS-DT.us_locals1"
+    },
+    "Chicago Sports Network": {
+        "cleaned_name": "Chicago Sports Network",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png",
+        "epg_id": "CHSN.Chicago.Sports.Network.us2"
+    },
+    "Cinemax USA": {
+        "cleaned_name": "Cinemax",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
+        "epg_id": "Cinemax.HD.us2"
+    },
+    "Citytv": {
+        "cleaned_name": "Citytv",
+        "logo_url": "https://github.com/tv-logo/tv-logos/raw/main/countries/canada/city-tv-ca.png",
+        "epg_id": "Citytv.Toronto.HD.ca2"
+    },
+    "Cleo TV": {
+        "cleaned_name": "Cleo TV",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true",
+        "epg_id": "Cleo.TV.HD.us2"
+    },
+    "CMT USA": {
+        "cleaned_name": "CMT",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png",
+        "epg_id": "CMT.HD.us2"
+    },
+    "CNBC USA": {
+        "cleaned_name": "CNBC",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png",
+        "epg_id": "CNBC.HD.us2"
+    },
+    "CNN USA": {
+        "cleaned_name": "CNN",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",
+        "epg_id": "CNN.HD.us2"
+    },
+    "Comedy Central": {
+        "cleaned_name": "Comedy Central",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png",
+        "epg_id": "Comedy.Central.HD.us2"
+    },
+    "Comet USA": {
+        "cleaned_name": "Comet",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",
+        "epg_id": "Comet.us2"
+    },
+    "Cooking Channel USA": {
+        "cleaned_name": "Cooking Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png",
+        "epg_id": "Cooking.Channel.HD.us2"
+    },
+    "Court TV USA": {
+        "cleaned_name": "Court TV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/court-tv-us.png",
+        "epg_id": "Court.TV.us2"
+    },
+    "COZI TV USA": {
+        "cleaned_name": "COZI TV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png",
+        "epg_id": "COZI.TV.us2"
+    },
+    "Crime+ Investigation USA": {
+        "cleaned_name": "Crime+ Investigation",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1280px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "epg_id": "Crime.and.Investigation.Network.HD.us2"
+    },
+    "CTV 2 Canada": {
+        "cleaned_name": "CTV 2",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",
+        "epg_id": "CTV.Two.-.Toronto.ca2"
+    },
+    "CTV Canada": {
+        "cleaned_name": "CTV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png",
+        "epg_id": "CTV.Toronto.HD.ca2"
+    },
+    "CW PIX 11 USA": {
+        "cleaned_name": "CW PIX 11",
+        "logo_url": "https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/cw/cw-11-wpix-us.png",
+        "epg_id": "WPIX-DT.us_locals1"
+    },
+    "CW Philly": {
+        "cleaned_name": "CW Philadelphia",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-57-wpsg-us.png",
+        "epg_id": "WPSG-DT.us_locals1"
+    },
+    "CW USA": {
+        "cleaned_name": "CW",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png",
+        "epg_id": "CW.Plus.East.us2"
+    },
+    "Destination America": {
+        "cleaned_name": "Destination America",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png",
+        "epg_id": "Destination.America.HD.us2"
+    },
+    "Discovery Channel": {
+        "cleaned_name": "Discovery Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",
+        "epg_id": "Discovery.Channel.HD.us2"
+    },
+    "Discovery Family": {
+        "cleaned_name": "Discovery Family",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png",
+        "epg_id": "Discovery.Family.Channel.HD.us2"
+    },
+    "Discovery Life Channel": {
+        "cleaned_name": "Discovery Life",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png",
+        "epg_id": "Discovery.Life.Channel.us2"
+    },
+    "Discovery Turbo": {
+        "cleaned_name": "Discovery Turbo",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-turbo-us.png",
+        "epg_id": "Discovery.Turbo.TV.us2"
+    },
+    "Disney Channel": {
+        "cleaned_name": "Disney Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png",
+        "epg_id": "Disney.Channel.HD.us2"
+    },
+    "Disney JR": {
+        "cleaned_name": "Disney Jr.",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true",
+        "epg_id": "Disney.Junior.HD.us2"
+    },
+    "Disney XD": {
+        "cleaned_name": "Disney XD",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png",
+        "epg_id": "Disney.XD.HD.us2"
+    },
+    "E! Entertainment Television": {
+        "cleaned_name": "E!",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png",
+        "epg_id": "E!.Entertainment.Television.HD.us2"
+    },
+    "ESPN USA": {
+        "cleaned_name": "ESPN",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",
+        "epg_id": "ESPN.HD.us2"
+    },
+    "ESPN2 USA": {
+        "cleaned_name": "ESPN2",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true",
+        "epg_id": "ESPN2.HD.us2"
+    },
+    "ESPNews": {
+        "cleaned_name": "ESPNews",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png",
+        "epg_id": "ESPNEWS.HD.us2"
+    },
+    "ESPNU USA": {
+        "cleaned_name": "ESPNU",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true",
+        "epg_id": "ESPNU.HD.us2"
+    },
+    "FanDuel Sports Network Arizona": {
+        "cleaned_name": "FanDuel Sports Arizona",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.Southwest.us"
+    },
+    "FanDuel Sports Network Midwest": {
+        "cleaned_name": "FanDuel Sports Midwest",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Midwest.-.Kansas.City.us"
+    },
+    "FanDuel Sports Network New Orleans": {
+        "cleaned_name": "FanDuel Sports New Orleans",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.New.Orleans.us"
+    },
+    "FanDuel Sports Network North": {
+        "cleaned_name": "FanDuel Sports North",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.North.us"
+    },
+    "FanDuel Sports Network Ohio": {
+        "cleaned_name": "FanDuel Sports Ohio",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+    },
+    "FanDuel Sports Network Oklahoma": {
+        "cleaned_name": "FanDuel Sports Oklahoma",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.Oklahoma.us"
+    },
+    "FanDuel Sports Network SoCal": {
+        "cleaned_name": "FanDuel Sports SoCal",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.SoCal.us"
+    },
+    "FanDuel Sports Network South": {
+        "cleaned_name": "FanDuel Sports South",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.South.us"
+    },
+    "FanDuel Sports Network Southeast": {
+        "cleaned_name": "FanDuel Sports Southeast",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.Southeast.us"
+    },
+    "FanDuel Sports Network Sun": {
+        "cleaned_name": "FanDuel Sports Sun",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "Fanduel.Sports.Sun.HD.us"
+    },
+    "FanDuel Sports Network West": {
+        "cleaned_name": "FanDuel Sports West",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.West.us"
+    },
+    "FanDuel Sports Network Wisconsin": {
+        "cleaned_name": "FanDuel Sports Wisconsin",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
+        "epg_id": "FanDuel.Sports.Network.Wisconsin.us"
+    },
+    "FETV - Family Entertainment Television": {
+        "cleaned_name": "FETV",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fetv-us.png?raw=true",
+        "epg_id": "Family.Entertainment.Television.us2"
+    },
+    "FOX Soccer Plus": {
+        "cleaned_name": "FOX Soccer Plus",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png",
+        "epg_id": "Fox.Soccer.Plus.HD.us2"
+    },
+    "FOX Sports 1 USA": {
+        "cleaned_name": "FS1",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png",
+        "epg_id": "FS1.Fox.Sports.1.HD.us2"
+    },
+    "FOX Sports 2 USA": {
+        "cleaned_name": "FS2",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs2-us.png",
+        "epg_id": "FS2.Fox.Sports.2.HD.us2"
+    },
+    "FOX USA": {
+        "cleaned_name": "FOX",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",
+        "epg_id": "WNYW-DT.us_locals1"
+    },
+    "FOX Weather Channel": {
+        "cleaned_name": "FOX Weather",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-weather-us.png",
+        "epg_id": "Fox.Weather.us"
+    },
+    "FOXNY USA": {
+        "cleaned_name": "FOX New York",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-5-wnyw-us.png?raw=true",
+        "epg_id": "WNYW-DT.us_locals1"
+    },
+    "Freeform": {
+        "cleaned_name": "Freeform",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png",
+        "epg_id": "Freeform.HD.us2"
+    },
+    "FUSE TV USA": {
+        "cleaned_name": "Fuse",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fuse-us.png",
+        "epg_id": "Fuse.HD.us2"
+    },
+    "FX Movie Channel": {
+        "cleaned_name": "FX Movies",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",
+        "epg_id": "FX.Movie.Channel.HD.us2"
+    },
+    "FX USA": {
+        "cleaned_name": "FX",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png",
+        "epg_id": "FX.HD.us2"
+    },
+    "FXX USA": {
+        "cleaned_name": "FXX",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png",
+        "epg_id": "FXX.HD.us2"
+    },
+    "FYI": {
+        "cleaned_name": "FYI",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png",
+        "epg_id": "FYI.Channel.HD.us2"
+    },
+    "Game Show Network": {
+        "cleaned_name": "GSN",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true",
+        "epg_id": "Game.Show.Network.HD.us2"
+    },
+    "Global CA": {
+        "cleaned_name": "Global",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png",
+        "epg_id": "Global.Toronto.HD.ca2"
+    },
+    "GOLF Channel USA": {
+        "cleaned_name": "Golf Channel",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true",
+        "epg_id": "Golf.Channel.HD.us2"
+    },
+    "Great American Family Channel (GAC)": {
+        "cleaned_name": "Great American Family",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/great-american-family-us.png?raw=true",
+        "epg_id": "Great.American.Family.HD.us2"
+    },
+    "Grit Channel": {
+        "cleaned_name": "Grit",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png",
+        "epg_id": "Grit.us2"
+    },
+    "Hallmark Movies & Mysterie": {
+        "cleaned_name": "Hallmark Mystery",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",
+        "epg_id": "Hallmark.Mystery.HD.us2"
+    },
+    "HBO Comedy USA": {
+        "cleaned_name": "HBO Comedy",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png",
+        "epg_id": "HBO.Comedy.HD.us2"
+    },
+    "HBO Family USA": {
+        "cleaned_name": "HBO Family",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png",
+        "epg_id": "HBO.Family"
+    },
+    "HBO Latino USA": {
+        "cleaned_name": "HBO Latino",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-latino-us.png",
+        "epg_id": "HBO.Latino.HD.us2"
+    },
+    "HBO Signature USA": {
+        "cleaned_name": "HBO Signature",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "epg_id": "HBO.Signature.HD.us2"
+    },
+    "HBO USA": {
+        "cleaned_name": "HBO",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",
+        "epg_id": "HBO.East.us2"
+    },
+    "HBO Zone USA": {
+        "cleaned_name": "HBO Zone",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "epg_id": "HBO.Zone.HD.us2"
+    },
+    "HBO2 USA": {
+        "cleaned_name": "HBO2",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "epg_id": "HBO2.HD.us2"
+    },
+    "Headline News": {
+        "cleaned_name": "HLN",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png",
+        "epg_id": "HLN.HD.us2"
+    },
+    "Heroes & Icons (H&I) USA": {
+        "cleaned_name": "Heroes & Icons",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/heroes-and-icons-us.png?raw=true",
+        "epg_id": "Heroes.and.Icons.Network.SD.us2"
+    },
+    "HGTV": {
+        "cleaned_name": "HGTV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",
+        "epg_id": "Home.and.Garden.Television.HD.us2"
+    },
+    "History USA": {
+        "cleaned_name": "History",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true",
+        "epg_id": "History.HD.us2"
+    },
+    "IFC TV USA": {
+        "cleaned_name": "IFC",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ifc-us.png",
+        "epg_id": "IFC.HD.us2"
+    },
+    "Investigation Discovery (ID USA)": {
+        "cleaned_name": "Investigation Discovery",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png",
+        "epg_id": "Investigation.Discovery.HD.us2"
+    },
+    "ION USA": {
+        "cleaned_name": "ION",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true",
+        "epg_id": "ION.Television.HD.us2"
+    },
+    "Law & Crime Network": {
+        "cleaned_name": "Law & Crime",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/law-and-crime-network-us.png?raw=true",
+        "epg_id": "Law.and.Crime.us2"
+    },
+    "Lifetime Movies Network": {
+        "cleaned_name": "Lifetime Movies",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movies-us.png",
+        "epg_id": "LMN.HD.us2"
+    },
+    "Lifetime Network": {
+        "cleaned_name": "Lifetime",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",
+        "epg_id": "Lifetime.HD.us2"
+    },
+    "Logo TV USA": {
+        "cleaned_name": "Logo",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true",
+        "epg_id": "Logo.us2"
+    },
+    "Magnolia Network": {
+        "cleaned_name": "Magnolia Network",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true",
+        "epg_id": "Magnolia.Network.HD.us2"
+    },
+    "Marquee Sports Network": {
+        "cleaned_name": "Marquee Sports Network",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/marquee-sports-network-us.png?raw=true",
+        "epg_id": "Marquee.Sports.Network.HD.us2"
+    },
+    "MASN USA": {
+        "cleaned_name": "MASN",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/masn-us.png",
+        "epg_id": "MASN.-.Mid.Atlantic.Sports.Network.us2"
+    },
+    "METV USA": {
+        "cleaned_name": "MeTV",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true",
+        "epg_id": "Me.TV.Network.us2"
+    },
+    "MGM+ USA / Epix": {
+        "cleaned_name": "MGM+",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png",
+        "epg_id": "MGM+.HD.us2"
+    },
+    "MLB Network USA": {
+        "cleaned_name": "MLB Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png",
+        "epg_id": "MLB.Network.HD.us2"
+    },
+    "Monumental Sports Network": {
+        "cleaned_name": "Monumental Sports Network",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/monumental-sports-network-us.png?raw=true",
+        "epg_id": "Monumental.Sports.Network.HD.us2"
+    },
+    "MSG USA": {
+        "cleaned_name": "MSG",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png",
+        "epg_id": "MSG.SportsNet.2.HD.us2"
+    },
+    "MSNBC": {
+        "cleaned_name": "MSNOW",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ms-now-us.png?raw=true",
+        "epg_id": "MSNBC.HD.us2"
+    },
+    "MTV USA": {
+        "cleaned_name": "MTV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png",
+        "epg_id": "MTV.-.Music.Television.HD.us2"
+    },
+    "MY9TV USA": {
+        "cleaned_name": "MY9TV",
+        "logo_url": "https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/mytv/my-9-wwor-us.png",
+        "epg_id": "WWOR-DT.us_locals1"
+    },
+    "National Geographic (NGC)": {
+        "cleaned_name": "Nat Geo",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png",
+        "epg_id": "National.Geographic.HD.us2"
+    },
+    "Nat Geo Wild USA": {
+        "cleaned_name": "Nat Geo Wild",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png",
+        "epg_id": "National.Geographic.Wild.HD.us2"
+    },
+    "NBA TV USA": {
+        "cleaned_name": "NBA TV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png",
+        "epg_id": "NBA.TV.HD.us2"
+    },
+    "NBC Sports Bay Area": {
+        "cleaned_name": "NBC Sports Bay Area",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-us.png?raw=true",
+        "epg_id": "NBC.Sports.Bay.Area.HD.us2"
+    },
+    "NBC Sports Boston": {
+        "cleaned_name": "NBC Sports Boston",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-us.png?raw=true",
+        "epg_id": "NBC.Sports.Boston.HD.us2"
+    },
+    "NBC Sports California": {
+        "cleaned_name": "NBC Sports California",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true",
+        "epg_id": "NBC.Sports.California.SAT.us2"
+    },
+    "NBC Sports Philadelphia": {
+        "cleaned_name": "NBC Sports Philadelphia",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true",
+        "epg_id": "NBC.Sports.Philadelphia.HD.us2"
+    },
+    "NBC USA": {
+        "cleaned_name": "NBC",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",
+        "epg_id": "NBC.East.Stream.us2"
+    },
+    "NBC10 Philadelphia": {
+        "cleaned_name": "NBC Philadelphia",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-10-wcau-us.png?raw=true",
+        "epg_id": "WCAU-DT.us_locals1"
+    },
+    "NBCNY USA": {
+        "cleaned_name": "NBC New York",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-4-wnbc-us.png?raw=true",
+        "epg_id": "WNBC-DT.us_locals1"
+    },
+    "NESN USA": {
+        "cleaned_name": "NESN",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-us.png",
+        "epg_id": "New.England.Sports.Network.HD.us2"
+    },
+    "NewsNation USA": {
+        "cleaned_name": "NewsNation",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true",
+        "epg_id": "NewsNation.us2"
+    },
+    "Newsmax USA": {
+        "cleaned_name": "Newsmax",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true",
+        "epg_id": "Newsmax.TV.HD.us2"
+    },
+    "NFL Network": {
+        "cleaned_name": "NFL Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png",
+        "epg_id": "NFL.Network.HD.us2"
+    },
+    "NFL RedZone": {
+        "cleaned_name": "NFL RedZone",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true",
+        "epg_id": "NFL.RedZone.HD.us2"
+    },
+    "NHL Network USA": {
+        "cleaned_name": "NHL Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png",
+        "epg_id": "NHL.Network.HD.us2"
+    },
+    "NICK": {
+        "cleaned_name": "Nickelodeon",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",
+        "epg_id": "Nickelodeon.HD.us2"
+    },
+    "NICK JR": {
+        "cleaned_name": "Nick Jr.",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",
+        "epg_id": "Nick.Jr.HD.us2"
+    },
+    "Nick Music": {
+        "cleaned_name": "NickMusic",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true",
+        "epg_id": "Nick.Music.us2"
+    },
+    "Nicktoons": {
+        "cleaned_name": "Nicktoons",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",
+        "epg_id": "Nicktoons.us2"
+    },
+    "OnTime Sports#NOTENGLISH": {
+        "cleaned_name": "OnTime Sports",
+        "logo_url": null,
+        "epg_id": "On.Time.Sports.HD.ae"
+    },
+    "Oprah Winfrey Network (OWN)": {
+        "cleaned_name": "OWN",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true",
+        "epg_id": "Oprah.Winfrey.Network.HD.us2"
+    },
+    "Outdoor Channel USA": {
+        "cleaned_name": "Outdoor Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png",
+        "epg_id": "Outdoor.Channel.HD.us2"
+    },
+    "Oxygen True Crime": {
+        "cleaned_name": "Oxygen",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png",
+        "epg_id": "Oxygen.True.Crime.HD.us2"
+    },
+    "Pac-12 Network USA": {
+        "cleaned_name": "Pac-12 Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pac-12-network-us.png",
+        "epg_id": null
+    },
+    "Paramount Network": {
+        "cleaned_name": "Paramount Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png",
+        "epg_id": "Paramount.Network.HD.us2"
+    },
+    "PBS USA": {
+        "cleaned_name": "PBS",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png",
+        "epg_id": "PBS.Stream.us2"
+    },
+    "POP TV USA": {
+        "cleaned_name": "POP",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png",
+        "epg_id": "POP.HD.us2"
+    },
+    "Racer TV USA": {
+        "cleaned_name": "Racer TV",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/racer-network-us.png?raw=true",
+        "epg_id": "RACER.Network.HD.us2"
+    },
+    "Racing Tv UK#DEAD": {
+        "cleaned_name": "Racing TV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png",
+        "epg_id": "Racing.TV.HD.uk"
+    },
+    "RDS 2 CA#DEAD": {
+        "cleaned_name": "RDS 2",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-2-ca.png",
+        "epg_id": "RDS2.HD.ca2"
+    },
+    "RDS CA#DEAD": {
+        "cleaned_name": "RDS",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png",
+        "epg_id": "Réseau.des.Sports.(RDS).HD.ca2"
+    },
+    "RDS Info CA#DEAD": {
+        "cleaned_name": "RDS Info",
+        "logo_url": null,
+        "epg_id": "Réseau.des.Sports.Info.ca2"
+    },
+    "Reelz Channel": {
+        "cleaned_name": "Reelz",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/reelz-us.png",
+        "epg_id": "ReelzChannel.HD.us2"
+    },
+    "Root Sports Northwest#DEAD": {
+        "cleaned_name": "Root Sports Northwest",
+        "logo_url": null,
+        "epg_id": "ROOT.Sports.Northwest.HD.us2"
+    },
+    "Science Channel": {
+        "cleaned_name": "Science Channel",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-icon-shade-us.png?raw=true",
+        "epg_id": "Science.Channel.HD.us2"
+    },
+    "SEC Network USA": {
+        "cleaned_name": "SEC Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png",
+        "epg_id": "SEC.Network.HD.us2"
+    },
+    "Showtime 2 USA (SHO2) USA": {
+        "cleaned_name": "Showtime 2",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png",
+        "epg_id": "Showtime.2.HD.us2"
+    },
+    "Showtime Extreme USA": {
+        "cleaned_name": "Showtime Extreme",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png",
+        "epg_id": "Showtime.Extreme.HD.us2"
+    },
+    "Showtime Family Zone (SHO Family Zone) USA": {
+        "cleaned_name": "Showtime Family Zone",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true",
+        "epg_id": "Showtime.Familyzone.HD.us2"
+    },
+    "Showtime Next (SHO Next) USA": {
+        "cleaned_name": "Showtime Next",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png",
+        "epg_id": "Showtime.Next.HD.us2"
+    },
+    "Showtime Showcase USA": {
+        "cleaned_name": "Showtime Showcase",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png",
+        "epg_id": "Showtime.Showcase.HD.us2"
+    },
+    "Showtime USA": {
+        "cleaned_name": "Showtime",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png",
+        "epg_id": "Showtime"
+    },
+    "Showtime Women USA": {
+        "cleaned_name": "Showtime Women",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true",
+        "epg_id": "Showtime.Women.HD.us2"
+    },
+    "Sky Sports Action UK": {
+        "cleaned_name": "Sky Sports Action",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png",
+        "epg_id": "SkySp.ActionHD.uk"
+    },
+    "Sky Sports Cricket": {
+        "cleaned_name": "Sky Sports Cricket",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png",
+        "epg_id": "SkySp.Cricket.HD.uk"
+    },
+    "Sky Sports F1 UK": {
+        "cleaned_name": "Sky Sports F1",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",
+        "epg_id": "SkySp.F1.HD.uk"
+    },
+    "Sky Sports Golf UK": {
+        "cleaned_name": "Sky Sports Golf",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png",
+        "epg_id": "SkySp.Golf.HD.uk"
+    },
+    "Sky Sports Main Event": {
+        "cleaned_name": "Sky Sports Main Event",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",
+        "epg_id": "SkySpMainEvHD.uk"
+    },
+    "Sky Sports MIX UK": {
+        "cleaned_name": "Sky Sports Mix",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png",
+        "epg_id": "SkySp.Mix.HD.uk"
+    },
+    "Sky Sports News UK": {
+        "cleaned_name": "Sky Sports News",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png",
+        "epg_id": "SkySp.News.HD.uk"
+    },
+    "Sky Sports Racing UK": {
+        "cleaned_name": "Sky Sports Racing",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png",
+        "epg_id": "SkySp.Racing.HD.uk"
+    },
+    "Sky Sports Tennis UK": {
+        "cleaned_name": "Sky Sports Tennis",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png",
+        "epg_id": "SkySp.Tennis.HD.uk"
+    },
+    "Sky Sports+ Plus": {
+        "cleaned_name": "Sky Sports+",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-icon-uk.png?raw=true",
+        "epg_id": "SkySp+.uk"
+    },
+    "Smithsonian Channel": {
+        "cleaned_name": "Smithsonian Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/smithsonian-channel-us.png",
+        "epg_id": "Smithsonian.HD.Network.us2"
+    },
+    "Space City Home Network": {
+        "cleaned_name": "Space City Home Network",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/space-city-home-network-us.png?raw=true",
+        "epg_id": "Space.City.Home.Network.HD.us2"
+    },
+    "Spectrum SportsNet LA": {
+        "cleaned_name": "Spectrum SportsNet LA",
+        "logo_url": null,
+        "epg_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2"
+    },
+    "Spectrum SportsNet USA": {
+        "cleaned_name": "Spectrum SportsNet",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-us.png?raw=true",
+        "epg_id": "Spectrum.SportsNet.Lakers.HD.us2"
+    },
+    "SportsNet New York (SNY)": {
+        "cleaned_name": "SportsNet New York",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sny-us.png",
+        "epg_id": "SNY.SportsNet.New.York.HD.us2"
+    },
+    "SportsNet Pittsburgh": {
+        "cleaned_name": "SportsNet Pittsburgh",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsnet-pittsburgh-us.png?raw=true",
+        "epg_id": "SportsNet.Pittsburgh.HD.us2"
+    },
+    "Sportsnet 360": {
+        "cleaned_name": "SportsNet 360",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png",
+        "epg_id": "Sportsnet.360.HD.ca2"
+    },
+    "Sportsnet East": {
+        "cleaned_name": "SportsNet East",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png",
+        "epg_id": "Sportsnet.East.HD.ca2"
+    },
+    "Sportsnet One": {
+        "cleaned_name": "SportsNet One",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png",
+        "epg_id": "Sportsnet.One.HD.ca2"
+    },
+    "Sportsnet Ontario": {
+        "cleaned_name": "SportsNet Ontario",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png",
+        "epg_id": "Sportsnet.Ontario.HD.ca2"
+    },
+    "Sportsnet West": {
+        "cleaned_name": "SportsNet West",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png",
+        "epg_id": "Sportsnet.West.HD.ca2"
+    },
+    "Sportsnet World": {
+        "cleaned_name": "SportsNet World",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png",
+        "epg_id": "Sportsnet.World.HD.ca2"
+    },
+    "Starz": {
+        "cleaned_name": "Starz",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png",
+        "epg_id": "Starz.HD.us2"
+    },
+    "Starz Cinema": {
+        "cleaned_name": "Starz Cinema",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png",
+        "epg_id": "Starz.Cinema.HD.us2"
+    },
+    "Starz Comedy": {
+        "cleaned_name": "Starz Comedy",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png",
+        "epg_id": "Starz.Comedy.HD.us2"
+    },
+    "Starz Edge": {
+        "cleaned_name": "Starz Edge",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-edge-us.png",
+        "epg_id": "Starz.Edge.HD.us2"
+    },
+    "Starz Encore": {
+        "cleaned_name": "Starz Encore",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-us.png",
+        "epg_id": "Starz.Encore.HD.us2"
+    },
+    "Starz Encore Action": {
+        "cleaned_name": "Starz Encore Action",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png",
+        "epg_id": "Starz.Encore.Action.HD.us2"
+    },
+    "Starz Encore Black": {
+        "cleaned_name": "Starz Encore Black",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-black-us.png",
+        "epg_id": "Starz.Encore.Black.us2"
+    },
+    "Starz Encore Classic": {
+        "cleaned_name": "Starz Encore Classic",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-classic-us.png",
+        "epg_id": "Starz.Encore.Classic.us2"
+    },
+    "Starz Encore Family": {
+        "cleaned_name": "Starz Encore Family",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-family-us.png",
+        "epg_id": "Starz.Encore.Family.SD.us2"
+    },
+    "Starz Encore Suspense": {
+        "cleaned_name": "Starz Encore Suspense",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-suspense-us.png",
+        "epg_id": "Starz.Encore.Suspense.us2"
+    },
+    "Starz Encore Westerns": {
+        "cleaned_name": "Starz Encore Westerns",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-westerns-us.png",
+        "epg_id": "Starz.Encore.Westerns.SD.us2"
+    },
+    "Starz In Black": {
+        "cleaned_name": "Starz In Black",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-in-black-us.png",
+        "epg_id": "Starz.in.Black.HD.us2"
+    },
+    "Starz Kids & Family": {
+        "cleaned_name": "Starz Kids & Family",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-kids-and-family-us.png",
+        "epg_id": "Starz.Kids.HD.us2"
+    },
+    "Sundance TV": {
+        "cleaned_name": "Sundance TV",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png",
+        "epg_id": "SundanceTV.HD.us2"
+    },
+    "SYFY USA": {
+        "cleaned_name": "Syfy",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png",
+        "epg_id": "Syfy.HD.us2"
+    },
+    "TBS USA": {
+        "cleaned_name": "TBS",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",
+        "epg_id": "TBS.HD.us2"
+    },
+    "TCM USA": {
+        "cleaned_name": "TCM",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png",
+        "epg_id": "Turner.Classic.Movies.HD.us2"
+    },
+    "TeenNick": {
+        "cleaned_name": "TeenNick",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true",
+        "epg_id": "Teen.Nick.us2"
+    },
+    "Tennis Channel": {
+        "cleaned_name": "Tennis Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png",
+        "epg_id": "Tennis.Channel.HD.us2"
+    },
+    "Tennis+ 10#DEAD": {
+        "cleaned_name": "Tennis+ 10",
+        "logo_url": null,
+        "epg_id": null
+    },
+    "Tennis+ 12#DEAD": {
+        "cleaned_name": "Tennis+ 12",
+        "logo_url": null,
+        "epg_id": null
+    },
+    "The Food Network": {
+        "cleaned_name": "Food Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png",
+        "epg_id": "Food.Network.HD.us2"
+    },
+    "The Hallmark Channel": {
+        "cleaned_name": "Hallmark Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",
+        "epg_id": "Hallmark.Channel.HD.us2"
+    },
+    "The Weather Channel": {
+        "cleaned_name": "Weather Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/weather-channel-us.png",
+        "epg_id": "The.Weather.Channel.HD.us2"
+    },
+    "TLC": {
+        "cleaned_name": "TLC",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png",
+        "epg_id": "TLC.HD.(US).us2"
+    },
+    "TMC Channel USA": {
+        "cleaned_name": "The Movie Channel",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-icon-us.png?raw=true",
+        "epg_id": "The.Movie.Channel.HD.us2"
+    },
+    "TNT Sports 1 UK": {
+        "cleaned_name": "TNT Sports 1",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png",
+        "epg_id": "TNT.Sports.1.HD.uk"
+    },
+    "TNT Sports 2 UK": {
+        "cleaned_name": "TNT Sports 2",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png",
+        "epg_id": "TNT.Sports.2.HD.uk"
+    },
+    "TNT Sports 3 UK": {
+        "cleaned_name": "TNT Sports 3",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png",
+        "epg_id": "TNT.Sports.3.HD.uk"
+    },
+    "TNT Sports 4 UK": {
+        "cleaned_name": "TNT Sports 4",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png",
+        "epg_id": "TNT.Sports.4.HD.uk"
+    },
+    "TNT USA": {
+        "cleaned_name": "TNT",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",
+        "epg_id": "TNT.HD.us2"
+    },
+    "Travel Channel": {
+        "cleaned_name": "Travel Channel",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png",
+        "epg_id": "The.Travel.Channel.HD.us2"
+    },
+    "TruTV USA": {
+        "cleaned_name": "TruTV",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",
+        "epg_id": "truTV.HD.us2"
+    },
+    "TSN1": {
+        "cleaned_name": "TSN 1",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true",
+        "epg_id": "TSN.1.ca2"
+    },
+    "TSN2": {
+        "cleaned_name": "TSN 2",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true",
+        "epg_id": "TSN.2.ca2"
+    },
+    "TSN3": {
+        "cleaned_name": "TSN 3",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true",
+        "epg_id": "TSN.3.ca2"
+    },
+    "TSN4": {
+        "cleaned_name": "TSN 4",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true",
+        "epg_id": "TSN.4.ca2"
+    },
+    "TSN5": {
+        "cleaned_name": "TSN 5",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true",
+        "epg_id": "TSN.5.ca2"
+    },
+    "TVA Sports": {
+        "cleaned_name": "TVA Sports",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-ca.png",
+        "epg_id": "TVA.Sports.HD.ca2"
+    },
+    "TVA Sports 2": {
+        "cleaned_name": "TVA Sports 2",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-2-ca.png",
+        "epg_id": "TVA.Sports.2.HD.ca2"
+    },
+    "TV ONE USA": {
+        "cleaned_name": "TV One",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/one-tv-us.png?raw=true",
+        "epg_id": "TV.ONE.HD.us2"
+    },
+    "TVLAND": {
+        "cleaned_name": "TV Land",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tv-land-us.png",
+        "epg_id": "TV.Land.HD.us2"
+    },
+    "Universal Kids USA": {
+        "cleaned_name": "Universal Kids",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png",
+        "epg_id": null
+    },
+    "USA Network": {
+        "cleaned_name": "USA Network",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
+        "epg_id": "USA.Network.HD.us2"
+    },
+    "VH1 USA": {
+        "cleaned_name": "VH1",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png",
+        "epg_id": "VH1.HD.us2"
+    },
+    "VICE TV": {
+        "cleaned_name": "VICE",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vice-us.png",
+        "epg_id": "Vice.HD.us2"
+    },
+    "WETV USA": {
+        "cleaned_name": "WE tv",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png",
+        "epg_id": "WE.tv.HD.us2"
+    },
+    "Willow 2 Cricket": {
+        "cleaned_name": "Willow 2",
+        "logo_url": null,
+        "epg_id": "Willow.2.Xtra.us2"
+    },
+    "Willow Cricket#UNWANTED": {
+        "cleaned_name": "Willow",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-us.png",
+        "epg_id": "Willow.Cricket.HD.us2"
+    },
+    "WWE Network#DEAD": {
+        "cleaned_name": "WWE Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wwe-network-us.png",
+        "epg_id": "WWE.Network.us2"
+    },
+    "YES Network USA": {
+        "cleaned_name": "YES Network",
+        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png",
+        "epg_id": "Yes.Network.us2"
+    }
+}

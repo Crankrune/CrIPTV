@@ -6,6 +6,7 @@ from natsort import natsorted
 from ruamel.yaml import YAML
 
 from check_streams import main as check_streams
+from CrankTV_cleaner import main as CrankTV
 from DrewLive_parser import generate_drewlive_playlist
 from epg_generator import write_youtube_epg_file
 from m3u_utils import generate_playlist
@@ -119,6 +120,7 @@ if __name__ == "__main__":
     check_streams()
     generate_iptv_playlists()
     generate_full_iptv_playlist()
+    CrankTV()
     # generate_youtube_playlist()
     yt_generator()
     generate_youtube_epg()
