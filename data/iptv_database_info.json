@@ -60,7 +60,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Adult.Swim.ca2",
@@ -75,7 +75,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "plex.tv.Always.Funny.plex",
@@ -549,7 +549,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "CBS.News.National.Stream.us2",
@@ -640,7 +640,7 @@
     "height": 1080,
     "fps": 30.0,
     "codec": "h264",
-    "bitrate": "16",
+    "bitrate": "15",
     "working": true
   },
   {
@@ -956,7 +956,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "Destination.America.HD.us2",
