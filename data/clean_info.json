@@ -6,13 +6,13 @@
     },
     "ABC NY USA": {
         "cleaned_name": "ABC New York",
-        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-white-us.png?raw=true",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-wabc-us.png?raw=true",
         "epg_id": "WABC-DT.us_locals1"
     },
     "ABC USA": {
         "cleaned_name": "ABC",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png",
-        "epg_id": "ABC.National.Feed.us2"
+        "epg_id": "WSB-DT.us_locals1"
     },
     "ACC Network USA": {
         "cleaned_name": "ACC Network",
@@ -132,11 +132,11 @@
     "CBS USA": {
         "cleaned_name": "CBS",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",
-        "epg_id": "CBS.Streaming.SD.East.feed.us2"
+        "epg_id": "WFOR-DT.us_locals1"
     },
     "CBSNY USA": {
         "cleaned_name": "CBS New York",
-        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-2-wcbs-us.png?raw=true",
         "epg_id": "WCBS-DT.us_locals1"
     },
     "Chicago Sports Network": {
@@ -220,7 +220,7 @@
         "epg_id": "WPIX-DT.us_locals1"
     },
     "CW Philly": {
-        "cleaned_name": "CW Philadelphia",
+        "cleaned_name": "CW Philly 57",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-57-wpsg-us.png",
         "epg_id": "WPSG-DT.us_locals1"
     },
@@ -294,62 +294,62 @@
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true",
         "epg_id": "ESPNU.HD.us2"
     },
-    "FanDuel Sports Network Arizona": {
+    "FanDuel Sports Network Arizona#BROKEN": {
         "cleaned_name": "FanDuel Sports Arizona",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.Southwest.us"
     },
-    "FanDuel Sports Network Midwest": {
+    "FanDuel Sports Network Midwest#BROKEN": {
         "cleaned_name": "FanDuel Sports Midwest",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Midwest.-.Kansas.City.us"
     },
-    "FanDuel Sports Network New Orleans": {
+    "FanDuel Sports Network New Orleans#BROKEN": {
         "cleaned_name": "FanDuel Sports New Orleans",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.New.Orleans.us"
     },
-    "FanDuel Sports Network North": {
+    "FanDuel Sports Network North#BROKEN": {
         "cleaned_name": "FanDuel Sports North",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.North.us"
     },
-    "FanDuel Sports Network Ohio": {
+    "FanDuel Sports Network Ohio#BROKEN": {
         "cleaned_name": "FanDuel Sports Ohio",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
     },
-    "FanDuel Sports Network Oklahoma": {
+    "FanDuel Sports Network Oklahoma#BROKEN": {
         "cleaned_name": "FanDuel Sports Oklahoma",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.Oklahoma.us"
     },
-    "FanDuel Sports Network SoCal": {
+    "FanDuel Sports Network SoCal#BROKEN": {
         "cleaned_name": "FanDuel Sports SoCal",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.SoCal.us"
     },
-    "FanDuel Sports Network South": {
+    "FanDuel Sports Network South#BROKEN": {
         "cleaned_name": "FanDuel Sports South",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.South.us"
     },
-    "FanDuel Sports Network Southeast": {
+    "FanDuel Sports Network Southeast#BROKEN": {
         "cleaned_name": "FanDuel Sports Southeast",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.Southeast.us"
     },
-    "FanDuel Sports Network Sun": {
+    "FanDuel Sports Network Sun#BROKEN": {
         "cleaned_name": "FanDuel Sports Sun",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "Fanduel.Sports.Sun.HD.us"
     },
-    "FanDuel Sports Network West": {
+    "FanDuel Sports Network West#BROKEN": {
         "cleaned_name": "FanDuel Sports West",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.West.us"
     },
-    "FanDuel Sports Network Wisconsin": {
+    "FanDuel Sports Network Wisconsin#BROKEN": {
         "cleaned_name": "FanDuel Sports Wisconsin",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true",
         "epg_id": "FanDuel.Sports.Network.Wisconsin.us"
@@ -377,7 +377,7 @@
     "FOX USA": {
         "cleaned_name": "FOX",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",
-        "epg_id": "WNYW-DT.us_locals1"
+        "epg_id": "WSVN-DT.us_locals1"
     },
     "FOX Weather Channel": {
         "cleaned_name": "FOX Weather",
@@ -407,7 +407,7 @@
     "FX USA": {
         "cleaned_name": "FX",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png",
-        "epg_id": "FX.HD.us2"
+        "epg_id": "FX.HD.(Pacific).us2"
     },
     "FXX USA": {
         "cleaned_name": "FXX",
@@ -632,7 +632,7 @@
     "NBC USA": {
         "cleaned_name": "NBC",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",
-        "epg_id": "NBC.East.Stream.us2"
+        "epg_id": "WMAQ-DT.us_locals1"
     },
     "NBC10 Philadelphia": {
         "cleaned_name": "NBC Philadelphia",
@@ -714,7 +714,7 @@
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png",
         "epg_id": "Oxygen.True.Crime.HD.us2"
     },
-    "Pac-12 Network USA": {
+    "Pac-12 Network USA#WRONG": {
         "cleaned_name": "Pac-12 Network",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pac-12-network-us.png",
         "epg_id": null
@@ -806,8 +806,8 @@
     },
     "Showtime USA": {
         "cleaned_name": "Showtime",
-        "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png",
-        "epg_id": "Showtime"
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-plus-with-showtime-us.png?raw=true",
+        "epg_id": "Paramount+.with.Showtime.HD.us2"
     },
     "Showtime Women USA": {
         "cleaned_name": "Showtime Women",
@@ -1159,7 +1159,7 @@
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png",
         "epg_id": "WE.tv.HD.us2"
     },
-    "Willow 2 Cricket": {
+    "Willow 2 Cricket#UNWANTED": {
         "cleaned_name": "Willow 2",
         "logo_url": null,
         "epg_id": "Willow.2.Xtra.us2"
