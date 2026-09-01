@@ -1,0 +1,399 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-id="ABC.National.Feed.us2",ABC
+https://xemzi.short.gy/300003
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-us.png" tvg-id="CBS.Streaming.SD.East.feed.us2",CBS
+https://xemzi.short.gy/300010
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-id="FOX.Satellite.Feed.us2",FOX
+https://xemzi.short.gy/300014
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" tvg-id="Nickelodeon.HD.us2",Nickelodeon
+https://xemzi.short.gy/300030
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png" tvg-id="truTV.HD.us2",truTV
+https://xemzi.short.gy/300002
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png" tvg-id="SEC.Network.HD.us2",SEC Network
+https://xemzi.short.gy/40000015
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-12-wisn-us.png" tvg-id="WISN-DT.us_locals1",ABC 12 (WISN)
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72046.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" tvg-id="ACC.Network.us2",ACC Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114284.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png" tvg-id="Big.Ten.Network.HD.us2",Big Ten Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/11898.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png" tvg-id="Big.Ten.Network.Overflow.HD.us2",Big Ten Network Overflow 2
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/687681.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-31-wmbd-us.png" tvg-id="WMBD-DT.us_locals1",CBS 31 (WMBD)
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71860.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-id="5.StarMAX.HD.East.us2",Cinemax 5 StarMax
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115894.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-actionmax-us.png" tvg-id="ActionMAX.HD.us2",Cinemax ActionMAX
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115895.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-classics-us.png" tvg-id="Cinemax.Classics.us2",Cinemax Classics
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115899.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-east-us.png" tvg-id="Cinemax.HD.us2",Cinemax East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115896.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-hits-us.png" tvg-id="Cinemax.Hits.us2",Cinemax Hits
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-moremax-us.png" tvg-id="MoreMax.HD.us2",Cinemax MoreMAX
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115897.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" tvg-id="ESPN2.HD.us2",ESPN 2
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42910.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" tvg-id="None",ESPN Backup
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116037.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" tvg-id="ESPN.HD.us2",ESPN
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/9660.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" tvg-id="ESPNEWS.HD.us2",ESPN News
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42908.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png" tvg-id="SEC.Network.HD.us2",SEC Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116038.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" tvg-id="ESPNU.HD.us2",ESPN U
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42907.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-55-wrsp-us.png" tvg-id="WRSP-DT.us_locals1",FOX 55 (WRSP)
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71838.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-56-wdky-us.png" tvg-id="WDKY-DT.us_locals1",FOX 56 (WDKY)
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71789.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png" tvg-id="FS1.Fox.Sports.1.HD.us2",Fox Sports 1
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42904.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs2-us.png" tvg-id="FS2.Fox.Sports.2.HD.us2",Fox Sports 2
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42903.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" tvg-id="FX.HD.us2",FX East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115902.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png" tvg-id="FX.Movie.Channel.HD.us2",FXM
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115903.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" tvg-id="FX.HD.(Pacific).us2",FX West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114419.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" tvg-id="FXX.HD.us2",FXX
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115904.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" tvg-id="FXX.HD.(Pacific).us2",FXX West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115905.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1350134.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/game-show-network-us.png" tvg-id="Game.Show.Network.HD.us2",Game Show Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114423.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" tvg-id="HBO2.HD.(Pacific).us2",HBO 2 West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115908.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-id="None",HBO Boxing
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1350139.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/hbo-ca.png" tvg-id="HBO.CA.us2",HBO Canada
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2124547.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" tvg-id="HBO.Comedy.HD.us2",HBO Comedy
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115909.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-drama-us.png" tvg-id="HBO.Drama.West.us2",HBO Drama West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115912.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-id="HBO.East.us2",HBO East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115906.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-latino-us.png" tvg-id="HBO.Latino.HD.us2",HBO Latino
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115918.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" tvg-id="HBO.Signature.HD.us2",HBO Signature
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115913.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" tvg-id="HBO.Zone.HD.us2",HBO Zone
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115915.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-id="Home.and.Garden.Television.HD.us2",HGTV East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114340.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-id="Home.and.Garden.Television.HD.(Pacific).us2",HGTV West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114341.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" tvg-id="WILL-DT.us_locals1",PBS WILL
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1350577.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-mystery-us.png" tvg-id="ION.Mystery.us2",ION Mystery
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114311.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1350149.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png" tvg-id="ION.Television.HD.us2",ION Television
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114349.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/magnolia-network-us.png" tvg-id="Magnolia.Network.HD.us2",Magnolia Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114294.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-arizona-diamondbacks-us.png" tvg-id="MLB-ArizonaDiamondbacks.us",MLB Arizona Diamondbacks
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113878.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-atlanta-braves-us.png" tvg-id="MLB-AtlantaBraves.us",MLB Atlanta Braves
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113904.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-baltimore-orioles-us.png" tvg-id="MLB-BaltimoreOrioles.us",MLB Baltimore Orioles
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113879.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-boston-red-sox-us.png" tvg-id="MLB-BostonRedSox.us",MLB Boston Red Sox
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113880.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-chicago-cubs-us.png" tvg-id="MLB-ChicagoCubs.us",MLB Chicago Cubs
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113877.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-chicago-white-sox-us.png" tvg-id="MLB-ChicagoWhiteSox.us",MLB Chicago White Sox
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113881.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-cincinnati-reds-us.png" tvg-id="MLB-CincinnatiReds.us",MLB Cincinnati Reds
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-cleveland-guardians-us.png" tvg-id="MLB-ClevelandGuardians.us",MLB Cleveland Guardians
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113882.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-colorado-rockies-us.png" tvg-id="MLB-ColoradoRockies.us",MLB Colorado Rockies
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113883.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-detroit-tigers-us.png" tvg-id="MLB-DetroitTigers.us",MLB Detroit Tigers
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113884.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" tvg-id="MLB.Network.HD.us2",MLB Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1351163.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-houston-astros-us.png" tvg-id="MLB-HoustonAstros.us",MLB Houston Astros
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113886.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-kansas-city-royals-us.png" tvg-id="MLB-KansasCityRoyals.us",MLB Kansas City Royals
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113902.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-los-angeles-angels-us.png" tvg-id="MLB-LosAngelesAngels.us",MLB Los Angeles Angels
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113876.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-los-angeles-dodgers-us.png" tvg-id="MLB-LosAngelesDodgers.us",MLB Los Angeles Dodgers
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113887.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-miami-marlins-us.png" tvg-id="MLB-MiamiMarlins.us",MLB Miami Marlins
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113885.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-milwaukee-brewers-us.png" tvg-id="MLB-MilwaukeeBrewers.us",MLB Milwaukee Brewers
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113903.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-minnesota-twins-us.png" tvg-id="MLB-MinnesotaTwins.us",MLB Minnesota Twins
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113889.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-strike-zone-us.png" tvg-id="MLB.Network.Strike.Zone.HD.us2",MLB Network Strike Zone
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/526809.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-new-york-mets-us.png" tvg-id="MLB-NewYorkMets.us",MLB New York Mets
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113888.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-new-york-yankees-us.png" tvg-id="MLB-NewYorkYankees.us",MLB New York Yankees
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113890.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-oakland-athletics-us.png" tvg-id="MLB-Athletics.us",MLB Oakland Athletics
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113891.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-philadelphia-phillies-us.png" tvg-id="MLB-PhiladelphiaPhillies.us",MLB Philadelphia Phillies
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113901.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-pittsburgh-pirates-us.png" tvg-id="MLB-PittsburghPirates.us",MLB Pittsburgh Pirates
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113892.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-san-diego-padres-us.png" tvg-id="MLB-SanDiegoPadres.us",MLB San Diego Padres
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113893.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-san-francisco-giants-us.png" tvg-id="MLB-SanFranciscoGiants.us",MLB San Francisco Giants
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113894.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-seattle-mariners-us.png" tvg-id="MLB-SeattleMariners.us",MLB Seattle Mariners
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113895.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-st-louis-cardinals-us.png" tvg-id="MLB-St.LouisCardinals.us",MLB St. Louis Cardinals
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113896.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-tampa-bay-rays-us.png" tvg-id="MLB-TampaBayRays.us",MLB Tampa Bay Rays
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113897.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-texas-rangers-us.png" tvg-id="MLB-TexasRangers.us",MLB Texas Rangers
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113898.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/mlb-toronto-blue-jays-ca.png" tvg-id="MLB-TorontoBlueJays.us",MLB Toronto Blue Jays
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113899.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" tvg-id="None",NBA BET
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115994.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",NBA FAST Channel
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1350181.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" tvg-id="NBA.TV.HD.us2",NBA TV
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/8246.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-17-wand-us.png" tvg-id="WAND-DT.us_locals1",NBC 17 (WAND)
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72113.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" tvg-id="NBC.East.Stream.us2",NBC
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114279.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/news-nation-us.png" tvg-id="NewsNation.us2",NewsNation
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116095.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" tvg-id="NFL.Network.HD.us2",NFL Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/26457.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" tvg-id="None",NFL NOW
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/8235.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-red-zone-us.png" tvg-id="NFL.RedZone.HD.us2",NFL RedZone
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116077.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-boston-bruins-us.png" tvg-id="NHL-BostonBruins.us",NHL Boston Bruins
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121422.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-buffalo-sabres-us.png" tvg-id="NHL-BuffaloSabres.us",NHL Buffalo Sabres
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121423.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-dallas-stars-us.png" tvg-id="NHL-DallasStars.us",NHL Dallas Stars
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121429.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nhl-edmonton-oilers-ca.png" tvg-id="NHL-EdmontonOilers.us",NHL Edmonton Oilers
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121431.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" tvg-id="NHL.Network.HD.us2",NHL Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/8236.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",NHL Replay Highlights
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121404.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",NHL Replay Info
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121405.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" tvg-id="Nickelodeon.(Pacific).us2",Nickelodeon West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114473.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" tvg-id="Nick.Jr.HD.us2",Nick Jr.
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114470.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png" tvg-id="Nicktoons.us2",Nicktoons
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114474.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png" tvg-id="None",Nicktoons West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114475.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pac-12-network-us.png" tvg-id="None",Pac-12 Insider
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1351199.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png" tvg-id="Showtime.2.HD.us2",Showtime 2
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115929.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png" tvg-id="Showtime.Extreme.HD.us2",Showtime Extreme
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115931.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-family-zone-us.png" tvg-id="Showtime.Familyzone.HD.us2",Showtime Family Zone
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115933.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png" tvg-id="Showtime.Next.HD.us2",Showtime Next
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115935.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png" tvg-id="Showtime.Showcase.HD.us2",Showtime Showcase
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115936.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png" tvg-id="Showtime.Women.HD.us2",Showtime Women
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115938.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-nfl-uk.png" tvg-id="None",Sky Sports NFL
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113470.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/smithsonian-channel-us.png" tvg-id="Smithsonian.HD.Network.us2",Smithsonian Channel
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116264.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png" tvg-id="Starz.Cinema.HD.us2",Starz Cinema
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115943.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png" tvg-id="Starz.Comedy.HD.us2",Starz Comedy
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115945.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" tvg-id="Starz.HD.us2",Starz East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115963.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png" tvg-id="Starz.Encore.Action.HD.us2",Starz Encore Action
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115949.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-classic-us.png" tvg-id="Starz.Encore.Classic.us2",Starz Encore Classic
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115951.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-family-us.png" tvg-id="Starz.Encore.Family.SD.us2",Starz Encore Family
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115955.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-suspense-us.png" tvg-id="Starz.Encore.Suspense.us2",Starz Encore Suspense
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115956.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-westerns-us.png" tvg-id="Starz.Encore.Westerns.SD.us2",Starz Encore Westerns
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115958.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-us.png" tvg-id="Starz.Encore.(Pacific).us2",Starz Encore West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115957.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-in-black-us.png" tvg-id="Starz.in.Black.HD.us2",Starz in Black East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115959.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-kids-and-family-us.png" tvg-id="Starz.Kids.HD.us2",Starz Kids & Family
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115960.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" tvg-id="Syfy.HD.us2",Syfy East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114391.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" tvg-id="Syfy.HD.(Pacific).us2",Syfy West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114392.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" tvg-id="TBS.HD.us2",TBS East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114396.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" tvg-id="TBS.HD.(Pacific).us2",TBS West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114397.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/weather-channel-us.png" tvg-id="The.Weather.Channel.HD.us2",The Weather Channel
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114402.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-ultimate-uk.png" tvg-id="None",TNT Sports Ultimate 4K
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/643684.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" tvg-id="None",TNT Sports
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116033.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" tvg-id="TNT.HD.us2",TNT
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114406.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" tvg-id="TNT.HD.(Pacific).us2",TNT West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114407.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png" tvg-id="truTV.HD.us2",truTV East
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114409.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114348.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" tvg-id="USA.Network.HD.us2",USA Network
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114413.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" tvg-id="USA.Network.HD.(Pacific).us2",USA Network West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114414.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vice-us.png" tvg-id="Vice.HD.us2",Vice
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114415.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vice-us.png" tvg-id="None",Vice West
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114451.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/weather-nation-us.png" tvg-id="None",Weather Nation
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116139.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/wgn-9-wgn-us.png" tvg-id="WGN-DT.us_locals1",WGN 9 Chicago
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114418.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-id="ABC.National.Feed.us2",ABC
+http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying|user-agent=VLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-8-the-ocho-us.png" tvg-id="ESPN8.The.Ocho.us2",ESPN 8: The Ocho
+https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c24-amgplt0023/playlist.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1/gsn_gameshowchannnel_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png" tvg-id="ION.Television.HD.us2",ION
+https://wurlewscripps.global.transmit.live/hls/68962b3c9b574d4b1045a55a/v1/scripps_ion_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+https://wurlewscripps.global.transmit.live/hls/6994c4740198ca4590f9e0c0/v1/ion_ion_plus_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n4=content_name&ads.v4=ION%20Plus&ads.n21=h&ads.v21=1080&ads.n22=channel_ext_id&ads.v22=&ads.n23=channel_genre&ads.v23=Drama&ads.n24=channel_name&ads.v24=ION%20Plus&ads.n25=channel_language&ads.v25=en&ads.n26=ua&ads.v26=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n27=app_store_url&ads.v27=&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=channel_corp&ads.v29=ION%20Media%20Networks&ads.n30=device_model&ads.v30=&ads.n31=channel_company_id&ads.v31=AMDP500574&ads.n32=pos&ads.v32=midroll&ads.n33=did&ads.v33=&ads.n34=channel_id&ads.v34=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n35=channel_title&ads.v35=ION%20Plus&ads.n36=content_livestream&ads.v36=1&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=channel_brand_id&ads.v39=AMDB013704&ads.n40=content_provider&ads.v40=ion-plus&ads.n41=dnt&ads.v41=&ads.n42=w&ads.v42=1920&ads.n43=device_make&ads.v43=&ads.n44=device_type&ads.v44=&ads.n45=url&ads.v45=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n46=content_type&ads.v46=channel&ads.n47=app_name&ads.v47=&ads.n48=gpp&ads.v48=&ads.n49=app_bundle&ads.v49=&ads.n50=content_producer_name&ads.v50=ION%20Media%20Networks&ads.n51=content_custom_1_param&ads.v51=070DBBBE-4502-42F7-AC75-7F6B08D83FA5&ads.n52=ip&ads.v52=185.217.168.164&ads.n53=gpp_sid&ads.v53=&ads.n54=ifa_type&ads.v54=&ads.n55=network_name&ads.v55=ion-plus&ads.n56=content_custom_2_param&ads.v56=AMDB013704&ads.n57=app_version&ads.v57=0.0.0&ads.n58=cust_devicename&ads.v58=desktop_web
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Very Milwaukee
+https://s4host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/3a3f429e5bc341dfb229735055385e21/master.m3u8?Expires=4854278400&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zeW5kaWNhdGlvbi1hdXNlMS5jZi5jZG4udXBseW5rLmNvbS8zYTNmNDI5ZTViYzM0MWRmYjIyOTczNTA1NTM4NWUyMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjo0ODU0Mjc4NDAwfX19XX0%3D&Signature=Mfh7EGNiKkW4wqTajrYV12feVxlU85gZzCc9mJhQ9C-TcqKwdt6kOStbWnGj%7EoYgQbwvuWOpqhzYcAE6pnIlYm6yaqtXmeP6bYRTPeI5%7Epus3m%7EtXXgr9rlIgDkjyXV3VxRRgroFbhJdkQCrXnXMlc4nj9AMPZ-8cTB6jXYjxn0ij8-svAB0M3Qe4%7E1vw7cEOgJXJ8lw8Eytmhxz-xtbJqFwoyCA4EoZqyXXTtxl-WiqygMlBXFHs0lGF6EecMSltqfRL8Wn1kBjXxNjwkei3FMcizZyb1%7EUFUxgt2NV0x8W3MkwHTchIsaXZNwD3q5ehsmEXL5VQkp3W4qgh43X-Q__&Key-Pair-Id=K1BEGSWP8YSEGF&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&ads.cdnhost=s4host3.localnow.api.cms.amdvids.com&ads.playbackid=ABA82D43-4912-4341-B338-18979105FBFD&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=ABA82D43-4912-4341-B338-18979105FBFD&ads.n4=content_name&ads.v4=EPG%20%7C%20WISN%20Milwaukee%2C%20WI&ads.n21=gpp&ads.v21=&ads.n22=channel_corp&ads.v22=Hearst%20Corporation&ads.n23=channel_company_id&ads.v23=AMDP500425&ads.n24=w&ads.v24=1920&ads.n25=channel_ext_id&ads.v25=630e4c64312c037c780c4cac&ads.n26=cust_devicename&ads.v26=desktop_web&ads.n27=channel_brand_id&ads.v27=AMDB012875&ads.n28=app_store_url&ads.v28=&ads.n29=content_producer_name&ads.v29=Hearst%20Corporation&ads.n30=content_custom_3_param&ads.v30=channel&ads.n31=pos&ads.v31=midroll&ads.n32=gpp_sid&ads.v32=&ads.n33=channel_name&ads.v33=EPG%20%20WISN%20Milwaukee%2C%20WI&ads.n34=channel_genre&ads.v34=News&ads.n35=app_bundle&ads.v35=&ads.n36=channel_rating&ads.v36=TV-PG&ads.n37=h&ads.v37=1080&ads.n38=app_version&ads.v38=0.0.0&ads.n39=network_name&ads.v39=wisn&ads.n40=device_model&ads.v40=&ads.n41=ifa_type&ads.v41=&ads.n42=app_name&ads.v42=&ads.n43=content_provider&ads.v43=wisn&ads.n44=content_livestream&ads.v44=1&ads.n45=ip&ads.v45=185.217.168.164&ads.n46=us_privacy&ads.v46=1YNY&ads.n47=channel_language&ads.v47=en&ads.n48=channel_id&ads.v48=ABA82D43-4912-4341-B338-18979105FBFD&ads.n49=channel_title&ads.v49=EPG%20%20WISN%20Milwaukee%2C%20WI&ads.n50=url&ads.v50=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n51=content_type&ads.v51=channel&ads.n52=content_custom_2_param&ads.v52=AMDB012875&ads.n53=did&ads.v53=&ads.n54=dnt&ads.v54=&ads.n55=device_make&ads.v55=&ads.n56=device_type&ads.v56=&ads.n57=ua&ads.v57=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n58=content_custom_1_param&ads.v58=ABA82D43-4912-4341-B338-18979105FBFD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-17-wand-us.png" tvg-id="WAND-DT.us_locals1",WAND
+https://s6host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config8/v1/fast/wandlocalnow/988b90b3-e592-4b8d-a468-b747b71734c7.m3u8?ads.cdnhost=s6host3.localnow.api.cms.amdvids.com&ads.playbackid=6D934AE3-34D2-40A3-86DD-B5A36A6EB0E3&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6D934AE3-34D2-40A3-86DD-B5A36A6EB0E3&ads.n4=content_name&ads.v4=EPG%20%7C%20WAND%20Decatur%2C%20IL&ads.n21=channel_ext_id&ads.v21=642d8379f13da32b00016ae4&ads.n22=channel_language&ads.v22=en&ads.n23=h&ads.v23=1080&ads.n24=content_livestream&ads.v24=1&ads.n25=us_privacy&ads.v25=1YNY&ads.n26=ifa_type&ads.v26=&ads.n27=dnt&ads.v27=&ads.n28=content_provider&ads.v28=wand&ads.n29=w&ads.v29=1920&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=channel_corp&ads.v31=WDRB%20Media&ads.n32=device_make&ads.v32=&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_title&ads.v34=EPG%20%20WAND%20Decatur%2C%20IL&ads.n35=channel_id&ads.v35=6D934AE3-34D2-40A3-86DD-B5A36A6EB0E3&ads.n36=network_name&ads.v36=wand&ads.n37=content_type&ads.v37=channel&ads.n38=content_producer_name&ads.v38=WDRB%20Media&ads.n39=ua&ads.v39=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n40=app_version&ads.v40=0.0.0&ads.n41=device_type&ads.v41=&ads.n42=content_custom_1_param&ads.v42=6D934AE3-34D2-40A3-86DD-B5A36A6EB0E3&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=channel_brand_id&ads.v44=AMDB013023&ads.n45=gpp&ads.v45=&ads.n46=channel_rating&ads.v46=TV-PG&ads.n47=device_model&ads.v47=&ads.n48=app_store_url&ads.v48=&ads.n49=content_custom_2_param&ads.v49=AMDB013023&ads.n50=channel_company_id&ads.v50=AMDP500434&ads.n51=ip&ads.v51=185.217.168.164&ads.n52=did&ads.v52=&ads.n53=channel_name&ads.v53=EPG%20%20WAND%20Decatur%2C%20IL&ads.n54=pos&ads.v54=midroll&ads.n55=gpp_sid&ads.v55=&ads.n56=app_name&ads.v56=&ads.n57=channel_genre&ads.v57=News&ads.n58=app_bundle&ads.v58=
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5eea605574085f0040ddc782/?X-Plex-Token=1dGCm2bAY23vBhuinfch
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5eea605574085f0040ddc782/?X-Plex-Token=1dGCm2bAY23vBhuinfch
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-id="None",HBO Boxing
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d93d6e8061ebfbca58c328/?X-Plex-Token=1dGCm2bAY23vBhuinfch
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png" tvg-id="ION.Television.HD.us2",ION
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-624c37af6281708eabbbe26b/?X-Plex-Token=1dGCm2bAY23vBhuinfch
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-627e347795b0f50af26d78f9/?X-Plex-Token=1dGCm2bAY23vBhuinfch
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Clásico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Toons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Clássico
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Teen
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Toons
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Teen
+https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Toons
+https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Clásico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Toons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Chip & Jo: Feels Like Home
+https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png" tvg-id="ION.Television.HD.us2",ION
+https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Smithsonian Channel Selects
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",The NBA Channel
+https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Toons
+https://jmp2.uk/stvp-ATAJ7000037N
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://jmp2.uk/stvp-CAAJ2700027GW
+#EXTINF:-1 tvg-logo="None" tvg-id="None",The NBA Channel
+https://jmp2.uk/stvp-CA36000019W
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Toons
+https://jmp2.uk/stvp-DEAJ700002N8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Nickelodeon Toons
+https://jmp2.uk/stvp-CHAJ700003CV
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://jmp2.uk/stvp-USAJ3400012FA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png" tvg-id="ION.Television.HD.us2",ION
+https://jmp2.uk/stvp-USBD300002TU
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+https://jmp2.uk/stvp-USBD300003LK
+#EXTINF:-1 tvg-logo="None" tvg-id="None",The NBA Channel
+https://jmp2.uk/stvp-US3600003R7
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://8944a6c8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0dhbWVTaG93Q2VudHJhbF9ITFM/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=&ads.coppa=0&ads.custom=&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=&ads.us_privacy=1YN-&ads.wurl_channel=416&ads.wurl_name=GameShowCentral
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png" tvg-id="ION.Television.HD.us2",ION
+https://b54ddbfc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0lPTl9ITFM/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=&ads.coppa=0&ads.custom=&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=&ads.us_privacy=1YN-&ads.wurl_channel=1176&ads.wurl_name=ION
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+https://9c428b4b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0lvblBsdXNfSExT/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=&ads.coppa=0&ads.custom=&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=&ads.us_privacy=1YN-&ads.wurl_channel=1037&ads.wurl_name=IonPlus
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Magnolia Selects
+https://amg00308-amg00308c1-amgplt0093.playout.now3.amagi.tv/playlist/amg00308-amg00308c1-amgplt0093/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1788237663&channel_name=Magnolia+Selects&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=IAB1-5&ifa_type=REPLACE_ME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Game Show Central
+https://live-manifest.production-public.tubi.io/live/94afd871-77af-49a7-b040-10b1a9cbcddd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-id="None",HBO Boxing
+https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png" tvg-id="ION.Television.HD.us2",ION
+https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8
+#EXTINF:-1 tvg-logo="None" tvg-id="None",The NBA Channel
+https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-id="None",HBO Boxing
+https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951469&ads.xumo_streamId=99951469&ads.channelId=99951469&ads.channelName=WBDHBOBoxing&ads.caid=WBDHBOBoxing&ads.csid=xumo__WBDHBOBoxing_ssai&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_coppa=0&ads.xumo_contentId=4315&ads.xumo_contentName=WBDHBOBoxing&ads.xumo_providerId=4315&ads.xumo_providerName=WBDHBOBoxing&ads.asnw=&ads.xumo_channelName=WBDHBOBoxing&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads.xumo_platform=&ads.site_id=&ads.appVersion=&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png" tvg-id="ION.Television.HD.us2",ION
+https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951158&ads.xumo_streamId=99951158&ads.channelId=99951158&ads.channelName=ScrippsION&ads.caid=ScrippsION&ads.csid=xumo__ScrippsION_ssai&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_coppa=0&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads.asnw=&ads.xumo_channelName=ScrippsION&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads.xumo_platform=&ads.site_id=&ads.appVersion=&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-logo="None" tvg-id="None",ION Plus
+https://dtqutq7lmcchv.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=&ads._fw_did=&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo__IONPlus_ssai&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=9999614&ads.xumo_platform=&ads.site_id=&ads.appName=xumo&ads.appVersion=&ads._fw_app_bundle=&ads._fw_app_store_url=
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Magnolia Selects
+https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8?is_lat=&us_privacy=
+#EXTINF:-1 tvg-logo="None" tvg-id="None",The NBA Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951383&ads.xumo_streamId=99951383&ads.channelId=99951383&ads.channelName=NBAFASTChannel&ads.caid=NBAFASTChannel&ads.csid=xumo__NBAFASTChannel_ssai&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_coppa=0&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads.asnw=&ads.xumo_channelName=NBAFASTChannel&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads.xumo_platform=&ads.site_id=&ads.appVersion=&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-logo="None" tvg-id="None",Vice Entertainment
+https://dbrb49pjoymg4.cloudfront.net/10001/99951453/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951453&ads.xumo_streamId=99951453&ads.channelId=99951453&ads.channelName=ITVVice&ads.caid=ITVVice&ads.csid=xumo__ITVVice_ssai&ads.genre=Entertainment&ads._fw_content_genre=Entertainment&ads._fw_coppa=0&ads.xumo_contentId=4274&ads.xumo_contentName=ITVVice&ads.xumo_providerId=4274&ads.xumo_providerName=ITVVice&ads.asnw=&ads.xumo_channelName=ITVVice&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads.xumo_platform=&ads.site_id=&ads.appVersion=&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.appName=xumo

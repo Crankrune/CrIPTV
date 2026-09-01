@@ -1,3 +1,5 @@
+from copy import deepcopy
+
 import httpx
 
 from m3u_utils import generate_playlist, parse_playlist
@@ -43,5 +45,36 @@ def generate_drewlive_playlist() -> None:
         if group_title in desired_grous:
             desired_channels.append(channel)
 
-    with open("output/playlists/playlist_drewlive.m3u", "w", encoding="utf-8") as f:
-        f.write(generate_playlist(desired_channels))
+    with open(
+        file="output/playlists/playlist_drewlive.m3u",
+        mode="w",
+        encoding="utf-8",
+    ) as f:
+        f.write(generate_playlist(playlist_data=desired_channels))
+
+
+def generate_ultratv_playlist() -> None:
+    try:
+        playlist: str = httpx.get(drewlive_url).text
+    except httpx.ConnectTimeout:
+        print("DrewLive is currently unresponsive, no playlist generated.")
+        return
+    playlist_data: list[dict] = parse_playlist(playlist_content=playlist)
+
+    desired_channels: list[dict] = []
+
+    for channel in playlist_data:
+        channel_url: str = channel.get("url", "")
+        if "ultratv.one" in channel_url.lower():
+            new_channel: dict = deepcopy(channel)
+            new_channel["group-title"] = "UltraTV One"
+            desired_channels.append(new_channel)
+
+    desired_channels.sort(key=lambda d: d.get("name", "").casefold())
+
+    with open(
+        file="output/playlists/playlist_ultratv.m3u",
+        mode="w",
+        encoding="utf-8",
+    ) as f:
+        f.write(generate_playlist(playlist_data=desired_channels))
