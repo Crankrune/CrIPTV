@@ -63,7 +63,7 @@ https://tv.crankrune.dedyn.io/stream/345.m3u8
 https://tv.crankrune.dedyn.io/stream/748.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" tvg-id="CTV.Two.-.Toronto.ca2",CTV 2
 https://tv.crankrune.dedyn.io/stream/838.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" tvg-id="CTV.Toronto.HD.ca2",CTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" tvg-id="CTV.Vancouver.HD.ca2",CTV
 https://tv.crankrune.dedyn.io/stream/602.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" tvg-id="WPIX-DT.us_locals1",CW PIX 11
 https://tv.crankrune.dedyn.io/stream/280.m3u8
@@ -251,7 +251,7 @@ https://tv.crankrune.dedyn.io/stream/331.m3u8
 https://tv.crankrune.dedyn.io/stream/848.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png" tvg-id="Oxygen.True.Crime.HD.us2",Oxygen
 https://tv.crankrune.dedyn.io/stream/332.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" tvg-id="PBS.Stream.us2",PBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" tvg-id="WNET-DT.us_locals1",PBS
 https://tv.crankrune.dedyn.io/stream/210.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" tvg-id="POP.HD.us2",POP
 https://tv.crankrune.dedyn.io/stream/653.m3u8
