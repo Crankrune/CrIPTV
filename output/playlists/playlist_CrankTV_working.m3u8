@@ -35,6 +35,8 @@ https://tv.crankrune.dedyn.io/stream/357.m3u8
 https://tv.crankrune.dedyn.io/stream/306.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png" tvg-id="Big.Ten.Network.HD.us2",Big Ten Network
 https://tv.crankrune.dedyn.io/stream/397.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-id="Boomerang.us2",Boomerang
+https://tv.crankrune.dedyn.io/stream/648.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" tvg-id="Bravo.HD.us2",Bravo
 https://tv.crankrune.dedyn.io/stream/307.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/c-span-1-us.png" tvg-id="CSPAN.us2",C-SPAN
@@ -81,12 +83,8 @@ https://tv.crankrune.dedyn.io/stream/310.m3u8
 https://tv.crankrune.dedyn.io/stream/696.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png" tvg-id="Cooking.Channel.HD.us2",Cooking Channel
 https://tv.crankrune.dedyn.io/stream/697.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/court-tv-us.png" tvg-id="Court.TV.us2",Court TV
-https://tv.crankrune.dedyn.io/stream/281.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1280px-Crime_%2B_Investigation_Logo_10.2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" tvg-id="Crime.and.Investigation.Network.HD.us2",Crime+ Investigation
 https://tv.crankrune.dedyn.io/stream/669.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png" tvg-id="Destination.America.HD.us2",Destination America
-https://tv.crankrune.dedyn.io/stream/651.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-id="Discovery.Channel.HD.us2",Discovery Channel
 https://tv.crankrune.dedyn.io/stream/313.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" tvg-id="Discovery.Family.Channel.HD.us2",Discovery Family
@@ -157,8 +155,6 @@ https://tv.crankrune.dedyn.io/stream/382.m3u8
 https://tv.crankrune.dedyn.io/stream/296.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" tvg-id="HLN.HD.us2",HLN
 https://tv.crankrune.dedyn.io/stream/323.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/heroes-and-icons-us.png?raw=true" tvg-id="Heroes.and.Icons.Network.SD.us2",Heroes & Icons
-https://tv.crankrune.dedyn.io/stream/282.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" tvg-id="History.HD.us2",History
 https://tv.crankrune.dedyn.io/stream/322.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ifc-us.png" tvg-id="IFC.HD.us2",IFC
@@ -175,6 +171,8 @@ https://tv.crankrune.dedyn.io/stream/389.m3u8
 https://tv.crankrune.dedyn.io/stream/326.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" tvg-id="Logo.us2",Logo
 https://tv.crankrune.dedyn.io/stream/849.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/masn-us.png" tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2",MASN
+https://tv.crankrune.dedyn.io/stream/829.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" tvg-id="Me.TV.Network.us2",MeTV
 https://tv.crankrune.dedyn.io/stream/662.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" tvg-id="MGM+.HD.us2",MGM+
@@ -215,6 +213,8 @@ https://tv.crankrune.dedyn.io/stream/769.m3u8
 https://tv.crankrune.dedyn.io/stream/762.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" tvg-id="NFL.Network.HD.us2",NFL Network
 https://tv.crankrune.dedyn.io/stream/405.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" tvg-id="NHL.Network.HD.us2",NHL Network
+https://tv.crankrune.dedyn.io/stream/663.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" tvg-id="Nickelodeon.HD.us2",Nickelodeon
 https://tv.crankrune.dedyn.io/stream/330.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" tvg-id="Nick.Jr.HD.us2",Nick Jr.
@@ -245,10 +245,10 @@ https://tv.crankrune.dedyn.io/stream/334.m3u8
 https://tv.crankrune.dedyn.io/stream/646.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/reelz-us.png" tvg-id="ReelzChannel.HD.us2",Reelz
 https://tv.crankrune.dedyn.io/stream/293.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png" tvg-id="SEC.Network.HD.us2",SEC Network
-https://tv.crankrune.dedyn.io/stream/385.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" tvg-id="Syfy.HD.us2",Syfy
 https://tv.crankrune.dedyn.io/stream/373.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-icon-shade-us.png?raw=true" tvg-id="Science.Channel.HD.us2",Science Channel
+https://tv.crankrune.dedyn.io/stream/294.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png" tvg-id="Showtime.2.HD.us2",Showtime 2
 https://tv.crankrune.dedyn.io/stream/792.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png" tvg-id="Showtime.Extreme.HD.us2",Showtime Extreme
@@ -273,10 +273,10 @@ https://tv.crankrune.dedyn.io/stream/70.m3u8
 https://tv.crankrune.dedyn.io/stream/449.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png" tvg-id="SkySpMainEvHD.uk",Sky Sports Main Event
 https://tv.crankrune.dedyn.io/stream/38.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" tvg-id="SkySp.News.HD.uk",Sky Sports News
+https://tv.crankrune.dedyn.io/stream/366.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png" tvg-id="SkySp.Racing.HD.uk",Sky Sports Racing
 https://tv.crankrune.dedyn.io/stream/554.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png" tvg-id="SkySp.Tennis.HD.uk",Sky Sports Tennis
-https://tv.crankrune.dedyn.io/stream/46.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-icon-uk.png?raw=true" tvg-id="SkySp+.uk",Sky Sports+
 https://tv.crankrune.dedyn.io/stream/36.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/smithsonian-channel-us.png" tvg-id="Smithsonian.HD.Network.us2",Smithsonian Channel
@@ -289,6 +289,8 @@ https://tv.crankrune.dedyn.io/stream/982.m3u8
 https://tv.crankrune.dedyn.io/stream/759.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsnet-pittsburgh-us.png?raw=true" tvg-id="SportsNet.Pittsburgh.HD.us2",SportsNet Pittsburgh
 https://tv.crankrune.dedyn.io/stream/922.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" tvg-id="Sportsnet.360.HD.ca2",SportsNet 360
+https://tv.crankrune.dedyn.io/stream/409.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" tvg-id="Sportsnet.East.HD.ca2",SportsNet East
 https://tv.crankrune.dedyn.io/stream/408.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" tvg-id="Sportsnet.One.HD.ca2",SportsNet One
