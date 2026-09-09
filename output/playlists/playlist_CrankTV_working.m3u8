@@ -13,8 +13,6 @@ https://tv.crankrune.dedyn.io/stream/206.m3u8
 https://tv.crankrune.dedyn.io/stream/303.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" tvg-id="AXS.TV.us2",AXS TV
 https://tv.crankrune.dedyn.io/stream/742.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" tvg-id="AdultSwim.com.Cartoon.Network.us2",Adult Swim
-https://tv.crankrune.dedyn.io/stream/295.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/altitude-sports-us.png" tvg-id="Altitude.Sports.us2",Altitude Sports
 https://tv.crankrune.dedyn.io/stream/923.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-id="Animal.Planet.HD.us2",Animal Planet
