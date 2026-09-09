@@ -26,27 +26,27 @@
   },
   "CBS 31 (WMBD) Peoria HD US": {
     "cleaned_name": "CBS 31 (WMBD)",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-31-wmbd-us.png",
+    "logo_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/43/WMBD-TV_logo.svg/330px-WMBD-TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "epg_id": "WMBD-DT.us_locals1"
   },
   "CBS": {
-    "cleaned_name": "CBS",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-us.png",
-    "epg_id": "CBS.Streaming.SD.East.feed.us2"
+    "cleaned_name": "CBS News",
+    "logo_url": "https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cbs-news-us.png",
+    "epg_id": "CBS.News.National.Stream.us2"
   },
   "Chip & Jo: Feels Like Home by Magnolia Network": {
     "cleaned_name": "Chip & Jo: Feels Like Home",
-    "logo_url": null,
+    "logo_url": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/68bb16e7f89c82a68bcc4397/colorLogoPNG_1758697632132.png?trim=true",
     "epg_id": null
   },
   "Cinemax 5 StarMax US": {
     "cleaned_name": "Cinemax 5 StarMax",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png",
+    "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/330px-5StarMax_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "epg_id": "5.StarMAX.HD.East.us2"
   },
   "Cinemax ActionMAX US": {
     "cleaned_name": "Cinemax ActionMAX",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-actionmax-us.png",
+    "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/330px-ActionMax_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "epg_id": "ActionMAX.HD.us2"
   },
   "Cinemax Classics US": {
@@ -56,7 +56,7 @@
   },
   "Cinemax East US": {
     "cleaned_name": "Cinemax East",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-east-us.png",
+    "logo_url": "https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cinemax-us.png",
     "epg_id": "Cinemax.HD.us2"
   },
   "Cinemax Hits US": {
@@ -66,7 +66,7 @@
   },
   "Cinemax MoreMAX US": {
     "cleaned_name": "Cinemax MoreMAX",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-moremax-us.png",
+    "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/330px-MoreMax_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "epg_id": "MoreMax.HD.us2"
   },
   "ESPN 2 FHD US": {
@@ -76,13 +76,13 @@
   },
   "ESPN 8: The Ocho": {
     "cleaned_name": "ESPN 8: The Ocho",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-8-the-ocho-us.png",
+    "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/330px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "epg_id": "ESPN8.The.Ocho.us2"
   },
   "ESPN BACKUP US": {
     "cleaned_name": "ESPN Backup",
     "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",
-    "epg_id": null
+    "epg_id": "ESPN.HD.us2"
   },
   "ESPN HD US": {
     "cleaned_name": "ESPN",
@@ -106,12 +106,12 @@
   },
   "FOX 55 (WRSP) Springfield HD US": {
     "cleaned_name": "FOX 55 (WRSP)",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-55-wrsp-us.png",
+    "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-55-27-wrsp-us.png?raw=true",
     "epg_id": "WRSP-DT.us_locals1"
   },
   "FOX 56 (WDKY) Danville HD US": {
     "cleaned_name": "FOX 56 (WDKY)",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-56-wdky-us.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/WDKY-TV_Fox_56_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
     "epg_id": "WDKY-DT.us_locals1"
   },
   "FOX": {
@@ -121,12 +121,12 @@
   },
   "Fox Sports 1 FHD US": {
     "cleaned_name": "Fox Sports 1",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png",
+    "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true",
     "epg_id": "FS1.Fox.Sports.1.HD.us2"
   },
   "Fox Sports 2 FHD US": {
     "cleaned_name": "Fox Sports 2",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs2-us.png",
+    "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",
     "epg_id": "FS2.Fox.Sports.2.HD.us2"
   },
   "FX East US": {
@@ -141,7 +141,7 @@
   },
   "FXM US": {
     "cleaned_name": "FXM",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png",
+    "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",
     "epg_id": "FX.Movie.Channel.HD.us2"
   },
   "FXX US": {
@@ -166,7 +166,7 @@
   },
   "HBO 2 West US": {
     "cleaned_name": "HBO 2 West",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
     "epg_id": "HBO2.HD.(Pacific).us2"
   },
   "HBO Boxing": {
@@ -176,7 +176,7 @@
   },
   "HBO CA": {
     "cleaned_name": "HBO Canada",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/hbo-ca.png",
+    "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/HBO_Canada_logo.svg/960px-HBO_Canada_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "epg_id": "HBO.CA.us2"
   },
   "HBO Comedy US": {
@@ -201,12 +201,12 @@
   },
   "HBO Signature US": {
     "cleaned_name": "HBO Signature",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png",
+    "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/330px-HBO_Signature.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "epg_id": "HBO.Signature.HD.us2"
   },
   "HBO Zone US": {
     "cleaned_name": "HBO Zone",
-    "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png",
+    "logo_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5345539c-4938-45f7-92b4-450da9b53e24/dk6hssh-731cb04a-6449-4271-abc7-b4a1de5641ca.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81MzQ1NTM5Yy00OTM4LTQ1ZjctOTJiNC00NTBkYTliNTNlMjQvZGs2aHNzaC03MzFjYjA0YS02NDQ5LTQyNzEtYWJjNy1iNGExZGU1NjQxY2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KlvuuGA3xvvsIQqc4X3HECmeSbi5_rQmB-nm7tfCla4",
     "epg_id": "HBO.Zone.HD.us2"
   },
   "HGTV East US": {
