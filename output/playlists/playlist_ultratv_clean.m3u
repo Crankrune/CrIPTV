@@ -1,0 +1,343 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+
+#EXTINF:-1 tvg-id="abc.12.wisn.milwaukee.hd.us" tvg-name="ABC 12 (WISN) Milwaukee HD US" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="UltraTV One",ABC 12 (WISN) Milwaukee HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72046.m3u8
+
+#EXTINF:-1 tvg-id="abc.us" tvg-name="ABC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="UltraTV One",ABC US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114276.m3u8
+
+#EXTINF:-1 tvg-id="big.ten.network.fhd.us" tvg-name="Big Ten Network FHD US" tvg-logo="https://logo.m3uassets.com/bigtennetwork.png" group-title="UltraTV One",Big Ten Network FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/11898.m3u8
+
+#EXTINF:-1 tvg-id="big.ten.network.overflow.2.hd.us" tvg-name="Big Ten Network Overflow 2 HD US" tvg-logo="https://logo.m3uassets.com/bigtennetworkoverflow2.png" group-title="UltraTV One",Big Ten Network Overflow 2 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/687681.m3u8
+
+#EXTINF:-1 tvg-id="big.ten.network.overflow.3.hd.us" tvg-name="Big Ten Network Overflow 3 HD US" tvg-logo="https://logo.m3uassets.com/bigtennetworkoverflow3.png" group-title="UltraTV One",Big Ten Network Overflow 3 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/687682.m3u8
+
+#EXTINF:-1 tvg-id="big.ten.network.overflow.4.hd.us" tvg-name="Big Ten Network Overflow 4 HD US" tvg-logo="https://logo.m3uassets.com/bigtennetworkoverflow4.png" group-title="UltraTV One",Big Ten Network Overflow 4 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/687683.m3u8
+
+#EXTINF:-1 tvg-id="cbs.31.wmbd.peoria.hd.us" tvg-name="CBS 31 (WMBD) Peoria HD US" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/05/wmbd-050916.jpg" group-title="UltraTV One",CBS 31 (WMBD) Peoria HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71860.m3u8
+
+#EXTINF:-1 tvg-id="cbs.us" tvg-name="CBS US" tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="UltraTV One",CBS US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114277.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.5.starmax.us" tvg-name="Cinemax 5 StarMax US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/5StarMax_2016.svg/revision/latest?cb=20221123203128" group-title="UltraTV One",Cinemax 5 StarMax US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115894.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.actionmax.us" tvg-name="Cinemax ActionMAX US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/ActionMax_2016.svg/revision/latest?cb=20221123202505" group-title="UltraTV One",Cinemax ActionMAX US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115895.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.classics.us" tvg-name="Cinemax Classics US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Cinemax_Classics_Logo.png" group-title="UltraTV One",Cinemax Classics US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115899.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.east.us" tvg-name="Cinemax East US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest?cb=20171203110447" group-title="UltraTV One",Cinemax East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115896.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.hits.us" tvg-name="Cinemax Hits US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Cinemax_Hits_Logo.png?20250905151502" group-title="UltraTV One",Cinemax Hits US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115900.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.hits.west.us" tvg-name="Cinemax Hits West US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Cinemax_Hits_Logo.png?20250905151502" group-title="UltraTV One",Cinemax Hits West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115901.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.moremax.us" tvg-name="Cinemax MoreMAX US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/More_MAX_2016.svg/revision/latest?cb=20221123201223" group-title="UltraTV One",Cinemax MoreMAX US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115897.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.moremax.west.us" tvg-name="Cinemax MoreMax West US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/More_MAX_2016.svg/revision/latest?cb=20221123201223" group-title="UltraTV One",Cinemax MoreMax West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115898.m3u8
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC US" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/85/06/3785062d-1e97-bfd4-ae3e-25950228ef30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" group-title="UltraTV One",CNBC US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116091.m3u8
+
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="UltraTV One",CNN US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116090.m3u8
+
+#EXTINF:-1 tvg-id="epl.wolverhampton.wanderers" tvg-name="EPL Wolverhampton Wanderers" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/EPL%20/Wolverhampton_Wanderers.png" group-title="UltraTV One",EPL Wolverhampton Wanderers
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1414649.m3u8
+
+#EXTINF:-1 tvg-id="espn.2.fhd.us" tvg-name="ESPN 2 FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="UltraTV One",ESPN 2 FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42910.m3u8
+
+#EXTINF:-1 tvg-id="espn.2.hd.us" tvg-name="ESPN 2 HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="UltraTV One",ESPN 2 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/10881.m3u8
+
+#EXTINF:-1 tvg-id="espn.2.us" tvg-name="ESPN 2 US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="UltraTV One",ESPN 2 US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115984.m3u8
+
+#EXTINF:-1 tvg-id="espn.backup.us" tvg-name="ESPN BACKUP US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="UltraTV One",ESPN BACKUP US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116037.m3u8
+
+#EXTINF:-1 tvg-id="espn.deportes.us" tvg-name="ESPN Deportes US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1920px-ESPN_Deportes.svg.png" group-title="UltraTV One",ESPN Deportes US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116005.m3u8
+
+#EXTINF:-1 tvg-id="espn.fhd.us" tvg-name="ESPN FHD US" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="UltraTV One",ESPN FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42909.m3u8
+
+#EXTINF:-1 tvg-id="espn.hd.us" tvg-name="ESPN HD US" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="UltraTV One",ESPN HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/9660.m3u8
+
+#EXTINF:-1 tvg-id="espn.news.fhd.us" tvg-name="ESPN News FHD US" tvg-logo="https://www.pikpng.com/pngl/m/48-489705_http-espn-news-channel-logo-png-clipart.png" group-title="UltraTV One",ESPN News FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42908.m3u8
+
+#EXTINF:-1 tvg-id="espn.news.hd.us" tvg-name="ESPN News HD US" tvg-logo="https://logo.m3uassets.com/espnnews.png" group-title="UltraTV One",ESPN News HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/11583.m3u8
+
+#EXTINF:-1 tvg-id="espn.sec.network.us" tvg-name="ESPN SEC Network US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/1200px-SEC_Network_%282024%29.svg.png" group-title="UltraTV One",ESPN SEC Network US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116038.m3u8
+
+#EXTINF:-1 tvg-id="espn.u.fhd.us" tvg-name="ESPN U FHD US" tvg-logo="https://logo.m3uassets.com/espnu.png" group-title="UltraTV One",ESPN U FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42907.m3u8
+
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="ESPN U US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="UltraTV One",ESPN U US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115985.m3u8
+
+#EXTINF:-1 tvg-id="food.network.east.us" tvg-name="Food Network East US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/1019px-Food_Network.svg.png" group-title="UltraTV One",Food Network East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114323.m3u8
+
+#EXTINF:-1 tvg-id="food.network.west.us" tvg-name="Food Network West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="UltraTV One",Food Network West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114324.m3u8
+
+#EXTINF:-1 tvg-id="fox.wdky.lexington.hd.us" tvg-name="FOX (WDKY) Lexington HD US" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="UltraTV One",FOX (WDKY) Lexington HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71665.m3u8
+
+#EXTINF:-1 tvg-id="fox.55.wrsp.springfield.hd.us" tvg-name="FOX 55 (WRSP) Springfield HD US" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="UltraTV One",FOX 55 (WRSP) Springfield HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71838.m3u8
+
+#EXTINF:-1 tvg-id="fox.56.wdky.danville.hd.us" tvg-name="FOX 56 (WDKY) Danville HD US" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="UltraTV One",FOX 56 (WDKY) Danville HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71789.m3u8
+
+#EXTINF:-1 tvg-id="fox.news.channel.hd.us" tvg-name="Fox News Channel HD US" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" group-title="UltraTV One",Fox News Channel HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71657.m3u8
+
+#EXTINF:-1 tvg-id="fox.sports.1.fhd.us" tvg-name="Fox Sports 1 FHD US" tvg-logo="https://logo.m3uassets.com/foxsports1.png" group-title="UltraTV One",Fox Sports 1 FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42904.m3u8
+
+#EXTINF:-1 tvg-id="fox.sports.1.hd.us" tvg-name="Fox Sports 1 HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/200px-FoxSports1.png" group-title="UltraTV One",Fox Sports 1 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/8254.m3u8
+
+#EXTINF:-1 tvg-id="fox.sports.2.fhd.us" tvg-name="Fox Sports 2 FHD US" tvg-logo="https://logos.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/fox-us.png" group-title="UltraTV One",Fox Sports 2 FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42903.m3u8
+
+#EXTINF:-1 tvg-id="fox.sports.2.hd.us" tvg-name="Fox Sports 2 HD US" tvg-logo="https://logo.m3uassets.com/foxsports2.png" group-title="UltraTV One",Fox Sports 2 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/8255.m3u8
+
+#EXTINF:-1 tvg-id="fox.us" tvg-name="FOX US" tvg-logo="https://farm8.staticflickr.com/7915/46516027895_d72f7ee41f_n.jpg" group-title="UltraTV One",FOX US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114278.m3u8
+
+#EXTINF:-1 tvg-id="fx.east.us" tvg-name="FX East US" tvg-logo="https://www.watchtheamericans.com/wp-content/uploads/2014/04/731px-FX-logo.svg_.png" group-title="UltraTV One",FX East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115902.m3u8
+
+#EXTINF:-1 tvg-id="fx.west.us" tvg-name="FX West US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Free-speech-tv-logo.svg/revision/latest?cb=20180302065549" group-title="UltraTV One",FX West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114419.m3u8
+
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="FXM US" tvg-logo="https://www.watchtheamericans.com/wp-content/uploads/2014/04/731px-FX-logo.svg_.png" group-title="UltraTV One",FXM US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115903.m3u8
+
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX US" tvg-logo="https://www.watchtheamericans.com/wp-content/uploads/2014/04/731px-FX-logo.svg_.png" group-title="UltraTV One",FXX US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115904.m3u8
+
+#EXTINF:-1 tvg-id="game.show.gsn.us" tvg-name="Game Show GSN US" tvg-logo="https://static01.nyt.com/images/2012/03/21/business/media/gsn-logo-decoder/gsn-logo-decoder-articleInline.jpg" group-title="UltraTV One",Game Show GSN US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114423.m3u8
+
+#EXTINF:-1 tvg-id="hbo.2.east.us" tvg-name="HBO 2 East US" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="UltraTV One",HBO 2 East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115907.m3u8
+
+#EXTINF:-1 tvg-id="hbo.2.west.us" tvg-name="HBO 2 West US" tvg-logo="https://logo.m3uassets.com/hbo2west.png" group-title="UltraTV One",HBO 2 West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115908.m3u8
+
+#EXTINF:-1 tvg-id="hbo.comedy.us" tvg-name="HBO Comedy US" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="UltraTV One",HBO Comedy US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115909.m3u8
+
+#EXTINF:-1 tvg-id="hbo.comedy.west.us" tvg-name="HBO Comedy West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18429_h15_aa.png" group-title="UltraTV One",HBO Comedy West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115910.m3u8
+
+#EXTINF:-1 tvg-id="hbo.drama.east.us" tvg-name="HBO Drama East US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/800px-HBO_Drama_Logo.svg.png" group-title="UltraTV One",HBO Drama East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115911.m3u8
+
+#EXTINF:-1 tvg-id="hbo.drama.west.us" tvg-name="HBO Drama West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/800px-HBO_Drama_Logo.svg.png" group-title="UltraTV One",HBO Drama West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115912.m3u8
+
+#EXTINF:-1 tvg-id="hbo.east.us" tvg-name="HBO East US" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="UltraTV One",HBO East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115906.m3u8
+
+#EXTINF:-1 tvg-id="hbo.latino.us" tvg-name="HBO Latino US" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="UltraTV One",HBO Latino US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115918.m3u8
+
+#EXTINF:-1 tvg-id="hbo.latino.west.us" tvg-name="HBO Latino WEST US" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="UltraTV One",HBO Latino WEST US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115971.m3u8
+
+#EXTINF:-1 tvg-id="hbo.signature.us" tvg-name="HBO Signature US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59363_h15_aa.png" group-title="UltraTV One",HBO Signature US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115913.m3u8
+
+#EXTINF:-1 tvg-id="hbo.signature.west.us" tvg-name="HBO Signature West US" tvg-logo="https://www.pickcinema.com/images/tv/logos/hbosgw.png" group-title="UltraTV One",HBO Signature West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115914.m3u8
+
+#EXTINF:-1 tvg-id="hbo.zone.us" tvg-name="HBO Zone US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" group-title="UltraTV One",HBO Zone US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115915.m3u8
+
+#EXTINF:-1 tvg-id="hbo.zone.west.us" tvg-name="HBO Zone West US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/HBO_Zone-200.png" group-title="UltraTV One",HBO Zone West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115916.m3u8
+
+#EXTINF:-1 tvg-id="hgtv.east.us" tvg-name="HGTV East US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" group-title="UltraTV One",HGTV East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114340.m3u8
+
+#EXTINF:-1 tvg-id="hgtv.west.us" tvg-name="HGTV West US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" group-title="UltraTV One",HGTV West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114341.m3u8
+
+#EXTINF:-1 tvg-id="il.champaign.cbs.3.wcia" tvg-name="IL | Champaign | CBS 3 WCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/WCIA_Logo.png" group-title="UltraTV One",IL | Champaign | CBS 3 WCIA
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71852.m3u8
+
+#EXTINF:-1 tvg-id="il.urbana.champaign.pbs.will" tvg-name="IL | Urbana-Champaign | PBS WILL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1920px-PBS_logo_2019.svg.png" group-title="UltraTV One",IL | Urbana-Champaign | PBS WILL
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1350577.m3u8
+
+#EXTINF:-1 tvg-id="it.s.showtime.at.the.apollo.fhd.us" tvg-name="It’s Showtime at the Apollo FHD US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfafba5c-c253-4d7e-8200-04e7c4dfe587/1500x1000.png" group-title="UltraTV One",It’s Showtime at the Apollo FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1351122.m3u8
+
+#EXTINF:-1 tvg-id="livenow.from.fox.us" tvg-name="LiveNOW from FOX US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fox_TV_Stations_logo.svg/1200px-Fox_TV_Stations_logo.svg.png" group-title="UltraTV One",LiveNOW from FOX US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116123.m3u8
+
+#EXTINF:-1 tvg-id="magnolia.network.us" tvg-name="Magnolia Network US" tvg-logo="http://xplatinmedia.com:8080/images/8bdc0a760490ca729fa9d4711ca70893.png" group-title="UltraTV One",Magnolia Network US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114294.m3u8
+
+#EXTINF:-1 tvg-id="caribbean.and.international.hd.ca2.tvg.name.msnbc.us.tvg.logo.https.media1.s.nbcnews.com.i.newscms.2018.21.2442291.msnbc.og.image.c986de7e1bb6ad2281723b692aa61990.png.group.title.drewlivestreams.msnbc.us" tvg-name="MSNBC US" tvg-logo="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png" group-title="UltraTV One",MSNBC US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116096.m3u8
+
+#EXTINF:-1 tvg-id="nbc.17.wand.decatur.hd.us" tvg-name="NBC 17 (WAND) Decatur HD US" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="UltraTV One",NBC 17 (WAND) Decatur HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72113.m3u8
+
+#EXTINF:-1 tvg-id="nbc.news.now.us" tvg-name="NBC News NOW US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/NBC_News_Now_2023.svg/revision/latest?cb=20250124160436" group-title="UltraTV One",NBC News NOW US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116092.m3u8
+
+#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC US" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/12/nbc-new-logo-2022.jpg" group-title="UltraTV One",NBC US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114279.m3u8
+
+#EXTINF:-1 tvg-id="newsnation.us" tvg-name="NewsNation US" tvg-logo="https://cdn.mos.cms.futurecdn.net/7RkNcznqnBuUAmkomRXkV4-320-75.png" group-title="UltraTV One",NewsNation US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116095.m3u8
+
+#EXTINF:-1 tvg-id="showtime.2.us" tvg-name="Showtime 2 US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" group-title="UltraTV One",Showtime 2 US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115929.m3u8
+
+#EXTINF:-1 tvg-id="showtime.2.west.us" tvg-name="Showtime 2 West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58533_h15_ac.png" group-title="UltraTV One",Showtime 2 West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115930.m3u8
+
+#EXTINF:-1 tvg-id="showtime.extreme.us" tvg-name="Showtime Extreme US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" group-title="UltraTV One",Showtime Extreme US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115931.m3u8
+
+#EXTINF:-1 tvg-id="showtime.extreme.west.us" tvg-name="Showtime Extreme West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" group-title="UltraTV One",Showtime Extreme West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115932.m3u8
+
+#EXTINF:-1 tvg-id="showtime.family.zone.us" tvg-name="Showtime Family Zone US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25274_h15_ac.png" group-title="UltraTV One",Showtime Family Zone US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115933.m3u8
+
+#EXTINF:-1 tvg-id="showtime.family.zone.west.us" tvg-name="Showtime Family Zone West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25274_h15_ac.png" group-title="UltraTV One",Showtime Family Zone West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115934.m3u8
+
+#EXTINF:-1 tvg-id="showtime.next.us" tvg-name="SHOWTIME NEXT US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1200px-Showtime_Next.svg.png" group-title="UltraTV One",SHOWTIME NEXT US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115935.m3u8
+
+#EXTINF:-1 tvg-id="showtime.showcase.uhd.us" tvg-name="Showtime Showcase UHD US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" group-title="UltraTV One",Showtime Showcase UHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115936.m3u8
+
+#EXTINF:-1 tvg-id="showtime.showcase.west.us" tvg-name="Showtime Showcase West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" group-title="UltraTV One",Showtime Showcase West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115937.m3u8
+
+#EXTINF:-1 tvg-id="showtime.women.us" tvg-name="Showtime Women US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1200px-Showtime_Women.svg.png" group-title="UltraTV One",Showtime Women US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115938.m3u8
+
+#EXTINF:-1 tvg-id="showtime.women.west.us" tvg-name="Showtime Women West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/2560px-Showtime_Women.svg.png" group-title="UltraTV One",Showtime Women West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115939.m3u8
+
+#EXTINF:-1 tvg-id="sky.sports.nfl.fhd.uk" tvg-name="Sky Sports NFL FHD UK" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="UltraTV One",Sky Sports NFL FHD UK
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113470.m3u8
+
+#EXTINF:-1 tvg-id="smithsonian.channel.us" tvg-name="Smithsonian Channel US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Smithsonian_Channel_2014.svg/revision/latest?cb=20220411094956" group-title="UltraTV One",Smithsonian Channel US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116264.m3u8
+
+#EXTINF:-1 tvg-id="starz.cinema.us" tvg-name="Starz Cinema US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png" group-title="UltraTV One",Starz Cinema US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115943.m3u8
+
+#EXTINF:-1 tvg-id="starz.cinema.west.us" tvg-name="Starz Cinema West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png" group-title="UltraTV One",Starz Cinema West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115944.m3u8
+
+#EXTINF:-1 tvg-id="starz.comedy.us" tvg-name="Starz Comedy US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/2560px-Starz_Comedy_Logo_2022.svg.png" group-title="UltraTV One",Starz Comedy US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115945.m3u8
+
+#EXTINF:-1 tvg-id="starz.comedy.west.us" tvg-name="Starz Comedy West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/2560px-Starz_Comedy_Logo_2022.svg.png" group-title="UltraTV One",Starz Comedy West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115946.m3u8
+
+#EXTINF:-1 tvg-id="starz.east.us" tvg-name="Starz East US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/2560px-Starz_2022.svg.png" group-title="UltraTV One",Starz East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115963.m3u8
+
+#EXTINF:-1 tvg-id="starz.edge.east.us" tvg-name="Starz Edge East US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png" group-title="UltraTV One",Starz Edge East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115947.m3u8
+
+#EXTINF:-1 tvg-id="starz.edge.west.us" tvg-name="Starz Edge West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/2560px-Starz_Edge_Logo_2022.svg.png" group-title="UltraTV One",Starz Edge West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115948.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.action.us" tvg-name="Starz Encore Action US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore Action US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115949.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.black.us" tvg-name="Starz Encore Black US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/2560px-Starz_Encore_Black_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore Black US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115950.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.classic.us" tvg-name="Starz Encore Classic US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore Classic US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115951.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.classic.west.us" tvg-name="Starz Encore Classic West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore Classic West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115952.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.east.us" tvg-name="Starz Encore East US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115953.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.espa.ol.us" tvg-name="Starz Encore Español US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Espa%C3%B1ol_Logo_2022.svg/2560px-Starz_Encore_Espa%C3%B1ol_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore Español US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115954.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.family.us" tvg-name="Starz Encore Family US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/1200px-Starz_Encore_Family_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore Family US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115955.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.suspense.us" tvg-name="Starz Encore Suspense US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/2560px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore Suspense US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115956.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.west.us" tvg-name="Starz Encore West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115957.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.westerns.us" tvg-name="Starz Encore Westerns US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="UltraTV One",Starz Encore Westerns US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115958.m3u8
+
+#EXTINF:-1 tvg-id="starz.in.black.east.us" tvg-name="Starz in Black East US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="UltraTV One",Starz in Black East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115959.m3u8
+
+#EXTINF:-1 tvg-id="starz.in.black.west.us" tvg-name="Starz in Black West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="UltraTV One",Starz in Black West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115961.m3u8
+
+#EXTINF:-1 tvg-id="starz.kids.family.us" tvg-name="Starz Kids & Family US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/2560px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="UltraTV One",Starz Kids & Family US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115960.m3u8
+
+#EXTINF:-1 tvg-id="starz.kids.family.west.us" tvg-name="Starz Kids & Family West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/2560px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="UltraTV One",Starz Kids & Family West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115962.m3u8
+
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="TBS East US" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="UltraTV One",TBS East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114396.m3u8
+
+#EXTINF:-1 tvg-id="tbs.west.us" tvg-name="TBS West US" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="UltraTV One",TBS West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114397.m3u8
+
+#EXTINF:-1 tvg-id="tnt.sports.us" tvg-name="TNT Sports US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TNT_Sports_2024_vector_logo_black.svg/1920px-TNT_Sports_2024_vector_logo_black.svg.png" group-title="UltraTV One",TNT Sports US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116033.m3u8
+
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT US" tvg-logo="https://i.pinimg.com/originals/4e/d6/a1/4ed6a1e8d124b87726c4b7ce1f57c6ad.png" group-title="UltraTV One",TNT US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114406.m3u8
+
+#EXTINF:-1 tvg-id="tnt.west.us" tvg-name="TNT West US" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/TNT_logo.png" group-title="UltraTV One",TNT West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114407.m3u8
+
+#EXTINF:-1 tvg-id="trutv.east.us" tvg-name="truTV East US" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41nIBBJlSlL.png" group-title="UltraTV One",truTV East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114409.m3u8
+
+#EXTINF:-1 tvg-id="usa.network.us" tvg-name="USA Network US" tvg-logo="https://pbs.twimg.com/profile_images/1604812613/USA_PR_AVATAR.png" group-title="UltraTV One",USA Network US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114413.m3u8
+
+#EXTINF:-1 tvg-id="vice.us" tvg-name="Vice US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1920px-Vice_TV_logo.svg.png" group-title="UltraTV One",Vice US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114415.m3u8

@@ -1,3 +1,4 @@
+import re
 from copy import deepcopy
 
 import httpx
@@ -78,3 +79,41 @@ def generate_ultratv_playlist() -> None:
         encoding="utf-8",
     ) as f:
         f.write(generate_playlist(playlist_data=desired_channels))
+
+
+def generate_ultratv_clean_playlist() -> None:
+    try:
+        playlist: str = httpx.get(drewlive_url).text
+    except httpx.ConnectTimeout:
+        print("DrewLive is currently unresponsive, no playlist generated.")
+        return
+    playlist_data: list[dict] = parse_playlist(playlist_content=playlist)
+
+    desired_channels: list[dict] = []
+
+    tvg_id_str: str = (
+        r"(WRSP|WAND|WCIA|WICD|WICS|WISN|WMBD|WDKY)\.|PBS.WILL|Starz\.|Cinemax\.|Showtime\..*\.us|HBO\..*\.us|ESPN\..*\.us|Fox\.Sports\.[12]|Big\.Ten.*\.us|nbc\.news\.now\.us|nbc\.us|cbs\.us|abc\.us|fox\.us|smithsonian\.channel\.us|magnolia\.network\.us|hgtv\.(east|west)\.us|fx\.(east|west)\.us|fxx\.us|fxm\.us|game\.show\.gsn\.us|food\.network\.(east|west)\.us|newsnation\.us|fox\.news\.channel\.hd\.us|cnn\.us|msnbc\.us|sky.sports.nfl.fhd.uk|tnt\.us|tnt\.west\.us|tnt\.sports\.us|tbs\.(east|west)\.us|trutv\.east\.us|usa\.network\.us|vice\.us"
+    )
+
+    for channel in playlist_data:
+        channel_url: str = channel.get("url", "")
+        channel_id: str = channel.get("tvg-id", "")
+        if not re.search(tvg_id_str, channel_id, flags=re.I):
+            continue
+        if "ultratv.one" in channel_url.lower():
+            new_channel: dict = deepcopy(channel)
+            new_channel["group-title"] = "UltraTV One"
+            desired_channels.append(new_channel)
+
+    desired_channels.sort(key=lambda d: d.get("name", "").casefold())
+
+    with open(
+        file="output/playlists/playlist_ultratv_clean.m3u",
+        mode="w",
+        encoding="utf-8",
+    ) as f:
+        f.write(generate_playlist(playlist_data=desired_channels))
+
+
+if __name__ == "__main__":
+    generate_ultratv_clean_playlist()
