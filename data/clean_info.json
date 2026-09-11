@@ -389,6 +389,36 @@
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-5-wnyw-us.png?raw=true",
         "epg_id": "WNYW-DT.us_locals1"
     },
+    "FOX Sports 502 AU": {
+        "cleaned_name": "FOX Sports 502",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-au.png?raw=true",
+        "epg_id": "FoxLeague.au"
+    },
+    "FOX Sports 503 AU": {
+        "cleaned_name": "FOX Sports 503",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-au.png?raw=true",
+        "epg_id": "FoxSports503.au"
+    },
+    "FOX Sports 504 AU": {
+        "cleaned_name": "FOX Sports 504",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-hd-au.png?raw=true",
+        "epg_id": "FoxFooty.au"
+    },
+    "FOX Sports 505 AU": {
+        "cleaned_name": "FOX Sports 505",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-au.png?raw=true",
+        "epg_id": "FoxSports505.au"
+    },
+    "FOX Sports 506 AU": {
+        "cleaned_name": "FOX Sports 506",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-au.png?raw=true",
+        "epg_id": "FoxSports506.au"
+    },
+    "FOX Sports 507 AU": {
+        "cleaned_name": "FOX Sports 507",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-more-plus-au.png?raw=true",
+        "epg_id": "FoxSportsMore.au"
+    },
     "Freeform": {
         "cleaned_name": "Freeform",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png",
@@ -814,6 +844,86 @@
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true",
         "epg_id": "Showtime.Women.HD.us2"
     },
+    "Sky Atlantic": {
+        "cleaned_name": "Sky Atlantic",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-icon-uk.png?raw=true",
+        "epg_id": "Sky.Atlantic.HD.uk"
+    },
+    "Sky Cinema Action UK": {
+        "cleaned_name": "Sky Cinema Action",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-icon-uk.png?raw=true",
+        "epg_id": "Sky.Action.HD.uk"
+    },
+    "Sky Cinema Comedy UK": {
+        "cleaned_name": "Sky Cinema Comedy",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-icon-uk.png?raw=true",
+        "epg_id": "Sky.Cinema.Comedy.uk"
+    },
+    "Sky Cinema Drama UK": {
+        "cleaned_name": "Sky Cinema Drama",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-icon-uk.png?raw=true",
+        "epg_id": "Sky.Drama.HD.uk"
+    },
+    "Sky Cinema Family UK": {
+        "cleaned_name": "Sky Cinema Family",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-icon-uk.png?raw=true",
+        "epg_id": "Sky.Family.HD.uk"
+    },
+    "Sky Cinema Greats UK": {
+        "cleaned_name": "Sky Cinema Greats",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-icon-uk.png?raw=true",
+        "epg_id": "Sky.Greats.HD.uk"
+    },
+    "Sky Cinema Hits UK": {
+        "cleaned_name": "Sky Cinema Hits",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-icon-uk.png?raw=true",
+        "epg_id": "Sky.Cinema.Hits.HD.uk"
+    },
+    "Sky Cinema Premiere UK": {
+        "cleaned_name": "Sky Cinema Premiere",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true",
+        "epg_id": "SkyPremiereHD.uk"
+    },
+    "Sky Cinema Sci-Fi Horror UK": {
+        "cleaned_name": "Sky Cinema Sci-Fi Horror",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-horror-icon-uk.png?raw=true",
+        "epg_id": "Sky.ScFi/HorHD.uk"
+    },
+    "Sky Cinema Select UK": {
+        "cleaned_name": "Sky Cinema Selects",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-icon-uk.png?raw=true",
+        "epg_id": "Sky.Cinema.Select.uk"
+    },
+    "Sky Cinema Thriller UK": {
+        "cleaned_name": "Sky Cinema Thriller",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-icon-uk.png?raw=true",
+        "epg_id": "Sky.Thriller.HD.uk"
+    },
+    "Sky Comedy UK": {
+        "cleaned_name": "Sky Comedy",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-comedy-icon-uk.png?raw=true",
+        "epg_id": "Sky.Comedy.HD.uk"
+    },
+    "Sky Crime": {
+        "cleaned_name": "Sky Crime",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-icon-uk.png?raw=true",
+        "epg_id": "Sky.Crime.HD.uk"
+    },
+    "Sky MAX UK": {
+        "cleaned_name": "Sky MAX",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-max-icon-uk.png?raw=true",
+        "epg_id": "Sky.Store.Premiere.us"
+    },
+    "Sky NEWS UK": {
+        "cleaned_name": "Sky News",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-news-icon-uk.png?raw=true",
+        "epg_id": "Sky.News.HD.uk"
+    },
+    "Sky Showcase UK": {
+        "cleaned_name": "Sky Showcase",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-showcase-icon-uk.png?raw=true",
+        "epg_id": "Sky.Store.Premiere.us"
+    },
     "Sky Sports Action UK": {
         "cleaned_name": "Sky Sports Action",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png",
@@ -828,6 +938,11 @@
         "cleaned_name": "Sky Sports F1",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",
         "epg_id": "SkySp.F1.HD.uk"
+    },
+    "Sky Sports Football UK": {
+        "cleaned_name": "Sky Sports Football",
+        "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true",
+        "epg_id": "SkySp.Fball.HD.uk"
     },
     "Sky Sports Golf UK": {
         "cleaned_name": "Sky Sports Golf",
