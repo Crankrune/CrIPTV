@@ -359,17 +359,22 @@
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fetv-us.png?raw=true",
         "epg_id": "Family.Entertainment.Television.us2"
     },
+    "Fox News": {
+        "cleaned_name": "Fox News",
+        "logo_url": "https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fox-news-framed-us.png",
+        "epg_id": "Fox.News.Channel.HD.us2"
+    },
     "FOX Soccer Plus": {
         "cleaned_name": "FOX Soccer Plus",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png",
         "epg_id": "Fox.Soccer.Plus.HD.us2"
     },
-    "FOX Sports 1 USA": {
+    "Fox Sports 1 USA": {
         "cleaned_name": "FS1",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png",
         "epg_id": "FS1.Fox.Sports.1.HD.us2"
     },
-    "FOX Sports 2 USA": {
+    "Fox Sports 2 USA": {
         "cleaned_name": "FS2",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs2-us.png",
         "epg_id": "FS2.Fox.Sports.2.HD.us2"
@@ -379,7 +384,7 @@
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",
         "epg_id": "WSVN-DT.us_locals1"
     },
-    "FOX Weather Channel": {
+    "Fox Weather Channel": {
         "cleaned_name": "FOX Weather",
         "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-weather-us.png",
         "epg_id": "Fox.Weather.us"
