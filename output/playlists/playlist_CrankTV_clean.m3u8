@@ -121,6 +121,18 @@ https://tv.crankrune.dedyn.io/stream/288.m3u8
 https://tv.crankrune.dedyn.io/stream/751.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" tvg-id="Fox.Soccer.Plus.HD.us2",FOX Soccer Plus
 https://tv.crankrune.dedyn.io/stream/756.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-au.png?raw=true" tvg-id="FoxLeague.au",FOX Sports 502
+https://tv.crankrune.dedyn.io/stream/820.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-au.png?raw=true" tvg-id="FoxSports503.au",FOX Sports 503
+https://tv.crankrune.dedyn.io/stream/821.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-hd-au.png?raw=true" tvg-id="FoxFooty.au",FOX Sports 504
+https://tv.crankrune.dedyn.io/stream/822.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-au.png?raw=true" tvg-id="FoxSports505.au",FOX Sports 505
+https://tv.crankrune.dedyn.io/stream/823.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-au.png?raw=true" tvg-id="FoxSports506.au",FOX Sports 506
+https://tv.crankrune.dedyn.io/stream/824.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-more-plus-au.png?raw=true" tvg-id="FoxSportsMore.au",FOX Sports 507
+https://tv.crankrune.dedyn.io/stream/825.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-id="WSVN-DT.us_locals1",FOX
 https://tv.crankrune.dedyn.io/stream/54.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-5-wnyw-us.png?raw=true" tvg-id="WNYW-DT.us_locals1",FOX New York
@@ -281,12 +293,46 @@ https://tv.crankrune.dedyn.io/stream/793.m3u8
 https://tv.crankrune.dedyn.io/stream/333.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-id="Showtime.Women.HD.us2",Showtime Women
 https://tv.crankrune.dedyn.io/stream/797.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-icon-uk.png?raw=true" tvg-id="Sky.Atlantic.HD.uk",Sky Atlantic
+https://tv.crankrune.dedyn.io/stream/362.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-icon-uk.png?raw=true" tvg-id="Sky.Action.HD.uk",Sky Cinema Action
+https://tv.crankrune.dedyn.io/stream/677.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-icon-uk.png?raw=true" tvg-id="Sky.Cinema.Comedy.uk",Sky Cinema Comedy
+https://tv.crankrune.dedyn.io/stream/678.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-icon-uk.png?raw=true" tvg-id="Sky.Drama.HD.uk",Sky Cinema Drama
+https://tv.crankrune.dedyn.io/stream/680.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-icon-uk.png?raw=true" tvg-id="Sky.Family.HD.uk",Sky Cinema Family
+https://tv.crankrune.dedyn.io/stream/676.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-icon-uk.png?raw=true" tvg-id="Sky.Greats.HD.uk",Sky Cinema Greats
+https://tv.crankrune.dedyn.io/stream/674.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-icon-uk.png?raw=true" tvg-id="Sky.Cinema.Hits.HD.uk",Sky Cinema Hits
+https://tv.crankrune.dedyn.io/stream/673.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true" tvg-id="SkyPremiereHD.uk",Sky Cinema Premiere
+https://tv.crankrune.dedyn.io/stream/671.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-horror-icon-uk.png?raw=true" tvg-id="Sky.ScFi/HorHD.uk",Sky Cinema Sci-Fi Horror
+https://tv.crankrune.dedyn.io/stream/681.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-icon-uk.png?raw=true" tvg-id="Sky.Cinema.Select.uk",Sky Cinema Selects
+https://tv.crankrune.dedyn.io/stream/672.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-icon-uk.png?raw=true" tvg-id="Sky.Thriller.HD.uk",Sky Cinema Thriller
+https://tv.crankrune.dedyn.io/stream/679.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-comedy-icon-uk.png?raw=true" tvg-id="Sky.Comedy.HD.uk",Sky Comedy
+https://tv.crankrune.dedyn.io/stream/684.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-icon-uk.png?raw=true" tvg-id="Sky.Crime.HD.uk",Sky Crime
+https://tv.crankrune.dedyn.io/stream/685.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-max-icon-uk.png?raw=true" tvg-id="Sky.Store.Premiere.us",Sky MAX
+https://tv.crankrune.dedyn.io/stream/708.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-news-icon-uk.png?raw=true" tvg-id="Sky.News.HD.uk",Sky News
+https://tv.crankrune.dedyn.io/stream/695.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-showcase-icon-uk.png?raw=true" tvg-id="Sky.Store.Premiere.us",Sky Showcase
+https://tv.crankrune.dedyn.io/stream/682.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" tvg-id="SkySp.ActionHD.uk",Sky Sports Action
 https://tv.crankrune.dedyn.io/stream/37.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png" tvg-id="SkySp.Cricket.HD.uk",Sky Sports Cricket
 https://tv.crankrune.dedyn.io/stream/65.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" tvg-id="SkySp.F1.HD.uk",Sky Sports F1
 https://tv.crankrune.dedyn.io/stream/60.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" tvg-id="SkySp.Fball.HD.uk",Sky Sports Football
+https://tv.crankrune.dedyn.io/stream/35.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" tvg-id="SkySp.Golf.HD.uk",Sky Sports Golf
 https://tv.crankrune.dedyn.io/stream/70.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" tvg-id="SkySp.Mix.HD.uk",Sky Sports Mix
