@@ -1092,27 +1092,27 @@
     "TSN1": {
         "cleaned_name": "TSN 1",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true",
-        "epg_id": "TSN.1.ca2"
+        "epg_id": "TSN.HD.ca2"
     },
     "TSN2": {
         "cleaned_name": "TSN 2",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true",
-        "epg_id": "TSN.2.ca2"
+        "epg_id": "TSN.2.HD.ca2"
     },
     "TSN3": {
         "cleaned_name": "TSN 3",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true",
-        "epg_id": "TSN.3.ca2"
+        "epg_id": "TSN.3.HD.ca2"
     },
     "TSN4": {
         "cleaned_name": "TSN 4",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true",
-        "epg_id": "TSN.4.ca2"
+        "epg_id": "TSN.4.HD.ca2"
     },
     "TSN5": {
         "cleaned_name": "TSN 5",
         "logo_url": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true",
-        "epg_id": "TSN.5.ca2"
+        "epg_id": "TSN.5.HD.ca2"
     },
     "TVA Sports": {
         "cleaned_name": "TVA Sports",
