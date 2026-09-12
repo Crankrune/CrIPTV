@@ -233,6 +233,8 @@ https://tv.crankrune.dedyn.io/stream/277.m3u8
 https://tv.crankrune.dedyn.io/stream/769.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-us.png" tvg-id="New.England.Sports.Network.HD.us2",NESN
 https://tv.crankrune.dedyn.io/stream/762.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" tvg-id="NFL.Network.HD.us2",NFL Network
+https://tv.crankrune.dedyn.io/stream/405.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" tvg-id="NFL.RedZone.HD.us2",NFL RedZone
 https://tv.crankrune.dedyn.io/stream/667.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" tvg-id="NHL.Network.HD.us2",NHL Network
@@ -259,8 +261,6 @@ https://tv.crankrune.dedyn.io/stream/331.m3u8
 https://tv.crankrune.dedyn.io/stream/848.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png" tvg-id="Oxygen.True.Crime.HD.us2",Oxygen
 https://tv.crankrune.dedyn.io/stream/332.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" tvg-id="WNET-DT.us_locals1",PBS
-https://tv.crankrune.dedyn.io/stream/210.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" tvg-id="POP.HD.us2",POP
 https://tv.crankrune.dedyn.io/stream/653.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" tvg-id="Paramount.Network.HD.us2",Paramount Network
@@ -277,8 +277,6 @@ https://tv.crankrune.dedyn.io/stream/373.m3u8
 https://tv.crankrune.dedyn.io/stream/294.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png" tvg-id="Showtime.2.HD.us2",Showtime 2
 https://tv.crankrune.dedyn.io/stream/792.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png" tvg-id="Showtime.Extreme.HD.us2",Showtime Extreme
-https://tv.crankrune.dedyn.io/stream/794.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" tvg-id="Showtime.Familyzone.HD.us2",Showtime Family Zone
 https://tv.crankrune.dedyn.io/stream/795.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png" tvg-id="Showtime.Showcase.HD.us2",Showtime Showcase
