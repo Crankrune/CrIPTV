@@ -4331,7 +4331,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": false
+    "working": true
   },
   {
     "tvg-id": "The.Weather.Channel.HD.us2",
