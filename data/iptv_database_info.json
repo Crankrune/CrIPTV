@@ -2780,7 +2780,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "NFL.Network.HD.us2",
