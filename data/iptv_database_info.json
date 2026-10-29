@@ -1886,7 +1886,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "plex.tv.Ion.Mystery.plex",
@@ -1901,7 +1901,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "e0c3a43132e99f2188f63d4b3d95b9ac",
@@ -2775,8 +2775,8 @@
     "name": "NFL Channel",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6",
     "commented_urls": [],
-    "width": 1216,
-    "height": 684,
+    "width": 854,
+    "height": 480,
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
@@ -3997,7 +3997,7 @@
     "fps": 30.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "TNT.HD.us2",
