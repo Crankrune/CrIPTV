@@ -105,7 +105,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "AMC.HD.us2",
@@ -2610,8 +2610,8 @@
     "name": "Newsmax 2",
     "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
