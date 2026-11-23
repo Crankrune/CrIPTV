@@ -60,7 +60,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Adult.Swim.ca2",
@@ -75,7 +75,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "plex.tv.Always.Funny.plex",
@@ -100,8 +100,8 @@
     "name": "Al Jazeera English",
     "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8#385214819c093313b7590321ed6470bdd38ec896a45ff88a8ffac4baf94ed098",
     "commented_urls": [],
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
@@ -549,7 +549,7 @@
     "fps": 29.97,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "CBS.News.National.Stream.us2",
@@ -956,7 +956,7 @@
     "fps": 25.0,
     "codec": "h264",
     "bitrate": null,
-    "working": true
+    "working": false
   },
   {
     "tvg-id": "Destination.America.HD.us2",
